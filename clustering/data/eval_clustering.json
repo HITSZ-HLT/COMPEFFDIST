@@ -1,0 +1,665 @@
+﻿{
+    "inconsistent_eval": {
+        "record": [
+            [
+                "cluster_id: 88",
+                [
+                    "  1. resilience|(199)  韧性",
+                    "  2. durability|(152)  耐用性",
+                    "  3. memorability|(96)  记忆度",
+                    "  4. durability concerns|(87)  耐用性担忧",
+                    "  5. durability concern|(55)  耐用性关注",
+                    "  6. product durability|(47)  产品耐用性",
+                    "  7. durability expectation|(42)  耐久性期望",
+                    "  8. perseverance|(34)  毅力",
+                    "  9. longevity|(23)  使用寿命"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 191",
+                [
+                    "  1. food presentation|(67)  食品呈现",
+                    "  2. highlight of the meal|(47)  餐点亮点",
+                    "  3. food enjoyment|(21)  食品享受"
+                ],
+                "簇内是否存在不一致的属性：y"
+            ],
+            [
+                "cluster_id: 113",
+                [
+                    "  1. intent|(209)  意图",
+                    "  2. purpose|(117)  目的",
+                    "  3. revisit intention|(75)  重访意向",
+                    "  4. proactivity|(54)  主动性",
+                    "  5. revisit intent|(35)  重访意图",
+                    "  6. mocking intent|(22)  嘲笑意图"
+                ],
+                "簇内是否存在不一致的属性：y"
+            ],
+            [
+                "cluster_id: 77",
+                [
+                    "  1. fandom|(124)  粉丝圈",
+                    "  2. pop culture reference|(22)  流行文化参考"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 59",
+                [
+                    "  1. curiosity|(249)  好奇心",
+                    "  2. curiosity level|(70)  好奇心水平",
+                    "  3. investigative|(34)  调查性的",
+                    "  4. mystery|(34)  神秘",
+                    "  5. inquisitiveness|(32)  好奇心",
+                    "  6. questioning|(31)  质疑",
+                    "  7. intellectual curiosity|(27)  求知欲",
+                    "  8. discovery|(26)  发现",
+                    "  9. intrigue|(25)  阴谋"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 124",
+                [
+                    "  1. brand loyalty|(268)  品牌忠诚度",
+                    "  2. customer loyalty|(60)  客户忠诚度",
+                    "  3. product loyalty|(53)  产品忠诚度",
+                    "  4. loyalty impact|(45)  忠诚度影响",
+                    "  5. fan loyalty|(40)  粉丝忠诚度",
+                    "  6. team loyalty|(29)  团队忠诚"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 85",
+                [
+                    "  1. humor|(1318)  幽默",
+                    "  2. humor appreciation|(326)  幽默欣赏",
+                    "  3. lightheartedness|(215)  轻松愉快",
+                    "  4. sense of humor|(86)  幽默感",
+                    "  5. humor level|(79)  幽默水平",
+                    "  6. tone of humor|(75)  幽默的语气",
+                    "  7. humor style|(60)  幽默风格",
+                    "  8. humor type|(49)  幽默类型",
+                    "  9. dark humor|(31)  黑色幽默",
+                    "  10. humor perception|(31)  幽默感"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 29",
+                [
+                    "  1. overall sentiment|(6362)  整体情绪",
+                    "  2. overall rating|(64)  总体评分"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 75",
+                [
+                    "  1. defensiveness|(766)  防御性"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 196",
+                [
+                    "  1. personal connection|(639)  个人联系",
+                    "  2. personal involvement|(148)  个人参与",
+                    "  3. personal growth|(136)  个人成长",
+                    "  4. familiarity|(80)  熟悉度",
+                    "  5. personal investment|(72)  个人投入",
+                    "  6. personal reflection|(26)  个人反思"
+                ],
+                "簇内是否存在不一致的属性：y"
+            ],
+            [
+                "cluster_id: 133",
+                [
+                    "  1. customer service|(98)  客户服务",
+                    "  2. customer service experience|(51)  客户服务体验",
+                    "  3. customer service sentiment|(47)  客户服务情绪",
+                    "  4. customer service satisfaction|(42)  客户服务满意度",
+                    "  5. customer frustration|(40)  客户挫折感",
+                    "  6. customer support|(28)  客户支持",
+                    "  7. customer support experience|(26)  客户支持体验",
+                    "  8. customer service expectation|(24)  客户服务期望"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 0",
+                [
+                    "  1. emotional trigger|(86)  情感触发",
+                    "  2. emotional impact|(53)  情感影响",
+                    "  3. emotional support|(51)  情感支持",
+                    "  4. emotional triggers|(45)  情感触发点",
+                    "  5. emotional shift|(22)  情感转变"
+                ],
+                "簇内是否存在不一致的属性：y"
+            ],
+            [
+                "cluster_id: 155",
+                [
+                    "  1. sentimental value|(205)  情感价值",
+                    "  2. inspirational|(101)  鼓舞人心的",
+                    "  3. inspirational value|(82)  启发价值",
+                    "  4. inspiration|(37)  灵感",
+                    "  5. motivational|(31)  激励性"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 18",
+                [
+                    "  1. sense of helplessness|(257)  无助感",
+                    "  2. helplessness|(181)  无助感",
+                    "  3. sense of responsibility|(95)  责任感",
+                    "  4. sense of hopelessness|(57)  绝望感",
+                    "  5. sense of loss|(53)  失落感",
+                    "  6. sense of powerlessness|(31)  无力感"
+                ],
+                "簇内是否存在不一致的属性：y"
+            ],
+            [
+                "cluster_id: 122",
+                [
+                    "  1. sense of betrayal|(326)  背叛感",
+                    "  2. sense of isolation|(25)  孤立感"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 177",
+                [
+                    "  1. likelihood to return|(142)  返回可能性",
+                    "  2. likelihood of return|(119)  返回可能性",
+                    "  3. frequency of visits|(21)  访问频率"
+                ],
+                "簇内是否存在不一致的属性：y"
+            ],
+            [
+                "cluster_id: 178",
+                [
+                    "  1. tone of criticism|(540)  批评语气",
+                    "  2. tone of frustration|(169)  沮丧语气",
+                    "  3. tone of complaint|(81)  抱怨的语气",
+                    "  4. tone of accusation|(73)  指责的语气",
+                    "  5. noise level|(63)  噪音水平",
+                    "  6. accusatory tone|(50)  指责语气",
+                    "  7. criticism tone|(42)  批评语气",
+                    "  8. tone of exasperation|(41)  愤怒的语气",
+                    "  9. tone of defiance|(30)  挑衅的语气",
+                    "  10. tone of disapproval|(26)  不赞成的语气",
+                    "  11. tone of protest|(23)  抗议的语气"
+                ],
+                "簇内是否存在不一致的属性：y"
+            ],
+            [
+                "cluster_id: 30",
+                [
+                    "  1. food quality sentiment|(183)  食品质量情感",
+                    "  2. food quality expectation|(177)  食品质量期望",
+                    "  3. quality expectation|(85)  质量期望",
+                    "  4. product quality expectation|(21)  产品质量预期"
+                ],
+                "簇内是否存在不一致的属性：y"
+            ],
+            [
+                "cluster_id: 53",
+                [
+                    "  1. trust|(513)  信任",
+                    "  2. trust level|(340)  信任水平",
+                    "  3. trustworthiness|(235)  可信度",
+                    "  4. trust in brand|(94)  品牌信任",
+                    "  5. trust in institutions|(79)  对机构的信任",
+                    "  6. agreement|(61)  同意",
+                    "  7. lack of trust|(47)  缺乏信任",
+                    "  8. trust in seller|(37)  对卖家的信任",
+                    "  9. mistrust|(28)  不信任",
+                    "  10. trust in company|(26)  对公司信任",
+                    "  11. trust indicator|(23)  信任指标"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ],
+            [
+                "cluster_id: 28",
+                [
+                    "  1. frustration level|(3544)  挫折感",
+                    "  2. frustration|(1803)  挫折",
+                    "  3. level of frustration|(138)  沮丧程度",
+                    "  4. author's frustration|(43)  作者的挫败感",
+                    "  5. frustration with plot|(32)  对剧情的挫败感",
+                    "  6. pain level|(28)  痛苦程度",
+                    "  7. frustration trigger|(23)  挫败感触发",
+                    "  8. frustration intensity|(21)  挫败感强度"
+                ],
+                "簇内是否存在不一致的属性：n"
+            ]
+        ],
+        "inconsistent_count": 8,
+        "total_count": 20
+    },
+    "indifference_eval": {
+        "record": [
+            [
+                "cluster_id: 141",
+                [
+                    "  1. mocking|(115)  嘲弄",
+                    "  2. offensiveness|(91)  冒犯性",
+                    "  3. profanity|(77)  亵渎",
+                    "  4. insulting language|(73)  侮辱性语言",
+                    "  5. pejorative language|(36)  贬义语言",
+                    "  6. disrespect|(27)  不尊重",
+                    "  7. sexism|(24)  性别歧视",
+                    "  8. mocking language|(23)  嘲笑语言",
+                    "其他簇的属性：",
+                    "  - mocking intent|(22)  嘲笑意图",
+                    "  - trolling|(75)  挑衅",
+                    "  - teasing|(38)  戏弄",
+                    "  - questioning|(31)  质疑",
+                    "  - self-promotion|(32)  自我推销",
+                    "  - mocking intent|(22)  嘲笑意图",
+                    "  - repeatability|(27)  可重复性",
+                    "  - aesthetic appeal|(194)  审美吸引力",
+                    "  - opinionatedness|(241)  固执己见"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 104",
+                [
+                    "  1. confidence level|(314)  置信水平",
+                    "  2. level of certainty|(38)  确定性程度",
+                    "其他簇的属性：",
+                    "  - optimism level|(109)  乐观程度",
+                    "  - fear level|(53)  恐惧程度",
+                    "  - confidence|(807)  信心",
+                    "  - tolerance level|(36)  容忍水平",
+                    "  - lack of confidence|(22)  缺乏信心",
+                    "  - violence level|(33)  暴力级别",
+                    "  - target audience|(69)  目标受众",
+                    "  - perceived respect|(28)  感知到的尊重",
+                    "  - positivity|(135)  积极性"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 71",
+                [
+                    "  1. nostalgia|(2255)  怀旧",
+                    "  2. nostalgia level|(148)  怀旧程度",
+                    "  3. timelessness|(83)  永恒",
+                    "  4. longing|(42)  渴望",
+                    "  5. wistfulness|(39)  怀旧",
+                    "  6. nostalgia sentiment|(36)  怀旧情",
+                    "其他簇的属性：",
+                    "  - sentimental attachment|(33)  情感依恋",
+                    "  - sensuality|(22)  性感度",
+                    "  - ease of installation|(34)  安装便捷性",
+                    "  - slang|(22)  俚语",
+                    "  - flexibility|(118)  灵活性",
+                    "  - pain level|(28)  痛苦程度",
+                    "  - personal investment|(72)  个人投入"
+                ],
+                "簇外是否存在一致的属性：n"
+            ],
+            [
+                "cluster_id: 47",
+                [
+                    "  1. community engagement|(55)  社区参与",
+                    "  2. community focus|(52)  社区焦点",
+                    "  3. community-oriented|(46)  社区导向",
+                    "  4. community involvement|(33)  社区参与",
+                    "  5. community affiliation|(24)  社区归属感",
+                    "其他簇的属性：",
+                    "  - community spirit|(39)  社区精神",
+                    "  - social engagement|(111)  社会参与",
+                    "  - engagement|(681)  参与度",
+                    "  - story engagement|(45)  故事参与度",
+                    "  - engagement level|(397)  参与度",
+                    "  - team spirit|(28)  团队精神",
+                    "  - intellectual stimulation|(46)  智力刺激",
+                    "  - staff attitude|(88)  员工态度"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 173",
+                [
+                    "  1. respect|(565)  尊重",
+                    "  2. solidarity|(98)  团结",
+                    "  3. tribute|(45)  致敬",
+                    "  4. respect for the subject|(43)  对主题的尊重",
+                    "  5. humility|(41)  谦逊",
+                    "  6. respect for tradition|(29)  尊重传统",
+                    "  7. respect for the creator|(25)  对创作者的尊重",
+                    "  8. respect for the author|(23)  对作者的尊重",
+                    "  9. respect for original work|(23)  对原著的尊重",
+                    "  10. respect for the audience|(23)  对观众的尊重",
+                    "  11. respect for craftsmanship|(22)  对工艺的尊重",
+                    "其他簇的属性：",
+                    "  - respectfulness|(699)  尊重程度",
+                    "  - respect level|(561)  尊重程度",
+                    "  - perceived respect|(28)  感知到的尊重",
+                    "  - respectfulness|(699)  尊重程度",
+                    "  - personal preference|(85)  个人偏好",
+                    "  - desire for resolution|(24)  解决愿望",
+                    "  - emotional release|(23)  情感释放"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 114",
+                [
+                    "  1. hashtags|(124)  标签",
+                    "  2. hashtag activism|(107)  标签行动主义",
+                    "  3. social movement affiliation|(88)  社会运动归属感",
+                    "  4. hashtag sentiment|(33)  标签情感",
+                    "其他簇的属性：",
+                    "  - social media engagement|(60)  社交媒体参与度",
+                    "  - social|(50)  社交",
+                    "  - slogans|(24)  口号",
+                    "  - level of enthusiasm|(85)  热情程度",
+                    "  - enthusiasm|(800)  热情",
+                    "  - slang|(22)  俚语",
+                    "  - irony|(563)  讽刺",
+                    "  - hashtag activism|(107)  标签行动主义",
+                    "  - inspirational|(101)  鼓舞人心的"
+                ],
+                "簇外是否存在一致的属性：n"
+            ],
+            [
+                "cluster_id: 150",
+                [
+                    "  1. transparency|(149)  透明度",
+                    "  2. accountability|(47)  责任感",
+                    "其他簇的属性：",
+                    "  - objectivity|(841)  客观性",
+                    "  - reflective|(26)  反思的",
+                    "  - honesty|(74)  诚实",
+                    "  - patience|(48)  耐心",
+                    "  - trust|(513)  信任",
+                    "  - pride|(73)  自豪",
+                    "  - perceived incompetence|(55)  感知无能",
+                    "  - accusatory tone|(50)  指责语气",
+                    "  - social aspect|(41)  社交方面"
+                ],
+                "簇外是否存在一致的属性：n"
+            ],
+            [
+                "cluster_id: 12",
+                [
+                    "  1. satisfaction level|(641)  满意度水平",
+                    "  2. comfort level|(141)  舒适度",
+                    "其他簇的属性：",
+                    "  - satisfaction with service|(79)  服务满意度",
+                    "  - price satisfaction|(134)  价格满意度",
+                    "  - performance satisfaction|(23)  性能满意度",
+                    "  - price satisfaction|(134)  价格满意度",
+                    "  - feature satisfaction|(52)  功能满意度",
+                    "  - irony level|(63)  讽刺程度",
+                    "  - practicality|(358)  实用性",
+                    "  - specificity of criticism|(54)  批评的具体性",
+                    "  - uniqueness|(131)  独特性"
+                ],
+                "簇外是否存在一致的属性：n"
+            ],
+            [
+                "cluster_id: 152",
+                [
+                    "  1. author's attitude|(387)  作者态度",
+                    "  2. author's personality|(57)  作者的个性",
+                    "  3. author's passion|(26)  作者的激情",
+                    "  4. personality|(22)  个性",
+                    "其他簇的属性：",
+                    "  - author's enthusiasm|(26)  作者的热情",
+                    "  - reviewer's attitude|(35)  评论者态度",
+                    "  - author's perspective|(85)  作者的视角",
+                    "  - gratitude|(662)  感激",
+                    "  - reviewer's attitude|(35)  评论者态度",
+                    "  - staff attitude|(88)  员工态度",
+                    "  - respect for the creator|(25)  对创作者的尊重",
+                    "  - persuasiveness|(178)  说服力",
+                    "  - perceived competence|(74)  感知能力"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 159",
+                [
+                    "  1. tolerance|(175)  容忍度",
+                    "  2. frustration tolerance|(56)  挫折容忍度",
+                    "  3. criticism tolerance|(46)  批评容忍度",
+                    "  4. tolerance for flaws|(38)  对缺陷的容忍度",
+                    "  5. tolerance level|(36)  容忍水平",
+                    "  6. violence tolerance|(36)  暴力容忍度",
+                    "  7. crowd tolerance|(36)  人群容忍度",
+                    "  8. risk tolerance|(33)  风险容忍度",
+                    "  9. spice tolerance|(30)  辛辣容忍度",
+                    "  10. tolerance for imperfections|(24)  对不完美的容忍度",
+                    "  11. gore tolerance|(24)  血腥容忍度",
+                    "  12. problem tolerance|(21)  问题容忍度",
+                    "  13. noise tolerance|(21)  噪音容忍度",
+                    "  14. wait time tolerance|(21)  等待时间容忍度",
+                    "其他簇的属性：",
+                    "  - respectfulness|(699)  尊重程度",
+                    "  - respect for the subject|(43)  对主题的尊重",
+                    "  - fan loyalty|(40)  粉丝忠诚度"
+                ],
+                "簇外是否存在一致的属性：n"
+            ],
+            [
+                "cluster_id: 157",
+                [
+                    "  1. recommendation|(3356)  推荐",
+                    "  2. product recommendation|(62)  产品推荐",
+                    "  3. personal recommendation|(40)  个人推荐",
+                    "  4. overall recommendation|(23)  总体推荐",
+                    "其他簇的属性：",
+                    "  - tone of recommendation|(51)  推荐语气",
+                    "  - recommendation strength|(659)  推荐强度",
+                    "  - likelihood to recommend|(147)  推荐可能性",
+                    "  - recommendation strength|(659)  推荐强度",
+                    "  - recommendation likelihood|(123)  推荐可能性",
+                    "  - confidence in recommendation|(54)  推荐信心",
+                    "  - argumentativeness|(150)  好辩性",
+                    "  - proactivity|(54)  主动性",
+                    "  - lack of objectivity|(61)  缺乏客观性"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 17",
+                [
+                    "  1. menu variety|(94)  菜单多样性",
+                    "  2. food variety|(51)  食品多样性",
+                    "  3. product versatility|(36)  产品多功能性",
+                    "  4. repetition|(36)  重复",
+                    "  5. product variety|(24)  产品多样性",
+                    "  6. variety appreciation|(22)  多样性欣赏",
+                    "  7. music taste|(21)  音乐品味",
+                    "其他簇的属性：",
+                    "  - sentiment polarity|(2862)  情感极性",
+                    "  - clarity|(45)  清晰度",
+                    "  - inspirational|(101)  鼓舞人心的",
+                    "  - food presentation|(67)  食品呈现",
+                    "  - fairness|(21)  公平性"
+                ],
+                "簇外是否存在一致的属性：n"
+            ],
+            [
+                "cluster_id: 90",
+                [
+                    "  1. emotional connection|(1029)  情感连接",
+                    "  2. relatability|(98)  相关性",
+                    "  3. emotional contagion|(80)  情感传染",
+                    "  4. affection|(49)  喜爱",
+                    "  5. intimacy|(37)  亲密",
+                    "  6. sentimental attachment|(33)  情感依恋",
+                    "  7. emotional attachment|(31)  情感依恋",
+                    "  8. relationship dynamics|(25)  关系动态",
+                    "  9. emotional intimacy|(22)  情感亲密",
+                    "  10. emotional vulnerability|(21)  情感脆弱性",
+                    "其他簇的属性：",
+                    "  - personal connection|(639)  个人联系",
+                    "  - social connection|(134)  社会联系",
+                    "  - emotional resonance|(955)  情感共鸣",
+                    "  - emotional contrast|(32)  情感对比",
+                    "  - social connection|(134)  社会联系",
+                    "  - personal connection|(639)  个人联系",
+                    "  - disdain|(237)  蔑视",
+                    "  - feature appreciation|(42)  功能欣赏",
+                    "  - perceived deception|(40)  感知欺骗"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 180",
+                [
+                    "  1. bluntness|(281)  直言不讳",
+                    "  2. brevity|(109)  简洁性",
+                    "  3. conciseness|(22)  简洁性",
+                    "其他簇的属性：",
+                    "  - confrontational language|(295)  对抗性语言",
+                    "  - aggressiveness|(156)  侵略性",
+                    "  - confrontational|(393)  对抗性",
+                    "  - language politeness|(22)  语言礼貌",
+                    "  - helpfulness of staff|(21)  员工的帮助性",
+                    "  - attentiveness|(24)  专注度",
+                    "  - specific feature satisfaction|(38)  特定功能满意度",
+                    "  - fear-mongering|(108)  散布恐惧",
+                    "  - warning or caution|(30)  警告或注意事项"
+                ],
+                "簇外是否存在一致的属性：n"
+            ],
+            [
+                "cluster_id: 119",
+                [
+                    "  1. self-awareness|(528)  自我意识",
+                    "  2. open-mindedness|(304)  开放性思维",
+                    "  3. self-deprecation|(160)  自嘲",
+                    "  4. self-doubt|(34)  自我怀疑",
+                    "  5. self-efficacy|(33)  自我效能感",
+                    "  6. self-perception|(32)  自我认知",
+                    "  7. self-promotion|(32)  自我推销",
+                    "  8. self-reflection|(29)  自我反思",
+                    "  9. self-expression|(22)  自我表达",
+                    "其他簇的属性：",
+                    "  - social awareness|(1266)  社会意识",
+                    "  - cultural awareness|(47)  文化意识",
+                    "  - health-consciousness|(27)  健康意识",
+                    "  - environmental awareness|(101)  环保意识",
+                    "  - fairness|(21)  公平性",
+                    "  - audience awareness|(24)  观众意识",
+                    "  - customer service quality|(121)  客户服务质量",
+                    "  - appreciation for quality|(23)  对质量的欣赏",
+                    "  - language politeness|(22)  语言礼貌"
+                ],
+                "簇外是否存在一致的属性：n"
+            ],
+            [
+                "cluster_id: 77",
+                [
+                    "  1. fandom|(124)  粉丝圈",
+                    "  2. pop culture reference|(22)  流行文化参考",
+                    "其他簇的属性：",
+                    "  - fan engagement|(44)  粉丝参与度",
+                    "  - social|(50)  社交",
+                    "  - fan sentiment|(24)  粉丝情绪",
+                    "  - product satisfaction|(1159)  产品满意度",
+                    "  - self-doubt|(34)  自我怀疑",
+                    "  - customer satisfaction|(260)  客户满意度",
+                    "  - thematic depth|(22)  主题深度",
+                    "  - advice-giving|(30)  提供建议",
+                    "  - moral judgment|(287)  道德判断"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 176",
+                [
+                    "  1. opinionatedness|(241)  固执己见",
+                    "  2. opinion|(103)  意见",
+                    "  3. opinion strength|(58)  意见强度",
+                    "  4. opinionated|(22)  固执的",
+                    "其他簇的属性：",
+                    "  - authoritativeness|(22)  权威性",
+                    "  - argumentativeness|(150)  好辩性",
+                    "  - subjective opinion|(303)  主观意见",
+                    "  - politeness|(225)  礼貌",
+                    "  - age appropriateness|(58)  年龄适宜性",
+                    "  - trendiness|(24)  时尚度",
+                    "  - social media style|(24)  社交媒体风格",
+                    "  - fear appeal|(26)  恐惧诉求",
+                    "  - author's attitude|(387)  作者态度"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 169",
+                [
+                    "  1. personal experience|(200)  个人体验",
+                    "  2. overall experience|(194)  整体体验",
+                    "  3. initial impression|(146)  初步印象",
+                    "  4. highlight of the experience|(57)  体验亮点",
+                    "其他簇的属性：",
+                    "  - comparison to past experiences|(47)  与过去经验的比较",
+                    "  - personal reflection|(26)  个人反思",
+                    "  - personal involvement|(148)  个人参与",
+                    "  - comparison to previous experiences|(27)  与以往经验的比较",
+                    "  - sensory experience|(32)  感官体验",
+                    "  - patience|(48)  耐心",
+                    "  - expectation vs. reality|(1864)  期望与现实",
+                    "  - overall enjoyment|(66)  整体享受",
+                    "  - intimacy|(37)  亲密"
+                ],
+                "簇外是否存在一致的属性：n"
+            ],
+            [
+                "cluster_id: 185",
+                [
+                    "  1. disappointment level|(855)  失望程度",
+                    "  2. tone of disappointment|(89)  失望语气",
+                    "  3. level of disappointment|(49)  失望程度",
+                    "  4. disappointment intensity|(36)  失望强度",
+                    "其他簇的属性：",
+                    "  - disappointment|(1607)  失望",
+                    "  - frustration level|(3544)  挫折感",
+                    "  - level of frustration|(138)  沮丧程度",
+                    "  - disappointment|(1607)  失望",
+                    "  - interest level|(33)  兴趣水平",
+                    "  - intent|(209)  意图",
+                    "  - length|(40)  长度",
+                    "  - sense of urgency|(642)  紧迫感",
+                    "  - rhetorical device|(53)  修辞手法"
+                ],
+                "簇外是否存在一致的属性：y"
+            ],
+            [
+                "cluster_id: 11",
+                [
+                    "  1. tone of review|(202)  评论语气",
+                    "  2. tone of advice|(102)  建议语气",
+                    "  3. tone of recommendation|(51)  推荐语气",
+                    "  4. promotional tone|(47)  促销语气",
+                    "其他簇的属性：",
+                    "  - tone of criticism|(540)  批评语气",
+                    "  - reviewer's intent|(23)  评论者意图",
+                    "  - reviewer's attitude|(35)  评论者态度",
+                    "  - length of review|(30)  评论长度",
+                    "  - tone of desperation|(26)  绝望的语气",
+                    "  - tone of regret|(40)  遗憾语气",
+                    "  - perceived value for money|(51)  感知性价比",
+                    "  - ease of use|(591)  易用性",
+                    "  - perseverance|(34)  毅力"
+                ],
+                "簇外是否存在一致的属性：n"
+            ]
+        ],
+        "indifference_count": 10,
+        "total_count": 20
+    }
+}

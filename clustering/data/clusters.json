@@ -1,0 +1,2988 @@
+﻿[
+    {
+        "cluster_id": 23,
+        "attr_names": [
+            "tone|(11702)",
+            "language tone|(344)",
+            "tone marker|(218)",
+            "tone of language|(196)",
+            "tone of voice|(110)",
+            "tone shift|(63)",
+            "tone consistency|(45)",
+            "conversational tone|(21)",
+            "comparative tone|(21)",
+            "scientific tone|(13)",
+            "tone sentiment|(13)"
+        ],
+        "total_count": 12746
+    },
+    {
+        "cluster_id": 60,
+        "attr_names": [
+            "emotional intensity|(8350)",
+            "emotional depth|(15)",
+            "intensity|(13)"
+        ],
+        "total_count": 8378
+    },
+    {
+        "cluster_id": 29,
+        "attr_names": [
+            "overall sentiment|(6362)",
+            "overall rating|(64)",
+            "overall opinion|(16)",
+            "overall mood|(12)"
+        ],
+        "total_count": 6454
+    },
+    {
+        "cluster_id": 28,
+        "attr_names": [
+            "frustration level|(3544)",
+            "frustration|(1803)",
+            "level of frustration|(138)",
+            "author's frustration|(43)",
+            "frustration with plot|(32)",
+            "pain level|(28)",
+            "frustration trigger|(23)",
+            "frustration intensity|(21)",
+            "frustration sentiment|(17)",
+            "frustration with plot holes|(11)"
+        ],
+        "total_count": 5660
+    },
+    {
+        "cluster_id": 157,
+        "attr_names": [
+            "recommendation|(3356)",
+            "product recommendation|(62)",
+            "personal recommendation|(40)",
+            "overall recommendation|(23)",
+            "purchase recommendation|(19)",
+            "recommender|(19)"
+        ],
+        "total_count": 3519
+    },
+    {
+        "cluster_id": 115,
+        "attr_names": [
+            "sentiment polarity|(2862)",
+            "polarization|(328)",
+            "polarity|(129)",
+            "language polarity|(66)",
+            "polarizing|(19)",
+            "polarizing language|(14)"
+        ],
+        "total_count": 3418
+    },
+    {
+        "cluster_id": 5,
+        "attr_names": [
+            "expectation vs. reality|(1864)",
+            "expectation vs reality|(1422)",
+            "expectation vs. reality gap|(48)",
+            "expectation vs reality gap|(44)"
+        ],
+        "total_count": 3378
+    },
+    {
+        "cluster_id": 56,
+        "attr_names": [
+            "comparison to expectations|(900)",
+            "comparison|(573)",
+            "comparison to others|(560)",
+            "comparative analysis|(302)",
+            "comparison to other works|(210)",
+            "comparison to other movies|(87)",
+            "contrast|(57)",
+            "comparison tone|(55)",
+            "comparability|(50)",
+            "comparative quality|(48)",
+            "comparison basis|(44)",
+            "comparison to original|(38)",
+            "comparison to expectation|(32)",
+            "comparison tendency|(31)",
+            "social comparison|(31)",
+            "comparison style|(24)",
+            "comparative|(24)",
+            "comparison orientation|(22)",
+            "comparison to ideal|(22)",
+            "comparison mindset|(20)",
+            "comparison to other games|(20)",
+            "comparison to other films|(20)",
+            "comparison to competitors|(18)",
+            "comparison to other restaurants|(17)",
+            "comparison to source material|(17)",
+            "comparative language|(15)",
+            "comparative thinking|(15)",
+            "comparative value|(14)",
+            "comparison to norm|(12)",
+            "comparison to other adaptations|(12)",
+            "comparative criticism|(12)",
+            "comparative evaluation|(11)",
+            "comparative perspective|(11)"
+        ],
+        "total_count": 3324
+    },
+    {
+        "cluster_id": 26,
+        "attr_names": [
+            "urgency|(2258)",
+            "sense of urgency|(642)",
+            "tone of urgency|(78)",
+            "desperation|(38)",
+            "urgency level|(32)",
+            "impulsiveness|(12)"
+        ],
+        "total_count": 3060
+    },
+    {
+        "cluster_id": 79,
+        "attr_names": [
+            "sentiment|(1236)",
+            "romantic sentiment|(144)",
+            "attitude|(132)",
+            "expectation sentiment|(101)",
+            "initial sentiment|(71)",
+            "sentiment shift|(71)",
+            "topic sentiment|(69)",
+            "sentiment intensity|(68)",
+            "feminist sentiment|(61)",
+            "political sentiment|(49)",
+            "pacing sentiment|(48)",
+            "social sentiment|(47)",
+            "crowd sentiment|(43)",
+            "sentiment towards trump|(38)",
+            "gift-giving sentiment|(36)",
+            "environmental sentiment|(31)",
+            "religious sentiment|(31)",
+            "specific dish sentiment|(31)",
+            "character sentiment|(30)",
+            "actor sentiment|(28)",
+            "community sentiment|(27)",
+            "sentiment towards brand|(25)",
+            "fan sentiment|(24)",
+            "protest sentiment|(24)",
+            "sentiment towards the subject|(22)",
+            "racial sentiment|(19)",
+            "taste sentiment|(18)",
+            "genre sentiment|(17)",
+            "food sentiment|(17)",
+            "specific food item sentiment|(17)",
+            "seasonal sentiment|(17)",
+            "trust sentiment|(16)",
+            "sentiment towards change|(16)",
+            "relationship sentiment|(15)",
+            "geographic sentiment|(15)",
+            "sentiment towards food|(15)",
+            "cleanliness sentiment|(14)",
+            "sentiment tone|(13)",
+            "cultural sentiment|(13)",
+            "language sentiment|(13)",
+            "return intent sentiment|(13)",
+            "sentiment towards @user|(12)",
+            "personal experience sentiment|(11)",
+            "specific food sentiment|(11)",
+            "visual effects sentiment|(11)",
+            "sentiment towards blm|(11)"
+        ],
+        "total_count": 2791
+    },
+    {
+        "cluster_id": 2,
+        "attr_names": [
+            "sarcasm|(2543)",
+            "sarcastic tone|(92)",
+            "sarcastic|(27)",
+            "sarcasm target|(17)",
+            "tone of sarcasm|(13)",
+            "sarcastic language|(11)"
+        ],
+        "total_count": 2703
+    },
+    {
+        "cluster_id": 71,
+        "attr_names": [
+            "nostalgia|(2255)",
+            "nostalgia level|(148)",
+            "timelessness|(83)",
+            "longing|(42)",
+            "wistfulness|(39)",
+            "nostalgia sentiment|(36)",
+            "nostalgic value|(15)",
+            "tone of nostalgia|(12)",
+            "nostalgic sentiment|(12)",
+            "nostalgia factor|(11)"
+        ],
+        "total_count": 2653
+    },
+    {
+        "cluster_id": 103,
+        "attr_names": [
+            "value for money|(2529)",
+            "value for time|(53)",
+            "price reasonableness|(21)"
+        ],
+        "total_count": 2603
+    },
+    {
+        "cluster_id": 85,
+        "attr_names": [
+            "humor|(1318)",
+            "humor appreciation|(326)",
+            "lightheartedness|(215)",
+            "sense of humor|(86)",
+            "humor level|(79)",
+            "tone of humor|(75)",
+            "humor style|(60)",
+            "humor type|(49)",
+            "dark humor|(31)",
+            "humor perception|(31)",
+            "humor detection|(14)",
+            "sarcastic humor|(11)",
+            "comedic relief|(11)",
+            "tongue-in-cheek|(11)"
+        ],
+        "total_count": 2317
+    },
+    {
+        "cluster_id": 22,
+        "attr_names": [
+            "emotional tone|(1881)",
+            "tone of finality|(125)",
+            "author's emotional state|(91)",
+            "melancholy|(63)",
+            "religious tone|(30)",
+            "tone of final verdict|(28)",
+            "tone of desperation|(26)",
+            "sentimental tone|(15)",
+            "reflective tone|(13)",
+            "bittersweetness|(12)",
+            "tone of final message|(11)",
+            "tone of final comment|(11)"
+        ],
+        "total_count": 2306
+    },
+    {
+        "cluster_id": 112,
+        "attr_names": [
+            "emotional investment|(2209)",
+            "author's emotional investment|(41)",
+            "emotional investment sentiment|(11)"
+        ],
+        "total_count": 2261
+    },
+    {
+        "cluster_id": 8,
+        "attr_names": [
+            "empathy|(1442)",
+            "empathy level|(466)",
+            "lack of empathy|(112)",
+            "sympathy|(111)",
+            "sympathy level|(54)",
+            "author's empathy|(16)",
+            "compassion|(16)",
+            "perceived empathy|(14)",
+            "level of empathy|(12)"
+        ],
+        "total_count": 2243
+    },
+    {
+        "cluster_id": 105,
+        "attr_names": [
+            "product satisfaction|(1159)",
+            "customer satisfaction|(260)",
+            "product quality|(209)",
+            "product performance|(88)",
+            "return policy satisfaction|(60)",
+            "feature satisfaction|(52)",
+            "product feature satisfaction|(47)",
+            "design satisfaction|(38)",
+            "specific feature satisfaction|(38)",
+            "product design|(37)",
+            "purchase satisfaction|(25)",
+            "satisfaction with product|(24)",
+            "product condition|(20)",
+            "product usage|(17)",
+            "shipping satisfaction|(16)",
+            "product aesthetics|(16)",
+            "product suitability|(15)",
+            "product availability|(15)",
+            "delivery satisfaction|(13)",
+            "purchase decision satisfaction|(12)",
+            "packaging satisfaction|(12)",
+            "confidence in product|(12)",
+            "product fit|(11)"
+        ],
+        "total_count": 2196
+    },
+    {
+        "cluster_id": 67,
+        "attr_names": [
+            "overall satisfaction|(853)",
+            "satisfaction|(576)",
+            "price satisfaction|(134)",
+            "satisfaction with service|(79)",
+            "initial satisfaction|(59)",
+            "long-term satisfaction|(40)",
+            "ending satisfaction|(37)",
+            "satisfaction with purchase|(35)",
+            "size satisfaction|(33)",
+            "food satisfaction|(32)",
+            "taste satisfaction|(27)",
+            "resolution satisfaction|(27)",
+            "location satisfaction|(25)",
+            "performance satisfaction|(23)",
+            "amenity satisfaction|(21)",
+            "color satisfaction|(16)",
+            "length satisfaction|(16)",
+            "plot satisfaction|(16)",
+            "wait time satisfaction|(15)",
+            "satisfaction with food|(14)",
+            "fit satisfaction|(13)",
+            "personal satisfaction|(13)",
+            "genre satisfaction|(12)",
+            "menu satisfaction|(12)"
+        ],
+        "total_count": 2128
+    },
+    {
+        "cluster_id": 9,
+        "attr_names": [
+            "optimism|(1450)",
+            "hopefulness|(165)",
+            "positivity|(135)",
+            "optimism level|(109)",
+            "pessimism|(106)",
+            "encouragement|(39)",
+            "hope|(28)",
+            "joyfulness|(20)",
+            "positivity ratio|(19)",
+            "uplifting|(18)",
+            "hope for change|(12)"
+        ],
+        "total_count": 2101
+    },
+    {
+        "cluster_id": 34,
+        "attr_names": [
+            "criticism|(873)",
+            "criticism level|(487)",
+            "criticisms|(168)",
+            "disapproval|(144)",
+            "negativity|(56)",
+            "specificity of criticism|(54)",
+            "level of criticism|(50)",
+            "design criticism|(49)",
+            "criticism style|(37)",
+            "technical criticism|(30)",
+            "target of criticism|(29)",
+            "criticism focus|(19)",
+            "creative criticism|(17)",
+            "criticism intensity|(16)",
+            "criticism of plot|(15)",
+            "critique|(12)",
+            "corporate criticism|(11)"
+        ],
+        "total_count": 2067
+    },
+    {
+        "cluster_id": 82,
+        "attr_names": [
+            "authenticity|(1140)",
+            "emotional authenticity|(219)",
+            "credibility|(196)",
+            "perceived authenticity|(97)",
+            "honesty|(74)",
+            "authenticity appreciation|(64)",
+            "authenticity sentiment|(56)",
+            "appreciation for authenticity|(48)",
+            "faithfulness to source material|(47)",
+            "authenticity perception|(35)",
+            "authenticity concern|(23)",
+            "cultural authenticity|(18)",
+            "authenticity expectation|(16)",
+            "food authenticity|(16)",
+            "seeking validation|(13)"
+        ],
+        "total_count": 2062
+    },
+    {
+        "cluster_id": 84,
+        "attr_names": [
+            "language style|(1399)",
+            "language|(339)",
+            "storytelling style|(66)",
+            "communication style|(51)",
+            "format|(37)",
+            "loaded language|(34)",
+            "conversational style|(29)",
+            "language register|(23)",
+            "text type|(16)",
+            "language use|(12)"
+        ],
+        "total_count": 2006
+    },
+    {
+        "cluster_id": 27,
+        "attr_names": [
+            "call to action|(1449)",
+            "call-to-action|(472)",
+            "action|(12)"
+        ],
+        "total_count": 1933
+    },
+    {
+        "cluster_id": 97,
+        "attr_names": [
+            "comparative sentiment|(988)",
+            "comparison sentiment|(892)",
+            "contrast sentiment|(13)"
+        ],
+        "total_count": 1893
+    },
+    {
+        "cluster_id": 3,
+        "attr_names": [
+            "admiration|(392)",
+            "appreciation|(358)",
+            "critical acclaim|(153)",
+            "superlatives|(101)",
+            "celebratory|(77)",
+            "appreciation for craftsmanship|(62)",
+            "praise|(53)",
+            "celebratory tone|(49)",
+            "appreciation for artistry|(39)",
+            "appreciation for effort|(35)",
+            "specific praise|(32)",
+            "appreciation for details|(29)",
+            "appreciation for craft|(25)",
+            "performance appreciation|(25)",
+            "appreciation for quality|(23)",
+            "appreciation for storytelling|(23)",
+            "appreciation for simplicity|(22)",
+            "appreciation for performances|(22)",
+            "tone of appreciation|(19)",
+            "appreciation for camp value|(18)",
+            "appreciation for action|(18)",
+            "highlighting of positives|(17)",
+            "appreciation for service|(16)",
+            "author appreciation|(15)",
+            "appreciation level|(15)",
+            "appreciation for direction|(14)",
+            "appreciation for diversity|(13)",
+            "appreciation for camp|(13)",
+            "admiration for performances|(13)",
+            "employee appreciation|(12)",
+            "appreciation for satire|(11)",
+            "appreciation for subtlety|(11)"
+        ],
+        "total_count": 1725
+    },
+    {
+        "cluster_id": 15,
+        "attr_names": [
+            "disappointment|(1607)",
+            "disappointment type|(19)",
+            "disappointment sentiment|(15)"
+        ],
+        "total_count": 1641
+    },
+    {
+        "cluster_id": 145,
+        "attr_names": [
+            "emotional appeal|(1160)",
+            "aesthetic appeal|(194)",
+            "visual appeal|(144)",
+            "aesthetics|(43)",
+            "imagery|(23)",
+            "emotional appeals|(16)",
+            "romantic appeal|(15)",
+            "objectification|(12)",
+            "visual imagery|(12)"
+        ],
+        "total_count": 1619
+    },
+    {
+        "cluster_id": 41,
+        "attr_names": [
+            "social awareness|(1266)",
+            "environmental awareness|(101)",
+            "health consciousness|(80)",
+            "cultural awareness|(47)",
+            "global awareness|(43)",
+            "health-consciousness|(27)",
+            "audience awareness|(24)",
+            "racial awareness|(13)",
+            "economic awareness|(12)"
+        ],
+        "total_count": 1613
+    },
+    {
+        "cluster_id": 190,
+        "attr_names": [
+            "emotion|(536)",
+            "emotional state|(331)",
+            "emotional expression|(207)",
+            "emotional reactivity|(153)",
+            "emotional response|(122)",
+            "mood|(54)",
+            "emotional complexity|(39)",
+            "emotional regulation|(33)",
+            "emotional contrast|(32)",
+            "catharsis|(28)",
+            "emotional balance|(24)",
+            "emotional volatility|(18)",
+            "emotional valence|(12)",
+            "emotional ambiguity|(12)"
+        ],
+        "total_count": 1601
+    },
+    {
+        "cluster_id": 53,
+        "attr_names": [
+            "trust|(513)",
+            "trust level|(340)",
+            "trustworthiness|(235)",
+            "trust in brand|(94)",
+            "trust in institutions|(79)",
+            "agreement|(61)",
+            "lack of trust|(47)",
+            "trust in seller|(37)",
+            "mistrust|(28)",
+            "trust in company|(26)",
+            "trust indicator|(23)",
+            "distrust|(20)",
+            "brand trust|(15)",
+            "trust in manufacturer|(13)",
+            "trust in product|(12)",
+            "trust in advertising|(11)",
+            "trust in management|(11)"
+        ],
+        "total_count": 1565
+    },
+    {
+        "cluster_id": 188,
+        "attr_names": [
+            "excitement level|(806)",
+            "excitement|(435)",
+            "enthusiasm level|(195)",
+            "level of enthusiasm|(85)",
+            "initial excitement|(30)"
+        ],
+        "total_count": 1551
+    },
+    {
+        "cluster_id": 90,
+        "attr_names": [
+            "emotional connection|(1029)",
+            "relatability|(98)",
+            "emotional contagion|(80)",
+            "affection|(49)",
+            "intimacy|(37)",
+            "sentimental attachment|(33)",
+            "emotional attachment|(31)",
+            "relationship dynamics|(25)",
+            "emotional intimacy|(22)",
+            "emotional vulnerability|(21)",
+            "relationship|(19)",
+            "chemistry between leads|(17)",
+            "emotional engagement|(16)",
+            "emotional distance|(16)",
+            "emotional warmth|(12)",
+            "interconnectedness|(12)",
+            "intimacy level|(11)"
+        ],
+        "total_count": 1528
+    },
+    {
+        "cluster_id": 137,
+        "attr_names": [
+            "food quality|(1327)",
+            "packaging quality|(67)",
+            "drink quality|(56)",
+            "beverage quality|(17)",
+            "food quality reality|(15)",
+            "food quality consistency|(14)",
+            "food quality satisfaction|(11)"
+        ],
+        "total_count": 1507
+    },
+    {
+        "cluster_id": 128,
+        "attr_names": [
+            "confidence|(807)",
+            "certainty|(356)",
+            "uncertainty|(96)",
+            "believability|(73)",
+            "determination|(47)",
+            "clarity|(45)",
+            "tone of certainty|(28)",
+            "reassurance|(17)",
+            "validation|(15)",
+            "acceptance|(12)"
+        ],
+        "total_count": 1496
+    },
+    {
+        "cluster_id": 52,
+        "attr_names": [
+            "formality|(790)",
+            "language formality|(306)",
+            "professionalism|(263)",
+            "formality level|(27)",
+            "level of formality|(24)",
+            "finality|(17)"
+        ],
+        "total_count": 1427
+    },
+    {
+        "cluster_id": 35,
+        "attr_names": [
+            "confrontational|(393)",
+            "confrontational language|(295)",
+            "accusatory|(223)",
+            "assertiveness|(127)",
+            "provocation|(61)",
+            "confrontational tone|(58)",
+            "provocativeness|(38)",
+            "provocative|(35)",
+            "antagonism|(28)",
+            "confrontationality|(25)",
+            "confrontationalness|(21)",
+            "level of confrontation|(20)",
+            "provocation level|(19)",
+            "confrontational level|(16)",
+            "confrontational style|(13)"
+        ],
+        "total_count": 1372
+    },
+    {
+        "cluster_id": 42,
+        "attr_names": [
+            "topic sensitivity|(380)",
+            "cultural sensitivity|(260)",
+            "vulnerability|(190)",
+            "price sensitivity|(184)",
+            "sensitivity|(107)",
+            "time sensitivity|(73)",
+            "responsiveness|(69)",
+            "racial sensitivity|(55)",
+            "time-sensitivity|(22)",
+            "age sensitivity|(15)",
+            "skin sensitivity|(12)"
+        ],
+        "total_count": 1367
+    },
+    {
+        "cluster_id": 32,
+        "attr_names": [
+            "service quality|(951)",
+            "customer service quality|(121)",
+            "server attentiveness|(36)",
+            "quality of service|(36)",
+            "service efficiency|(35)",
+            "service speed|(28)",
+            "server quality|(28)",
+            "service|(23)",
+            "speed of service|(16)",
+            "service quality expectation|(12)",
+            "maintenance quality|(12)",
+            "server responsiveness|(12)",
+            "facility quality|(11)"
+        ],
+        "total_count": 1321
+    },
+    {
+        "cluster_id": 83,
+        "attr_names": [
+            "playfulness|(829)",
+            "novelty|(86)",
+            "language playfulness|(59)",
+            "spontaneity|(53)",
+            "whimsy|(50)",
+            "playful teasing|(47)",
+            "adventurousness|(40)",
+            "interactivity|(39)",
+            "teasing|(38)",
+            "playfulness with language|(23)",
+            "sensuality|(22)",
+            "playful aggression|(12)",
+            "unconventionality|(12)",
+            "festive|(11)"
+        ],
+        "total_count": 1321
+    },
+    {
+        "cluster_id": 63,
+        "attr_names": [
+            "ambiance|(770)",
+            "ambiance appreciation|(198)",
+            "ambiance sentiment|(147)",
+            "atmosphere|(38)",
+            "store ambiance|(22)",
+            "ambiance satisfaction|(20)",
+            "room comfort|(20)",
+            "romantic ambiance|(19)",
+            "warmth|(16)",
+            "festive spirit|(14)",
+            "ambience|(14)",
+            "appreciation for ambiance|(13)",
+            "ambience appreciation|(13)",
+            "holiday spirit|(11)"
+        ],
+        "total_count": 1315
+    },
+    {
+        "cluster_id": 14,
+        "attr_names": [
+            "enthusiasm|(800)",
+            "passion|(186)",
+            "motivation|(55)",
+            "desire for change|(36)",
+            "attention-seeking|(29)",
+            "food enthusiasm|(28)",
+            "author's enthusiasm|(26)",
+            "desire for resolution|(24)",
+            "tone of enthusiasm|(23)",
+            "exuberance|(19)",
+            "foodie enthusiasm|(17)",
+            "enthusiasm for music|(15)",
+            "attention-grabbing|(15)",
+            "lack of enthusiasm|(13)",
+            "enthusiasm for genre|(12)",
+            "ambition|(12)"
+        ],
+        "total_count": 1310
+    },
+    {
+        "cluster_id": 119,
+        "attr_names": [
+            "self-awareness|(528)",
+            "open-mindedness|(304)",
+            "self-deprecation|(160)",
+            "self-doubt|(34)",
+            "self-efficacy|(33)",
+            "self-perception|(32)",
+            "self-promotion|(32)",
+            "self-reflection|(29)",
+            "self-expression|(22)",
+            "self-assurance|(15)",
+            "self-esteem|(15)",
+            "self-acceptance|(14)",
+            "self-control|(11)",
+            "self-disclosure|(11)"
+        ],
+        "total_count": 1240
+    },
+    {
+        "cluster_id": 43,
+        "attr_names": [
+            "partisanship|(929)",
+            "partisan bias|(71)",
+            "partisan|(52)",
+            "political affiliation|(38)",
+            "political orientation|(29)",
+            "partisan sentiment|(24)",
+            "partisan tone|(18)",
+            "political stance|(17)",
+            "partisan affiliation|(17)",
+            "politicization|(14)"
+        ],
+        "total_count": 1209
+    },
+    {
+        "cluster_id": 196,
+        "attr_names": [
+            "personal connection|(639)",
+            "personal involvement|(148)",
+            "personal growth|(136)",
+            "familiarity|(80)",
+            "personal investment|(72)",
+            "personal reflection|(26)",
+            "personal relevance|(20)",
+            "personal|(17)",
+            "personal attachment|(15)",
+            "personal stake|(13)",
+            "personal significance|(12)",
+            "personal conviction|(12)"
+        ],
+        "total_count": 1190
+    },
+    {
+        "cluster_id": 178,
+        "attr_names": [
+            "tone of criticism|(540)",
+            "tone of frustration|(169)",
+            "tone of complaint|(81)",
+            "tone of accusation|(73)",
+            "noise level|(63)",
+            "accusatory tone|(50)",
+            "criticism tone|(42)",
+            "tone of exasperation|(41)",
+            "tone of defiance|(30)",
+            "tone of disapproval|(26)",
+            "tone of protest|(23)",
+            "tone of complaints|(19)",
+            "mocking tone|(11)"
+        ],
+        "total_count": 1168
+    },
+    {
+        "cluster_id": 20,
+        "attr_names": [
+            "originality|(600)",
+            "originality appreciation|(169)",
+            "uniqueness|(131)",
+            "appreciation for originality|(94)",
+            "originality sentiment|(50)",
+            "artistic merit|(35)",
+            "creativity and originality|(14)",
+            "appreciation for uniqueness|(13)",
+            "uniqueness appreciation|(13)",
+            "originality expectation|(12)",
+            "originality perception|(12)",
+            "uniqueness of experience|(11)",
+            "lack of originality|(11)"
+        ],
+        "total_count": 1165
+    },
+    {
+        "cluster_id": 125,
+        "attr_names": [
+            "sarcasm level|(1052)",
+            "level of sarcasm|(22)",
+            "absurdity level|(17)"
+        ],
+        "total_count": 1091
+    },
+    {
+        "cluster_id": 25,
+        "attr_names": [
+            "loyalty|(902)",
+            "loyalty intent|(90)",
+            "loyalty sentiment|(66)",
+            "loyalty intention|(30)"
+        ],
+        "total_count": 1088
+    },
+    {
+        "cluster_id": 120,
+        "attr_names": [
+            "expectation|(485)",
+            "expectation fulfillment|(151)",
+            "initial expectation|(141)",
+            "expectation management|(83)",
+            "product expectation|(70)",
+            "expectation gap|(38)",
+            "expectation violation|(23)",
+            "performance expectation|(22)",
+            "unmet expectations|(21)",
+            "product expectations|(13)",
+            "fit expectation|(13)",
+            "action expectation|(12)"
+        ],
+        "total_count": 1072
+    },
+    {
+        "cluster_id": 81,
+        "attr_names": [
+            "anger|(488)",
+            "anger level|(300)",
+            "anger intensity|(189)",
+            "level of anger|(33)",
+            "anger expression|(21)",
+            "anger trigger|(17)",
+            "anger triggers|(14)"
+        ],
+        "total_count": 1062
+    },
+    {
+        "cluster_id": 185,
+        "attr_names": [
+            "disappointment level|(855)",
+            "tone of disappointment|(89)",
+            "level of disappointment|(49)",
+            "disappointment intensity|(36)",
+            "sense of disappointment|(18)",
+            "comparative disappointment|(12)"
+        ],
+        "total_count": 1059
+    },
+    {
+        "cluster_id": 13,
+        "attr_names": [
+            "respectfulness|(699)",
+            "politeness|(225)",
+            "cleanliness|(109)",
+            "language politeness|(22)"
+        ],
+        "total_count": 1055
+    },
+    {
+        "cluster_id": 173,
+        "attr_names": [
+            "respect|(565)",
+            "solidarity|(98)",
+            "tribute|(45)",
+            "respect for the subject|(43)",
+            "humility|(41)",
+            "respect for tradition|(29)",
+            "respect for the creator|(25)",
+            "respect for the author|(23)",
+            "respect for original work|(23)",
+            "respect for the audience|(23)",
+            "respect for craftsmanship|(22)",
+            "respect for opposing views|(17)",
+            "respect for the original|(17)",
+            "respect for source material|(16)",
+            "respect for others' opinions|(16)",
+            "respect for the source material|(15)",
+            "respect for the artist|(14)",
+            "respect for others|(12)"
+        ],
+        "total_count": 1044
+    },
+    {
+        "cluster_id": 93,
+        "attr_names": [
+            "surprise|(545)",
+            "surprise level|(176)",
+            "surprise and delight|(114)",
+            "surprise element|(86)",
+            "surprise factor|(61)",
+            "spoiler alert|(29)",
+            "surprise sentiment|(18)",
+            "tone of surprise|(13)"
+        ],
+        "total_count": 1042
+    },
+    {
+        "cluster_id": 109,
+        "attr_names": [
+            "objectivity|(841)",
+            "lack of objectivity|(61)",
+            "level of objectivity|(59)",
+            "objectivity level|(20)",
+            "factuality|(17)"
+        ],
+        "total_count": 998
+    },
+    {
+        "cluster_id": 130,
+        "attr_names": [
+            "recommendation strength|(659)",
+            "rating|(243)",
+            "rating justification|(34)",
+            "recommendation level|(28)",
+            "rating severity|(20)",
+            "level of recommendation|(14)"
+        ],
+        "total_count": 998
+    },
+    {
+        "cluster_id": 91,
+        "attr_names": [
+            "cultural appreciation|(143)",
+            "cinematic appreciation|(110)",
+            "artistic appreciation|(72)",
+            "feature appreciation|(42)",
+            "design appreciation|(41)",
+            "technical appreciation|(41)",
+            "musical appreciation|(38)",
+            "product feature appreciation|(37)",
+            "appreciation for cinematography|(36)",
+            "suspense appreciation|(33)",
+            "music appreciation|(32)",
+            "aesthetic appreciation|(31)",
+            "appreciation for art|(31)",
+            "appreciation for aesthetics|(30)",
+            "genre appreciation|(30)",
+            "visual appreciation|(29)",
+            "novelty appreciation|(23)",
+            "appreciation for music|(22)",
+            "romance appreciation|(22)",
+            "innovation appreciation|(21)",
+            "appreciation for visuals|(19)",
+            "appreciation for special effects|(17)",
+            "texture appreciation|(16)",
+            "plot appreciation|(16)",
+            "story appreciation|(15)",
+            "appreciation for nature|(15)",
+            "appreciation for design|(12)",
+            "special effects appreciation|(12)",
+            "specific feature appreciation|(11)"
+        ],
+        "total_count": 997
+    },
+    {
+        "cluster_id": 170,
+        "attr_names": [
+            "emotional resonance|(955)",
+            "thematic resonance|(20)",
+            "expressiveness|(14)"
+        ],
+        "total_count": 989
+    },
+    {
+        "cluster_id": 50,
+        "attr_names": [
+            "recommendation sentiment|(482)",
+            "rating sentiment|(133)",
+            "service sentiment|(96)",
+            "location sentiment|(41)",
+            "problem-solving sentiment|(30)",
+            "sentiment towards product|(27)",
+            "service quality sentiment|(25)",
+            "performance sentiment|(24)",
+            "product quality sentiment|(24)",
+            "analytical sentiment|(19)",
+            "product feature sentiment|(16)",
+            "sentiment towards specific aspects|(14)",
+            "sentiment towards service|(13)",
+            "sentiment towards amazon|(11)",
+            "innovation sentiment|(11)",
+            "discovery sentiment|(11)"
+        ],
+        "total_count": 977
+    },
+    {
+        "cluster_id": 78,
+        "attr_names": [
+            "gratitude|(662)",
+            "gratitude level|(140)",
+            "generosity|(57)",
+            "selflessness|(31)",
+            "tone of gratitude|(17)"
+        ],
+        "total_count": 907
+    },
+    {
+        "cluster_id": 37,
+        "attr_names": [
+            "engagement|(681)",
+            "plot engagement|(120)",
+            "story engagement|(45)",
+            "romantic interest|(19)",
+            "engagement style|(12)",
+            "storyline engagement|(11)"
+        ],
+        "total_count": 888
+    },
+    {
+        "cluster_id": 66,
+        "attr_names": [
+            "warning to others|(207)",
+            "tone of warning|(164)",
+            "warning|(146)",
+            "tone of caution|(75)",
+            "warning level|(72)",
+            "caution|(44)",
+            "warning intent|(35)",
+            "warning sentiment|(35)",
+            "warning tone|(30)",
+            "warning or caution|(30)",
+            "cautiousness|(18)",
+            "caution level|(15)",
+            "cautionary tone|(15)"
+        ],
+        "total_count": 886
+    },
+    {
+        "cluster_id": 168,
+        "attr_names": [
+            "sense of injustice|(621)",
+            "perceived injustice|(62)",
+            "sense of entitlement|(47)",
+            "sense of justice|(38)",
+            "sense of exclusion|(25)",
+            "fairness|(21)",
+            "sense of fairness|(19)",
+            "victimhood|(16)",
+            "sense of persecution|(16)"
+        ],
+        "total_count": 865
+    },
+    {
+        "cluster_id": 75,
+        "attr_names": [
+            "defensiveness|(766)",
+            "protectiveness|(19)",
+            "defensive|(14)",
+            "resistance|(14)"
+        ],
+        "total_count": 813
+    },
+    {
+        "cluster_id": 149,
+        "attr_names": [
+            "irony|(563)",
+            "absurdity|(82)",
+            "irony level|(63)",
+            "metaphor|(46)",
+            "irony detection|(23)",
+            "irony appreciation|(12)",
+            "satire|(11)"
+        ],
+        "total_count": 800
+    },
+    {
+        "cluster_id": 88,
+        "attr_names": [
+            "resilience|(199)",
+            "durability|(152)",
+            "memorability|(96)",
+            "durability concerns|(87)",
+            "durability concern|(55)",
+            "product durability|(47)",
+            "durability expectation|(42)",
+            "perseverance|(34)",
+            "longevity|(23)",
+            "product longevity|(20)",
+            "durability perception|(16)",
+            "durability sentiment|(13)"
+        ],
+        "total_count": 784
+    },
+    {
+        "cluster_id": 12,
+        "attr_names": [
+            "satisfaction level|(641)",
+            "comfort level|(141)"
+        ],
+        "total_count": 782
+    },
+    {
+        "cluster_id": 76,
+        "attr_names": [
+            "entertainment value|(489)",
+            "re-watch value|(165)",
+            "shock value|(50)",
+            "replay value|(45)",
+            "value|(16)",
+            "production value|(15)"
+        ],
+        "total_count": 780
+    },
+    {
+        "cluster_id": 197,
+        "attr_names": [
+            "recommendation intent|(282)",
+            "likelihood to recommend|(147)",
+            "recommendation likelihood|(123)",
+            "likelihood of recommendation|(54)",
+            "confidence in recommendation|(54)",
+            "intent to recommend|(36)",
+            "recommendation willingness|(29)",
+            "recommendation confidence|(17)",
+            "willingness to recommend|(14)",
+            "trust in recommendation|(11)",
+            "subjective recommendation|(11)"
+        ],
+        "total_count": 778
+    },
+    {
+        "cluster_id": 19,
+        "attr_names": [
+            "perceived value|(303)",
+            "value perception|(130)",
+            "perceived fairness|(57)",
+            "perceived honesty|(55)",
+            "perceived value for money|(51)",
+            "price perception|(43)",
+            "perceived deception|(40)",
+            "perceived motivation|(32)",
+            "perceived threat|(20)",
+            "perceived responsiveness|(18)",
+            "perceived effort|(14)",
+            "perceived target audience|(14)"
+        ],
+        "total_count": 777
+    },
+    {
+        "cluster_id": 193,
+        "attr_names": [
+            "aggression|(199)",
+            "aggressiveness|(156)",
+            "aggression level|(146)",
+            "hostility|(105)",
+            "defiance|(37)",
+            "violence level|(33)",
+            "rebelliousness|(33)",
+            "inflammatory|(15)",
+            "violence|(14)",
+            "vindictiveness|(13)",
+            "level of aggression|(12)",
+            "passive-aggressiveness|(11)"
+        ],
+        "total_count": 774
+    },
+    {
+        "cluster_id": 58,
+        "attr_names": [
+            "blame attribution|(461)",
+            "blame|(176)",
+            "self-blame|(54)",
+            "responsibility|(24)",
+            "tone of blame|(15)",
+            "blame-shifting|(13)",
+            "scapegoating|(11)"
+        ],
+        "total_count": 754
+    },
+    {
+        "cluster_id": 135,
+        "attr_names": [
+            "cynicism|(594)",
+            "disillusionment|(96)",
+            "cynicism level|(28)",
+            "dismissiveness|(23)"
+        ],
+        "total_count": 741
+    },
+    {
+        "cluster_id": 110,
+        "attr_names": [
+            "conspiracy theory|(401)",
+            "conspiratorial thinking|(91)",
+            "conspiracy theory involvement|(79)",
+            "conspiratorial|(66)",
+            "conspiratorial tone|(64)",
+            "conspiracy theory endorsement|(21)",
+            "conspiracy theory reference|(11)"
+        ],
+        "total_count": 733
+    },
+    {
+        "cluster_id": 49,
+        "attr_names": [
+            "critical thinking|(389)",
+            "analytical thinking|(103)",
+            "analytical|(76)",
+            "analytical depth|(65)",
+            "analytical tone|(45)",
+            "binary thinking|(20)",
+            "analytical mindset|(19)"
+        ],
+        "total_count": 717
+    },
+    {
+        "cluster_id": 18,
+        "attr_names": [
+            "sense of helplessness|(257)",
+            "helplessness|(181)",
+            "sense of responsibility|(95)",
+            "sense of hopelessness|(57)",
+            "sense of loss|(53)",
+            "sense of powerlessness|(31)",
+            "hopelessness|(15)",
+            "sense of insecurity|(12)",
+            "lack of control|(12)"
+        ],
+        "total_count": 713
+    },
+    {
+        "cluster_id": 138,
+        "attr_names": [
+            "respect level|(561)",
+            "admiration level|(36)",
+            "affection level|(32)",
+            "perceived respect|(28)",
+            "lack of respect|(18)",
+            "spice level|(18)",
+            "level of respect|(16)"
+        ],
+        "total_count": 709
+    },
+    {
+        "cluster_id": 62,
+        "attr_names": [
+            "informal tone|(177)",
+            "informality|(159)",
+            "informal language|(86)",
+            "informalness|(38)",
+            "conversational|(35)",
+            "communication|(33)",
+            "use of slang|(33)",
+            "colloquialisms|(29)",
+            "casualness|(26)",
+            "slang|(22)",
+            "informal|(20)",
+            "jargon|(16)",
+            "idioms|(16)",
+            "colloquialism|(15)"
+        ],
+        "total_count": 705
+    },
+    {
+        "cluster_id": 74,
+        "attr_names": [
+            "attention to detail|(429)",
+            "level of detail|(80)",
+            "color accuracy|(39)",
+            "precision|(36)",
+            "customization options|(23)",
+            "size accuracy|(22)",
+            "customization|(17)",
+            "special occasion suitability|(17)",
+            "perfectionism|(15)",
+            "length and detail|(14)",
+            "menu accuracy|(11)"
+        ],
+        "total_count": 703
+    },
+    {
+        "cluster_id": 89,
+        "attr_names": [
+            "helpfulness|(370)",
+            "supportiveness|(165)",
+            "advice|(32)",
+            "advice-giving|(30)",
+            "rating generosity|(20)",
+            "support|(19)",
+            "altruism|(16)",
+            "seeking help|(12)",
+            "review helpfulness|(12)",
+            "supportive|(12)",
+            "reciprocity|(12)"
+        ],
+        "total_count": 700
+    },
+    {
+        "cluster_id": 102,
+        "attr_names": [
+            "resignation|(469)",
+            "tone of resignation|(93)",
+            "condemnation|(70)",
+            "resignation level|(23)",
+            "closure|(19)"
+        ],
+        "total_count": 674
+    },
+    {
+        "cluster_id": 147,
+        "attr_names": [
+            "social proof|(204)",
+            "social connection|(134)",
+            "social|(50)",
+            "social influence|(43)",
+            "social aspect|(41)",
+            "social interaction|(33)",
+            "social bonding|(28)",
+            "social orientation|(26)",
+            "social atmosphere|(25)",
+            "socialness|(23)",
+            "social distance|(18)",
+            "social support|(14)",
+            "social status|(12)",
+            "social suitability|(12)",
+            "social approval|(11)"
+        ],
+        "total_count": 674
+    },
+    {
+        "cluster_id": 92,
+        "attr_names": [
+            "hyperbole|(613)",
+            "incredulity|(43)",
+            "hyperbole level|(12)"
+        ],
+        "total_count": 668
+    },
+    {
+        "cluster_id": 159,
+        "attr_names": [
+            "tolerance|(175)",
+            "frustration tolerance|(56)",
+            "criticism tolerance|(46)",
+            "tolerance for flaws|(38)",
+            "tolerance level|(36)",
+            "violence tolerance|(36)",
+            "crowd tolerance|(36)",
+            "risk tolerance|(33)",
+            "spice tolerance|(30)",
+            "tolerance for imperfections|(24)",
+            "gore tolerance|(24)",
+            "problem tolerance|(21)",
+            "noise tolerance|(21)",
+            "wait time tolerance|(21)",
+            "ambiguity tolerance|(20)",
+            "error tolerance|(17)",
+            "disappointment tolerance|(17)",
+            "tolerance for dissent|(17)"
+        ],
+        "total_count": 668
+    },
+    {
+        "cluster_id": 40,
+        "attr_names": [
+            "expertise|(205)",
+            "author's expertise|(170)",
+            "staff competence|(66)",
+            "perceived expertise|(35)",
+            "technical expertise|(34)",
+            "specialization|(32)",
+            "level of expertise|(31)",
+            "product knowledge|(25)",
+            "culinary expertise|(22)",
+            "collaboration|(17)",
+            "knowledgeability|(16)",
+            "technical merit|(13)"
+        ],
+        "total_count": 666
+    },
+    {
+        "cluster_id": 94,
+        "attr_names": [
+            "ease of use|(591)",
+            "ease of installation|(34)",
+            "ease of assembly|(26)",
+            "ease of maintenance|(12)"
+        ],
+        "total_count": 663
+    },
+    {
+        "cluster_id": 169,
+        "attr_names": [
+            "personal experience|(200)",
+            "overall experience|(194)",
+            "initial impression|(146)",
+            "highlight of the experience|(57)",
+            "low point of the experience|(19)",
+            "shipping experience|(16)",
+            "delivery experience|(14)",
+            "shared experience|(13)"
+        ],
+        "total_count": 659
+    },
+    {
+        "cluster_id": 129,
+        "attr_names": [
+            "inclusivity|(555)",
+            "exclusivity|(65)",
+            "boundary setting|(20)",
+            "accessibility|(17)"
+        ],
+        "total_count": 657
+    },
+    {
+        "cluster_id": 174,
+        "attr_names": [
+            "comparison to alternatives|(609)",
+            "comparison to alternative|(32)",
+            "comparison to other options|(11)"
+        ],
+        "total_count": 652
+    },
+    {
+        "cluster_id": 140,
+        "attr_names": [
+            "subjective opinion|(303)",
+            "subjective language|(165)",
+            "subjective experience|(93)",
+            "subjective evaluation|(25)",
+            "subjective bias|(21)",
+            "subjective interpretation|(21)",
+            "subjective|(12)"
+        ],
+        "total_count": 640
+    },
+    {
+        "cluster_id": 167,
+        "attr_names": [
+            "regret|(383)",
+            "purchase regret|(112)",
+            "regret level|(73)",
+            "tone of regret|(40)",
+            "regret sentiment|(17)",
+            "forgiveness|(12)"
+        ],
+        "total_count": 637
+    },
+    {
+        "cluster_id": 192,
+        "attr_names": [
+            "emotional language|(432)",
+            "emotive language|(62)",
+            "emotional intelligence|(57)",
+            "positive language|(31)",
+            "celebratory language|(17)",
+            "emoticons|(15)",
+            "emotional validation|(12)",
+            "motivational language|(11)"
+        ],
+        "total_count": 637
+    },
+    {
+        "cluster_id": 156,
+        "attr_names": [
+            "practicality|(358)",
+            "technicality|(97)",
+            "resourcefulness|(80)",
+            "usefulness|(41)",
+            "pragmatism|(23)",
+            "functionality|(18)",
+            "practicality appreciation|(18)"
+        ],
+        "total_count": 635
+    },
+    {
+        "cluster_id": 134,
+        "attr_names": [
+            "resentment|(299)",
+            "disdain|(237)",
+            "resentment level|(27)",
+            "tone of resentment|(20)",
+            "envy|(17)",
+            "bitterness|(15)"
+        ],
+        "total_count": 615
+    },
+    {
+        "cluster_id": 126,
+        "attr_names": [
+            "staff friendliness|(392)",
+            "staff appreciation|(42)",
+            "server friendliness|(37)",
+            "staff knowledge|(27)",
+            "staff accountability|(26)",
+            "friendliness of staff|(25)",
+            "helpfulness of staff|(21)",
+            "staff efficiency|(15)",
+            "respect for staff|(14)",
+            "staff consistency|(13)"
+        ],
+        "total_count": 612
+    },
+    {
+        "cluster_id": 80,
+        "attr_names": [
+            "skepticism|(524)",
+            "initial skepticism|(33)",
+            "disbelief|(17)",
+            "contrarianism|(14)",
+            "skepticism level|(11)",
+            "scientific skepticism|(11)"
+        ],
+        "total_count": 610
+    },
+    {
+        "cluster_id": 116,
+        "attr_names": [
+            "topic|(152)",
+            "relevance|(105)",
+            "competitiveness|(100)",
+            "emphasis|(24)",
+            "trendiness|(24)",
+            "presentation|(23)",
+            "geographic focus|(22)",
+            "information seeking|(21)",
+            "highlight|(19)",
+            "focus|(18)",
+            "topic relevance|(18)",
+            "prioritization|(16)",
+            "research effort|(15)",
+            "seasonal relevance|(14)",
+            "geographic relevance|(13)",
+            "genre awareness|(12)",
+            "relevance to current events|(11)"
+        ],
+        "total_count": 607
+    },
+    {
+        "cluster_id": 72,
+        "attr_names": [
+            "communication effectiveness|(193)",
+            "effectiveness|(139)",
+            "product effectiveness|(90)",
+            "efficiency|(62)",
+            "performance|(33)",
+            "performance evaluation|(33)",
+            "comedic effectiveness|(31)",
+            "perceived effectiveness|(13)",
+            "time efficiency|(12)"
+        ],
+        "total_count": 606
+    },
+    {
+        "cluster_id": 65,
+        "attr_names": [
+            "activism|(433)",
+            "activism level|(127)",
+            "advocacy|(22)",
+            "protest|(19)"
+        ],
+        "total_count": 601
+    },
+    {
+        "cluster_id": 21,
+        "attr_names": [
+            "perceived quality|(183)",
+            "quality perception|(154)",
+            "product quality perception|(108)",
+            "food quality perception|(49)",
+            "brand perception|(41)",
+            "reliability perception|(18)",
+            "service quality perception|(13)",
+            "luxury perception|(12)",
+            "time perception|(12)"
+        ],
+        "total_count": 590
+    },
+    {
+        "cluster_id": 113,
+        "attr_names": [
+            "intent|(209)",
+            "purpose|(117)",
+            "revisit intention|(75)",
+            "proactivity|(54)",
+            "revisit intent|(35)",
+            "mocking intent|(22)",
+            "perceived intent|(19)",
+            "authorial intent|(16)",
+            "interest|(15)",
+            "intent to continue use|(12)",
+            "intent to escalate|(11)"
+        ],
+        "total_count": 585
+    },
+    {
+        "cluster_id": 181,
+        "attr_names": [
+            "specificity|(455)",
+            "specificity of praise|(86)",
+            "specificity of feedback|(24)",
+            "location-specific|(17)"
+        ],
+        "total_count": 582
+    },
+    {
+        "cluster_id": 154,
+        "attr_names": [
+            "sincerity|(536)",
+            "seriousness|(42)"
+        ],
+        "total_count": 578
+    },
+    {
+        "cluster_id": 141,
+        "attr_names": [
+            "mocking|(115)",
+            "offensiveness|(91)",
+            "profanity|(77)",
+            "insulting language|(73)",
+            "pejorative language|(36)",
+            "disrespect|(27)",
+            "sexism|(24)",
+            "mocking language|(23)",
+            "pejoratives|(20)",
+            "hate speech|(19)",
+            "spamminess|(17)",
+            "insults|(16)",
+            "insult level|(15)",
+            "belittling|(12)",
+            "name-calling|(11)"
+        ],
+        "total_count": 576
+    },
+    {
+        "cluster_id": 4,
+        "attr_names": [
+            "script quality|(76)",
+            "production quality|(50)",
+            "design quality|(44)",
+            "sound quality|(35)",
+            "dialogue quality|(35)",
+            "performance quality|(33)",
+            "build quality|(29)",
+            "story quality|(29)",
+            "special effects quality|(29)",
+            "visual quality|(27)",
+            "material quality|(24)",
+            "writing quality|(21)",
+            "cinematic quality|(20)",
+            "music quality|(17)",
+            "room quality|(17)",
+            "quality of work|(15)",
+            "technical quality|(14)",
+            "direction quality|(14)",
+            "opinion on movie quality|(11)",
+            "editing quality|(11)",
+            "visual effects quality|(11)",
+            "visual effects|(11)"
+        ],
+        "total_count": 573
+    },
+    {
+        "cluster_id": 182,
+        "attr_names": [
+            "engagement level|(397)",
+            "interest level|(33)",
+            "level of engagement|(29)",
+            "attentiveness|(24)",
+            "passion level|(22)",
+            "motivational level|(21)",
+            "energy level|(16)",
+            "level of effort|(15)",
+            "romance level|(12)"
+        ],
+        "total_count": 569
+    },
+    {
+        "cluster_id": 95,
+        "attr_names": [
+            "critical tone|(211)",
+            "critical sentiment|(149)",
+            "criticalness|(53)",
+            "critical|(46)",
+            "critical evaluation|(42)",
+            "criticality|(28)",
+            "critical leniency|(24)",
+            "critical opinion|(12)"
+        ],
+        "total_count": 565
+    },
+    {
+        "cluster_id": 161,
+        "attr_names": [
+            "perspective|(404)",
+            "global perspective|(59)",
+            "reflection|(29)",
+            "reflective|(26)",
+            "critical perspective|(22)",
+            "future outlook|(12)",
+            "forward-looking|(12)"
+        ],
+        "total_count": 564
+    },
+    {
+        "cluster_id": 151,
+        "attr_names": [
+            "creativity|(327)",
+            "creativity appreciation|(65)",
+            "intellectual stimulation|(46)",
+            "innovation|(27)",
+            "appreciation for creativity|(24)",
+            "creative expression|(22)",
+            "creativity level|(21)",
+            "creative merit|(19)",
+            "creative freedom|(12)"
+        ],
+        "total_count": 563
+    },
+    {
+        "cluster_id": 87,
+        "attr_names": [
+            "moral judgment|(287)",
+            "moral stance|(87)",
+            "moral tone|(43)",
+            "moral ambiguity|(33)",
+            "final verdict|(17)",
+            "moral disapproval|(17)",
+            "morality|(15)",
+            "moral imperative|(14)",
+            "value judgment|(13)",
+            "moral certainty|(13)",
+            "non-judgmental|(11)",
+            "moralizing|(11)"
+        ],
+        "total_count": 561
+    },
+    {
+        "cluster_id": 59,
+        "attr_names": [
+            "curiosity|(249)",
+            "curiosity level|(70)",
+            "investigative|(34)",
+            "mystery|(34)",
+            "inquisitiveness|(32)",
+            "questioning|(31)",
+            "intellectual curiosity|(27)",
+            "discovery|(26)",
+            "intrigue|(25)",
+            "novelty seeking|(16)",
+            "investigative tone|(11)"
+        ],
+        "total_count": 555
+    },
+    {
+        "cluster_id": 46,
+        "attr_names": [
+            "environmental concern|(215)",
+            "concern|(175)",
+            "health concern|(62)",
+            "concern level|(44)",
+            "concern for others|(35)",
+            "parental concern|(23)"
+        ],
+        "total_count": 554
+    },
+    {
+        "cluster_id": 1,
+        "attr_names": [
+            "constructive criticism|(464)",
+            "constructive feedback|(49)",
+            "constructiveness|(21)",
+            "playful criticism|(11)"
+        ],
+        "total_count": 545
+    },
+    {
+        "cluster_id": 184,
+        "attr_names": [
+            "sense of community|(389)",
+            "community spirit|(39)",
+            "sense of belonging|(32)",
+            "sense of solidarity|(24)",
+            "cohesion|(19)",
+            "sense of control|(17)",
+            "collaborative spirit|(11)",
+            "sense of unity|(11)"
+        ],
+        "total_count": 542
+    },
+    {
+        "cluster_id": 127,
+        "attr_names": [
+            "rhetorical questions|(144)",
+            "rhetorical devices|(123)",
+            "rhetoric|(107)",
+            "rhetorical device|(53)",
+            "rhetorical style|(42)",
+            "rhetorical questioning|(34)",
+            "slogans|(24)",
+            "rhetorical question|(12)"
+        ],
+        "total_count": 539
+    },
+    {
+        "cluster_id": 152,
+        "attr_names": [
+            "author's attitude|(387)",
+            "author's personality|(57)",
+            "author's passion|(26)",
+            "personality|(22)",
+            "author's values|(16)",
+            "author attitude|(14)",
+            "personality trait|(13)"
+        ],
+        "total_count": 535
+    },
+    {
+        "cluster_id": 139,
+        "attr_names": [
+            "patriotism|(218)",
+            "national pride|(148)",
+            "pride|(73)",
+            "team spirit|(28)",
+            "local pride|(26)",
+            "regional pride|(22)",
+            "cultural pride|(19)"
+        ],
+        "total_count": 534
+    },
+    {
+        "cluster_id": 38,
+        "attr_names": [
+            "personal touch|(190)",
+            "personalization|(141)",
+            "personal attack|(130)",
+            "personal impact|(33)",
+            "personal responsibility|(23)",
+            "level of personalization|(15)"
+        ],
+        "total_count": 532
+    },
+    {
+        "cluster_id": 153,
+        "attr_names": [
+            "return intent|(256)",
+            "intent to return|(231)",
+            "return intention|(40)"
+        ],
+        "total_count": 527
+    },
+    {
+        "cluster_id": 45,
+        "attr_names": [
+            "language aggression|(292)",
+            "language intensity|(92)",
+            "accusatory language|(66)",
+            "strong language|(25)",
+            "inflammatory language|(25)",
+            "aggressive language|(24)"
+        ],
+        "total_count": 524
+    },
+    {
+        "cluster_id": 124,
+        "attr_names": [
+            "brand loyalty|(268)",
+            "customer loyalty|(60)",
+            "product loyalty|(53)",
+            "loyalty impact|(45)",
+            "fan loyalty|(40)",
+            "team loyalty|(29)",
+            "regional loyalty|(17)",
+            "brand affinity|(12)"
+        ],
+        "total_count": 524
+    },
+    {
+        "cluster_id": 57,
+        "attr_names": [
+            "acting quality|(304)",
+            "actor|(58)",
+            "acting performance|(32)",
+            "star power|(30)",
+            "actress sentiment|(22)",
+            "actor performance|(21)",
+            "actor performance sentiment|(20)",
+            "cast performance|(12)",
+            "casting approval|(12)",
+            "acting quality sentiment|(11)"
+        ],
+        "total_count": 522
+    },
+    {
+        "cluster_id": 98,
+        "attr_names": [
+            "pacing|(232)",
+            "timeliness|(67)",
+            "pacing satisfaction|(61)",
+            "pacing issues|(55)",
+            "pacing appreciation|(24)",
+            "repetitiveness|(23)",
+            "pacing criticism|(22)",
+            "time management|(15)",
+            "punctuality|(12)",
+            "attention span|(11)"
+        ],
+        "total_count": 522
+    },
+    {
+        "cluster_id": 171,
+        "attr_names": [
+            "relief|(184)",
+            "emotional relief|(115)",
+            "comfort|(44)",
+            "relaxation level|(43)",
+            "relief level|(23)",
+            "emotional release|(23)",
+            "detachment|(21)",
+            "sense of relief|(20)",
+            "coping mechanism|(14)",
+            "relaxation|(13)",
+            "conviction|(11)",
+            "redemption|(11)"
+        ],
+        "total_count": 522
+    },
+    {
+        "cluster_id": 68,
+        "attr_names": [
+            "reliability|(216)",
+            "consistency|(73)",
+            "product reliability|(46)",
+            "reliability concerns|(44)",
+            "repeatability|(27)",
+            "rating consistency|(23)",
+            "order accuracy|(21)",
+            "frequency of use|(19)",
+            "compatibility|(17)",
+            "reliability concern|(12)",
+            "product accuracy|(12)"
+        ],
+        "total_count": 510
+    },
+    {
+        "cluster_id": 131,
+        "attr_names": [
+            "confusion|(285)",
+            "confusion level|(177)",
+            "ambiguity|(30)",
+            "mystery level|(12)"
+        ],
+        "total_count": 504
+    },
+    {
+        "cluster_id": 16,
+        "attr_names": [
+            "subjectivity|(259)",
+            "reflectiveness|(94)",
+            "philosophical depth|(27)",
+            "thematic depth|(22)",
+            "psychological insight|(20)",
+            "philosophical|(19)",
+            "personality insight|(18)",
+            "insightfulness|(16)",
+            "contextual dependence|(14)",
+            "philosophical tone|(13)"
+        ],
+        "total_count": 502
+    },
+    {
+        "cluster_id": 155,
+        "attr_names": [
+            "sentimental value|(205)",
+            "inspirational|(101)",
+            "inspirational value|(82)",
+            "inspiration|(37)",
+            "motivational|(31)",
+            "unique selling point|(20)",
+            "inspirational language|(15)",
+            "inspirational tone|(11)"
+        ],
+        "total_count": 502
+    },
+    {
+        "cluster_id": 99,
+        "attr_names": [
+            "alarmism|(183)",
+            "sensationalism|(158)",
+            "fear-mongering|(108)",
+            "risk aversion|(18)",
+            "paranoia|(18)",
+            "alarmist|(16)"
+        ],
+        "total_count": 501
+    },
+    {
+        "cluster_id": 30,
+        "attr_names": [
+            "food quality sentiment|(183)",
+            "food quality expectation|(177)",
+            "quality expectation|(85)",
+            "product quality expectation|(21)",
+            "food expectation|(19)",
+            "taste expectation|(12)"
+        ],
+        "total_count": 497
+    },
+    {
+        "cluster_id": 100,
+        "attr_names": [
+            "author's stance|(251)",
+            "author's perspective|(85)",
+            "author's intent|(56)",
+            "author's expectations|(36)",
+            "author's expectation|(29)",
+            "author's purpose|(14)",
+            "author's experience|(12)"
+        ],
+        "total_count": 483
+    },
+    {
+        "cluster_id": 144,
+        "attr_names": [
+            "anticipation|(278)",
+            "predictability|(136)",
+            "suspense|(29)",
+            "unpredictability|(18)",
+            "plot predictability|(11)"
+        ],
+        "total_count": 472
+    },
+    {
+        "cluster_id": 108,
+        "attr_names": [
+            "character development|(129)",
+            "character appreciation|(54)",
+            "characterization|(50)",
+            "appreciation for character development|(31)",
+            "plot coherence|(26)",
+            "character perception|(23)",
+            "character portrayal|(22)",
+            "character relatability|(19)",
+            "sentiment towards characters|(18)",
+            "character attachment|(17)",
+            "character development appreciation|(15)",
+            "character development sentiment|(13)",
+            "character appeal|(13)",
+            "character engagement|(12)",
+            "character connection|(12)",
+            "character likability|(12)"
+        ],
+        "total_count": 466
+    },
+    {
+        "cluster_id": 146,
+        "attr_names": [
+            "reviewer's expertise|(153)",
+            "reviewer's personality|(41)",
+            "reviewer's attitude|(35)",
+            "reviewer's confidence|(27)",
+            "reviewer's emotional state|(27)",
+            "trust in reviews|(26)",
+            "reviewer's intent|(23)",
+            "reviewer's priorities|(20)",
+            "reviewer's tone|(17)",
+            "reviewer's expectations|(17)",
+            "reviewer's investment|(16)",
+            "reviewer's patience|(14)",
+            "reviewer's frustration|(14)",
+            "review purpose|(13)",
+            "reviewer's frustration level|(11)",
+            "critical reception|(11)"
+        ],
+        "total_count": 465
+    },
+    {
+        "cluster_id": 51,
+        "attr_names": [
+            "social commentary|(428)",
+            "cultural commentary|(26)"
+        ],
+        "total_count": 454
+    },
+    {
+        "cluster_id": 133,
+        "attr_names": [
+            "customer service|(98)",
+            "customer service experience|(51)",
+            "customer service sentiment|(47)",
+            "customer service satisfaction|(42)",
+            "customer frustration|(40)",
+            "customer support|(28)",
+            "customer support experience|(26)",
+            "customer service expectation|(24)",
+            "customer effort|(20)",
+            "customer support satisfaction|(15)",
+            "customer service rating|(14)",
+            "appreciation for customer service|(14)",
+            "frustration with customer service|(14)",
+            "customer service perception|(11)"
+        ],
+        "total_count": 444
+    },
+    {
+        "cluster_id": 165,
+        "attr_names": [
+            "social engagement|(111)",
+            "audience|(62)",
+            "social media engagement|(60)",
+            "reader engagement|(47)",
+            "audience engagement|(45)",
+            "fan engagement|(44)",
+            "social media style|(24)",
+            "social sharing|(20)",
+            "social media savviness|(14)",
+            "global reach|(13)"
+        ],
+        "total_count": 440
+    },
+    {
+        "cluster_id": 86,
+        "attr_names": [
+            "convenience|(118)",
+            "promotional|(100)",
+            "location convenience|(47)",
+            "parking convenience|(32)",
+            "convenience appreciation|(29)",
+            "portability|(26)",
+            "convenience sentiment|(21)",
+            "accommodation|(14)",
+            "scarcity|(14)",
+            "frugality|(13)",
+            "amenities|(12)",
+            "affordability|(11)"
+        ],
+        "total_count": 437
+    },
+    {
+        "cluster_id": 136,
+        "attr_names": [
+            "sentiment towards the movie|(224)",
+            "sentiment towards the film|(86)",
+            "opinion on the movie|(29)",
+            "sentiment towards the book|(22)",
+            "cinematic craftsmanship|(17)",
+            "cinematic experience|(16)",
+            "opinion on the film|(15)",
+            "special effects sentiment|(14)",
+            "respect for the movie|(11)"
+        ],
+        "total_count": 434
+    },
+    {
+        "cluster_id": 180,
+        "attr_names": [
+            "bluntness|(281)",
+            "brevity|(109)",
+            "conciseness|(22)",
+            "directness|(20)"
+        ],
+        "total_count": 432
+    },
+    {
+        "cluster_id": 166,
+        "attr_names": [
+            "condescension|(143)",
+            "tone of authority|(65)",
+            "authoritative tone|(43)",
+            "tone towards authority|(38)",
+            "authoritative|(31)",
+            "authoritarian tone|(28)",
+            "authoritativeness|(22)",
+            "parental approval|(21)",
+            "intellectual condescension|(18)",
+            "condescension level|(11)",
+            "superiority|(11)"
+        ],
+        "total_count": 431
+    },
+    {
+        "cluster_id": 55,
+        "attr_names": [
+            "amusement|(169)",
+            "enjoyment level|(70)",
+            "overall enjoyment|(66)",
+            "enjoyment|(35)",
+            "boredom|(19)",
+            "social enjoyment|(17)",
+            "amusement level|(16)",
+            "personal enjoyment|(13)",
+            "gameplay enjoyment|(13)",
+            "fun factor|(11)"
+        ],
+        "total_count": 429
+    },
+    {
+        "cluster_id": 111,
+        "attr_names": [
+            "problem-solving|(115)",
+            "problem-solving ability|(92)",
+            "problem-solving orientation|(47)",
+            "solution-oriented|(40)",
+            "problem-solving attitude|(39)",
+            "problem-solving effort|(29)",
+            "problem-solving effectiveness|(21)",
+            "action-oriented|(17)",
+            "solution focus|(14)",
+            "goal-oriented|(14)"
+        ],
+        "total_count": 428
+    },
+    {
+        "cluster_id": 176,
+        "attr_names": [
+            "opinionatedness|(241)",
+            "opinion|(103)",
+            "opinion strength|(58)",
+            "opinionated|(22)"
+        ],
+        "total_count": 424
+    },
+    {
+        "cluster_id": 11,
+        "attr_names": [
+            "tone of review|(202)",
+            "tone of advice|(102)",
+            "tone of recommendation|(51)",
+            "promotional tone|(47)",
+            "tone of the review|(12)"
+        ],
+        "total_count": 414
+    },
+    {
+        "cluster_id": 179,
+        "attr_names": [
+            "fear factor|(83)",
+            "fear|(66)",
+            "fear level|(53)",
+            "suspense level|(52)",
+            "anxiety level|(40)",
+            "threat level|(28)",
+            "fear appeal|(26)",
+            "anxiety|(20)",
+            "paranoia level|(20)",
+            "fear and anxiety|(14)",
+            "stress level|(11)"
+        ],
+        "total_count": 413
+    },
+    {
+        "cluster_id": 48,
+        "attr_names": [
+            "disgust|(200)",
+            "disgust level|(84)",
+            "tone of disgust|(44)",
+            "embarrassment|(29)",
+            "embarrassment level|(24)",
+            "level of disgust|(13)",
+            "gore level|(12)"
+        ],
+        "total_count": 406
+    },
+    {
+        "cluster_id": 114,
+        "attr_names": [
+            "hashtags|(124)",
+            "hashtag activism|(107)",
+            "social movement affiliation|(88)",
+            "hashtag sentiment|(33)",
+            "social movement|(17)",
+            "social movement support|(17)",
+            "hashtag usage|(11)"
+        ],
+        "total_count": 397
+    },
+    {
+        "cluster_id": 17,
+        "attr_names": [
+            "menu variety|(94)",
+            "food variety|(51)",
+            "product versatility|(36)",
+            "repetition|(36)",
+            "product variety|(24)",
+            "variety appreciation|(22)",
+            "music taste|(21)",
+            "musical taste|(20)",
+            "variety of options|(20)",
+            "variety|(19)",
+            "food variety appreciation|(16)",
+            "genre classification|(13)",
+            "food variety satisfaction|(13)",
+            "appreciation for variety|(11)"
+        ],
+        "total_count": 396
+    },
+    {
+        "cluster_id": 70,
+        "attr_names": [
+            "appreciation for acting|(104)",
+            "actor appreciation|(58)",
+            "acting appreciation|(58)",
+            "respect for actors|(34)",
+            "respect for the cast|(27)",
+            "cast appreciation|(23)",
+            "actress appreciation|(20)",
+            "appreciation for cast|(18)",
+            "respect for the actor|(15)",
+            "admiration for actors|(15)",
+            "praise for acting|(12)",
+            "appreciation for the cast|(11)"
+        ],
+        "total_count": 395
+    },
+    {
+        "cluster_id": 73,
+        "attr_names": [
+            "bias|(210)",
+            "neutrality|(47)",
+            "regional bias|(21)",
+            "author's bias|(17)",
+            "prejudice|(16)",
+            "tendency to generalize|(14)",
+            "cultural bias|(14)",
+            "perceived bias|(12)",
+            "personal bias|(11)",
+            "political bias|(11)",
+            "favoritism|(11)",
+            "racial bias|(11)"
+        ],
+        "total_count": 395
+    },
+    {
+        "cluster_id": 186,
+        "attr_names": [
+            "friendliness|(258)",
+            "family-friendliness|(72)",
+            "pet-friendliness|(23)",
+            "family friendliness|(20)",
+            "group friendliness|(11)",
+            "welcoming atmosphere|(11)"
+        ],
+        "total_count": 395
+    },
+    {
+        "cluster_id": 10,
+        "attr_names": [
+            "persuasiveness|(178)",
+            "argumentativeness|(150)",
+            "argumentation style|(32)",
+            "intellectualism|(20)",
+            "argumentative|(12)"
+        ],
+        "total_count": 392
+    },
+    {
+        "cluster_id": 163,
+        "attr_names": [
+            "respect for authority|(182)",
+            "authority|(45)",
+            "trust in authority|(42)",
+            "sentiment towards authority|(40)",
+            "author's attitude towards authority|(20)",
+            "attitude towards authority|(19)",
+            "support for authority|(14)",
+            "reference to authority|(13)",
+            "distrust of authority|(11)"
+        ],
+        "total_count": 386
+    },
+    {
+        "cluster_id": 104,
+        "attr_names": [
+            "confidence level|(314)",
+            "level of certainty|(38)",
+            "rating confidence|(16)",
+            "certainty level|(15)"
+        ],
+        "total_count": 383
+    },
+    {
+        "cluster_id": 36,
+        "attr_names": [
+            "staff attitude|(88)",
+            "staff responsiveness|(60)",
+            "staff attentiveness|(48)",
+            "staff sentiment|(31)",
+            "server attitude|(24)",
+            "staff behavior|(24)",
+            "staff evaluation|(23)",
+            "sentiment towards staff|(19)",
+            "employee attitude|(18)",
+            "tone towards staff|(15)",
+            "staff empathy|(15)",
+            "attitude towards staff|(11)"
+        ],
+        "total_count": 376
+    },
+    {
+        "cluster_id": 117,
+        "attr_names": [
+            "personal preference|(85)",
+            "flavor profile|(59)",
+            "taste preference|(40)",
+            "texture preference|(27)",
+            "alternative preference|(22)",
+            "personal taste|(19)",
+            "food preference|(18)",
+            "design preference|(15)",
+            "flavor preference|(13)",
+            "hair type suitability|(13)",
+            "flavor balance|(12)",
+            "format preference|(12)",
+            "taste|(12)",
+            "scent preference|(11)",
+            "color preference|(11)"
+        ],
+        "total_count": 369
+    },
+    {
+        "cluster_id": 122,
+        "attr_names": [
+            "sense of betrayal|(326)",
+            "sense of isolation|(25)",
+            "sense of abandonment|(13)"
+        ],
+        "total_count": 364
+    },
+    {
+        "cluster_id": 33,
+        "attr_names": [
+            "author's confidence|(232)",
+            "confidence in opinion|(76)",
+            "author's investment|(18)",
+            "confidence boost|(17)",
+            "author's trust|(12)"
+        ],
+        "total_count": 355
+    },
+    {
+        "cluster_id": 172,
+        "attr_names": [
+            "moral outrage|(198)",
+            "sense of outrage|(49)",
+            "indignation|(44)",
+            "outrage|(33)",
+            "moral indignation|(23)"
+        ],
+        "total_count": 347
+    },
+    {
+        "cluster_id": 187,
+        "attr_names": [
+            "disagreement|(96)",
+            "controversy|(86)",
+            "ambivalence|(41)",
+            "conflict level|(41)",
+            "conflict|(32)",
+            "racial tension|(30)",
+            "controversy level|(16)"
+        ],
+        "total_count": 342
+    },
+    {
+        "cluster_id": 118,
+        "attr_names": [
+            "nationalism|(183)",
+            "authoritarianism|(59)",
+            "tribalism|(51)",
+            "xenophobia|(22)",
+            "nationalistic sentiment|(20)"
+        ],
+        "total_count": 335
+    },
+    {
+        "cluster_id": 164,
+        "attr_names": [
+            "social justice orientation|(213)",
+            "social responsibility|(57)",
+            "social justice concern|(22)",
+            "social justice|(20)",
+            "social justice awareness|(12)",
+            "concern for social justice|(11)"
+        ],
+        "total_count": 335
+    },
+    {
+        "cluster_id": 142,
+        "attr_names": [
+            "empowerment|(245)",
+            "independence|(22)",
+            "sense of empowerment|(21)",
+            "power dynamics|(20)",
+            "influence|(13)",
+            "empowerment level|(11)"
+        ],
+        "total_count": 332
+    },
+    {
+        "cluster_id": 54,
+        "attr_names": [
+            "realism|(238)",
+            "realism expectation|(39)",
+            "appreciation for realism|(30)",
+            "realism appreciation|(15)"
+        ],
+        "total_count": 322
+    },
+    {
+        "cluster_id": 61,
+        "attr_names": [
+            "speculation|(185)",
+            "speculation level|(59)",
+            "speculative|(44)",
+            "level of speculation|(19)"
+        ],
+        "total_count": 307
+    },
+    {
+        "cluster_id": 177,
+        "attr_names": [
+            "likelihood to return|(142)",
+            "likelihood of return|(119)",
+            "frequency of visits|(21)",
+            "willingness to return|(17)"
+        ],
+        "total_count": 299
+    },
+    {
+        "cluster_id": 47,
+        "attr_names": [
+            "community engagement|(55)",
+            "community focus|(52)",
+            "community-oriented|(46)",
+            "community involvement|(33)",
+            "community affiliation|(24)",
+            "civic engagement|(18)",
+            "community building|(16)",
+            "community|(15)",
+            "parental involvement|(14)",
+            "support for local business|(13)",
+            "community orientation|(12)"
+        ],
+        "total_count": 298
+    },
+    {
+        "cluster_id": 121,
+        "attr_names": [
+            "cultural reference|(101)",
+            "cultural significance|(96)",
+            "cultural relevance|(67)",
+            "importance|(26)"
+        ],
+        "total_count": 290
+    },
+    {
+        "cluster_id": 0,
+        "attr_names": [
+            "emotional trigger|(86)",
+            "emotional impact|(53)",
+            "emotional support|(51)",
+            "emotional triggers|(45)",
+            "emotional shift|(22)",
+            "emotional distress|(18)",
+            "emotional turmoil|(13)"
+        ],
+        "total_count": 288
+    },
+    {
+        "cluster_id": 107,
+        "attr_names": [
+            "historical significance|(79)",
+            "historical context|(69)",
+            "historical accuracy|(36)",
+            "historical reference|(32)",
+            "historical contextualization|(23)",
+            "historical awareness|(20)",
+            "historical perspective|(16)",
+            "historical appreciation|(11)"
+        ],
+        "total_count": 286
+    },
+    {
+        "cluster_id": 31,
+        "attr_names": [
+            "problem resolution|(51)",
+            "problem severity|(46)",
+            "technical difficulty|(35)",
+            "problem frequency|(24)",
+            "instruction clarity|(16)",
+            "design flaw awareness|(14)",
+            "assembly difficulty|(13)",
+            "problem awareness|(13)",
+            "installation difficulty|(13)",
+            "awareness of limitations|(13)",
+            "location awareness|(13)",
+            "technical issues|(11)",
+            "technical frustration|(11)"
+        ],
+        "total_count": 273
+    },
+    {
+        "cluster_id": 183,
+        "attr_names": [
+            "sense of frustration|(100)",
+            "exasperation|(80)",
+            "sense of exasperation|(33)",
+            "sense of inconvenience|(30)",
+            "physical discomfort|(14)",
+            "sense of alarm|(11)"
+        ],
+        "total_count": 268
+    },
+    {
+        "cluster_id": 148,
+        "attr_names": [
+            "perceived competence|(74)",
+            "perceived incompetence|(55)",
+            "perceived lack of accountability|(27)",
+            "perceived hypocrisy|(26)",
+            "lack of confidence|(22)",
+            "perceived corruption|(19)",
+            "perceived accountability|(17)",
+            "lack of accountability|(15)",
+            "perceived inefficiency|(11)"
+        ],
+        "total_count": 266
+    },
+    {
+        "cluster_id": 194,
+        "attr_names": [
+            "social identity|(92)",
+            "stereotyping|(55)",
+            "group identity|(42)",
+            "group affiliation|(29)",
+            "us-vs-them mentality|(24)",
+            "group dynamics|(13)",
+            "cultural identity|(11)"
+        ],
+        "total_count": 266
+    },
+    {
+        "cluster_id": 175,
+        "attr_names": [
+            "informative|(52)",
+            "informational value|(50)",
+            "information density|(48)",
+            "educational value|(42)",
+            "informative value|(29)",
+            "informativeness|(21)",
+            "newsworthiness|(14)"
+        ],
+        "total_count": 256
+    },
+    {
+        "cluster_id": 44,
+        "attr_names": [
+            "value for money sentiment|(91)",
+            "value sentiment|(53)",
+            "price sentiment|(44)",
+            "economic sentiment|(21)",
+            "financial sentiment|(17)",
+            "pricing sentiment|(13)",
+            "investment sentiment|(12)"
+        ],
+        "total_count": 251
+    },
+    {
+        "cluster_id": 198,
+        "attr_names": [
+            "comparison to previous experience|(85)",
+            "comparison to past experiences|(47)",
+            "comparison to past experience|(47)",
+            "comparison to previous experiences|(27)",
+            "comparison to previous work|(25)",
+            "comparison to previous works|(20)"
+        ],
+        "total_count": 251
+    },
+    {
+        "cluster_id": 123,
+        "attr_names": [
+            "respect for the director|(102)",
+            "sentiment towards the director|(28)",
+            "admiration for the director|(21)",
+            "director sentiment|(21)",
+            "director's performance|(14)",
+            "director appreciation|(14)",
+            "director's reputation|(14)",
+            "director's ability|(13)",
+            "director criticism|(12)",
+            "opinion on the director|(11)"
+        ],
+        "total_count": 250
+    },
+    {
+        "cluster_id": 6,
+        "attr_names": [
+            "impatience|(72)",
+            "patience level|(66)",
+            "patience|(48)",
+            "wait time|(31)",
+            "impatience level|(16)",
+            "waiting time|(12)"
+        ],
+        "total_count": 245
+    },
+    {
+        "cluster_id": 101,
+        "attr_names": [
+            "spirituality|(79)",
+            "spiritual|(71)",
+            "spiritual orientation|(30)",
+            "symbolism|(19)",
+            "religiosity|(17)",
+            "religious affiliation|(16)",
+            "unity|(13)"
+        ],
+        "total_count": 245
+    },
+    {
+        "cluster_id": 24,
+        "attr_names": [
+            "questioning authority|(70)",
+            "anti-establishment sentiment|(34)",
+            "criticism of authority|(24)",
+            "anti-establishment|(21)",
+            "frustration with authority|(17)",
+            "disapproval of authority|(16)",
+            "anti-authoritarian|(14)",
+            "authoritarian criticism|(13)",
+            "critique of authority|(11)",
+            "anti-authoritarian sentiment|(11)",
+            "anti-authoritarianism|(11)"
+        ],
+        "total_count": 242
+    },
+    {
+        "cluster_id": 143,
+        "attr_names": [
+            "flexibility|(118)",
+            "versatility|(57)",
+            "adaptability|(37)",
+            "fit|(15)",
+            "flexibility appreciation|(14)"
+        ],
+        "total_count": 241
+    },
+    {
+        "cluster_id": 132,
+        "attr_names": [
+            "trolling|(75)",
+            "troll-like behavior|(63)",
+            "trolling potential|(56)",
+            "trollishness|(21)",
+            "trolling intent|(21)"
+        ],
+        "total_count": 236
+    },
+    {
+        "cluster_id": 150,
+        "attr_names": [
+            "transparency|(149)",
+            "accountability|(47)",
+            "perceived transparency|(15)",
+            "transparency expectation|(11)",
+            "demand for accountability|(11)"
+        ],
+        "total_count": 233
+    },
+    {
+        "cluster_id": 199,
+        "attr_names": [
+            "age appropriateness|(58)",
+            "emotional maturity|(54)",
+            "maturity level|(35)",
+            "maturity|(22)",
+            "youthfulness|(21)",
+            "age appeal|(19)",
+            "age relevance|(13)"
+        ],
+        "total_count": 222
+    },
+    {
+        "cluster_id": 191,
+        "attr_names": [
+            "food presentation|(67)",
+            "highlight of the meal|(47)",
+            "food enjoyment|(21)",
+            "food taste|(17)",
+            "culinary sophistication|(17)",
+            "culinary adventurousness|(14)",
+            "low point of the meal|(14)",
+            "specific dish satisfaction|(13)",
+            "favorite dish|(11)"
+        ],
+        "total_count": 221
+    },
+    {
+        "cluster_id": 69,
+        "attr_names": [
+            "specificity of complaints|(144)",
+            "specific complaints|(34)",
+            "specificity of complaint|(25)",
+            "specific complaint|(14)"
+        ],
+        "total_count": 217
+    },
+    {
+        "cluster_id": 39,
+        "attr_names": [
+            "intent to repurchase|(52)",
+            "purchase motivation|(48)",
+            "purchase intent|(45)",
+            "purchase intention|(43)",
+            "purchase decision|(26)"
+        ],
+        "total_count": 214
+    },
+    {
+        "cluster_id": 189,
+        "attr_names": [
+            "complexity|(71)",
+            "appreciation for complexity|(29)",
+            "technical complexity|(27)",
+            "organization|(23)",
+            "dynamism|(19)",
+            "plot complexity|(16)",
+            "language complexity|(14)",
+            "messiness|(13)"
+        ],
+        "total_count": 212
+    },
+    {
+        "cluster_id": 195,
+        "attr_names": [
+            "romanticism|(107)",
+            "idealism|(28)",
+            "triumphalism|(26)",
+            "romanticization|(15)",
+            "rebellion|(15)",
+            "fatalism|(12)"
+        ],
+        "total_count": 203
+    },
+    {
+        "cluster_id": 64,
+        "attr_names": [
+            "target audience|(69)",
+            "commercial intent|(55)",
+            "promotional intent|(21)",
+            "sales pressure|(20)",
+            "commercialism|(18)",
+            "commerciality|(18)"
+        ],
+        "total_count": 201
+    },
+    {
+        "cluster_id": 77,
+        "attr_names": [
+            "fandom|(124)",
+            "pop culture reference|(22)",
+            "fandom affiliation|(18)",
+            "cult following|(16)",
+            "fanboy|(13)"
+        ],
+        "total_count": 193
+    },
+    {
+        "cluster_id": 160,
+        "attr_names": [
+            "user experience|(68)",
+            "sensory experience|(32)",
+            "immersive experience|(18)",
+            "product usability|(17)",
+            "customer experience|(16)",
+            "sensory description|(12)",
+            "unique experience|(12)"
+        ],
+        "total_count": 175
+    },
+    {
+        "cluster_id": 162,
+        "attr_names": [
+            "portion size|(114)",
+            "portion size satisfaction|(39)",
+            "portion size sentiment|(17)"
+        ],
+        "total_count": 170
+    },
+    {
+        "cluster_id": 106,
+        "attr_names": [
+            "design flaw|(30)",
+            "concern for safety|(27)",
+            "safety concern|(24)",
+            "safety concerns|(15)",
+            "health and safety concerns|(15)",
+            "cleanliness concern|(15)",
+            "hygiene concerns|(13)"
+        ],
+        "total_count": 139
+    },
+    {
+        "cluster_id": 158,
+        "attr_names": [
+            "hope for improvement|(39)",
+            "room for improvement|(27)",
+            "desire for improvement|(15)",
+            "potential|(15)",
+            "product improvement suggestions|(12)",
+            "suggestion for improvement|(12)",
+            "potential for improvement|(11)"
+        ],
+        "total_count": 131
+    },
+    {
+        "cluster_id": 7,
+        "attr_names": [
+            "comparison to other products|(53)",
+            "product comparison|(29)",
+            "comparison to similar products|(18)"
+        ],
+        "total_count": 100
+    },
+    {
+        "cluster_id": 96,
+        "attr_names": [
+            "length|(40)",
+            "length of review|(30)",
+            "length of use|(11)"
+        ],
+        "total_count": 81
+    }
+]

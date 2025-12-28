@@ -1,0 +1,4940 @@
+﻿[
+    {
+        "sentence": "I asked for a menu and the same waitress looked at my like I was insane .",
+        "quards_str": "[['waitress', 'service general', 'negative', 'insane']]",
+        "quards": [
+            {
+                "aspect": "waitress",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "insane"
+            }
+        ]
+    },
+    {
+        "sentence": "The owner truly caters to all your needs .",
+        "quards_str": "[['owner', 'service general', 'positive', 'caters to all your needs']]",
+        "quards": [
+            {
+                "aspect": "owner",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "caters to all your needs"
+            }
+        ]
+    },
+    {
+        "sentence": "I 'm a friendly person , so I wouldn 't mind had she not been so nasty and gotten so personal .",
+        "quards_str": "[['NULL', 'service general', 'negative', 'nasty']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "nasty"
+            }
+        ]
+    },
+    {
+        "sentence": "A great place to meet up for some food and drinks ...",
+        "quards_str": "[['place', 'restaurant miscellaneous', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "restaurant miscellaneous",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "Loved it",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'Loved']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "Loved"
+            }
+        ]
+    },
+    {
+        "sentence": "The owner and staff are all Japanese as well and that adds to the entire ambiance .",
+        "quards_str": "[['ambiance', 'ambience general', 'positive', 'adds']]",
+        "quards": [
+            {
+                "aspect": "ambiance",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "adds"
+            }
+        ]
+    },
+    {
+        "sentence": "The side dishes were passable , and I did get a refill upon request .",
+        "quards_str": "[['side dishes', 'food quality', 'neutral', 'passable'], ['side dishes', 'food style_options', 'positive', 'refill']]",
+        "quards": [
+            {
+                "aspect": "side dishes",
+                "category": "food quality",
+                "sentiment": "neutral",
+                "opinion": "passable"
+            },
+            {
+                "aspect": "side dishes",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "refill"
+            }
+        ]
+    },
+    {
+        "sentence": "Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",
+        "quards_str": "[['service', 'service general', 'positive', 'Great friendly'], ['seating', 'service general', 'positive', 'Fast'], ['Delivery', 'service general', 'positive', 'Fast'], ['sushi', 'food quality', 'positive', 'Excellent']]",
+        "quards": [
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "Great friendly"
+            },
+            {
+                "aspect": "seating",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "Fast"
+            },
+            {
+                "aspect": "Delivery",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "Fast"
+            },
+            {
+                "aspect": "sushi",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Excellent"
+            }
+        ]
+    },
+    {
+        "sentence": "I went there for lunch and it was not as good as I expected from the reviews I read .",
+        "quards_str": "[['lunch', 'food quality', 'negative', 'not as good as I expected']]",
+        "quards": [
+            {
+                "aspect": "lunch",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "not as good as I expected"
+            }
+        ]
+    },
+    {
+        "sentence": "The stuff tilapia was horrid ... tasted like cardboard .",
+        "quards_str": "[['stuff tilapia', 'food quality', 'negative', 'horrid']]",
+        "quards": [
+            {
+                "aspect": "stuff tilapia",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "horrid"
+            }
+        ]
+    },
+    {
+        "sentence": "I just do n't understand all the hype ...",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', \"do n't understand\"]]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "do n't understand"
+            }
+        ]
+    },
+    {
+        "sentence": "Subtle food and service",
+        "quards_str": "[['food', 'food quality', 'positive', 'Subtle'], ['service', 'service general', 'positive', 'Subtle']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Subtle"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "Subtle"
+            }
+        ]
+    },
+    {
+        "sentence": "Service was wonderful ;",
+        "quards_str": "[['Service', 'service general', 'positive', 'wonderful']]",
+        "quards": [
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "wonderful"
+            }
+        ]
+    },
+    {
+        "sentence": "The food here does a great service to the name ( Cantonese that is ... ) .",
+        "quards_str": "[['food', 'food quality', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "None was made so i hung up .",
+        "quards_str": "[['NULL', 'service general', 'negative', 'None was made']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "None was made"
+            }
+        ]
+    },
+    {
+        "sentence": "This place is a great bargain .",
+        "quards_str": "[['place', 'restaurant prices', 'positive', 'great bargain']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "restaurant prices",
+                "sentiment": "positive",
+                "opinion": "great bargain"
+            }
+        ]
+    },
+    {
+        "sentence": "I will be going back and heartily recommend it !",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'going back'], ['NULL', 'restaurant general', 'positive', 'heartily recommend']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "going back"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "heartily recommend"
+            }
+        ]
+    },
+    {
+        "sentence": "great hot dogs .",
+        "quards_str": "[['hot dogs', 'food quality', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "hot dogs",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "The food was good too .",
+        "quards_str": "[['food', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "Winnie and her staff are the best crew you can find serving you .",
+        "quards_str": "[['staff', 'service general', 'positive', 'best'], ['Winnie', 'service general', 'positive', 'best']]",
+        "quards": [
+            {
+                "aspect": "staff",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "best"
+            },
+            {
+                "aspect": "Winnie",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "best"
+            }
+        ]
+    },
+    {
+        "sentence": "Service was prompt , friendly and great .",
+        "quards_str": "[['Service', 'service general', 'positive', 'prompt'], ['Service', 'service general', 'positive', 'friendly'], ['Service', 'service general', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "prompt"
+            },
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "friendly"
+            },
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .",
+        "quards_str": "[['ambience', 'ambience general', 'positive', 'fun'], ['NULL', 'restaurant prices', 'positive', 'great'], ['food', 'food quality', 'positive', 'tasty']]",
+        "quards": [
+            {
+                "aspect": "ambience",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "fun"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "positive",
+                "opinion": "great"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "tasty"
+            }
+        ]
+    },
+    {
+        "sentence": "the food is always fresh ...",
+        "quards_str": "[['food', 'food quality', 'positive', 'fresh']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "fresh"
+            }
+        ]
+    },
+    {
+        "sentence": "Excellent sashimi , and the millennium roll is beyond delicious .",
+        "quards_str": "[['sashimi', 'food quality', 'positive', 'Excellent'], ['millennium roll', 'food quality', 'positive', 'delicious']]",
+        "quards": [
+            {
+                "aspect": "sashimi",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Excellent"
+            },
+            {
+                "aspect": "millennium roll",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            }
+        ]
+    },
+    {
+        "sentence": "Not a great place for family or general dining .",
+        "quards_str": "[['place', 'restaurant miscellaneous', 'negative', 'Not a great']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "restaurant miscellaneous",
+                "sentiment": "negative",
+                "opinion": "Not a great"
+            }
+        ]
+    },
+    {
+        "sentence": "The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",
+        "quards_str": "[['bagels', 'food quality', 'positive', 'warm'], ['bagels', 'food quality', 'positive', 'soft'], ['bagels', 'food quality', 'positive', 'crispy'], ['bagels', 'food style_options', 'positive', 'enormous']]",
+        "quards": [
+            {
+                "aspect": "bagels",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "warm"
+            },
+            {
+                "aspect": "bagels",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "soft"
+            },
+            {
+                "aspect": "bagels",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "crispy"
+            },
+            {
+                "aspect": "bagels",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "enormous"
+            }
+        ]
+    },
+    {
+        "sentence": "So rude ! ! !",
+        "quards_str": "[['NULL', 'service general', 'negative', 'rude']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "rude"
+            }
+        ]
+    },
+    {
+        "sentence": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice .",
+        "quards_str": "[['selection of thin crust pizza', 'food style_options', 'positive', 'good'], ['selection of thin crust pizza', 'food quality', 'positive', 'good'], ['pizza place', 'restaurant general', 'positive', 'nice'], ['Basil slice', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "selection of thin crust pizza",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "selection of thin crust pizza",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "pizza place",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "nice"
+            },
+            {
+                "aspect": "Basil slice",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is very average ... the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",
+        "quards_str": "[['food', 'food quality', 'negative', 'average'], ['Thai fusion stuff', 'food quality', 'negative', 'too sweet'], ['NULL', 'food quality', 'negative', 'too sweet']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "average"
+            },
+            {
+                "aspect": "Thai fusion stuff",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "too sweet"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "too sweet"
+            }
+        ]
+    },
+    {
+        "sentence": "Our waitress was n't mean , but not especially warm or attentive either .",
+        "quards_str": "[['waitress', 'service general', 'neutral', \"was n't mean\"]]",
+        "quards": [
+            {
+                "aspect": "waitress",
+                "category": "service general",
+                "sentiment": "neutral",
+                "opinion": "was n't mean"
+            }
+        ]
+    },
+    {
+        "sentence": "The sauce tasted more like Chinese fast food than decent Korean .",
+        "quards_str": "[['sauce', 'food quality', 'negative', 'Chinese fast food']]",
+        "quards": [
+            {
+                "aspect": "sauce",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "Chinese fast food"
+            }
+        ]
+    },
+    {
+        "sentence": "Mussles and calamari were superb Saturday evening .",
+        "quards_str": "[['Mussles', 'food quality', 'positive', 'superb'], ['calamari', 'food quality', 'positive', 'superb']]",
+        "quards": [
+            {
+                "aspect": "Mussles",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "superb"
+            },
+            {
+                "aspect": "calamari",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "superb"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is wonderful , tasty and filling , and the service is professional and friendly .",
+        "quards_str": "[['food', 'food quality', 'positive', 'wonderful'], ['food', 'food quality', 'positive', 'tasty'], ['food', 'food style_options', 'positive', 'filling'], ['service', 'service general', 'positive', 'professional'], ['service', 'service general', 'positive', 'friendly']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "wonderful"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "tasty"
+            },
+            {
+                "aspect": "food",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "filling"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "professional"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "friendly"
+            }
+        ]
+    },
+    {
+        "sentence": "The service is awful .",
+        "quards_str": "[['service', 'service general', 'negative', 'awful']]",
+        "quards": [
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "awful"
+            }
+        ]
+    },
+    {
+        "sentence": "The fish was adequate , but inexpertly sliced .",
+        "quards_str": "[['fish', 'food style_options', 'negative', 'adequate'], ['fish', 'food style_options', 'negative', 'inexpertly sliced']]",
+        "quards": [
+            {
+                "aspect": "fish",
+                "category": "food style_options",
+                "sentiment": "negative",
+                "opinion": "adequate"
+            },
+            {
+                "aspect": "fish",
+                "category": "food style_options",
+                "sentiment": "negative",
+                "opinion": "inexpertly sliced"
+            }
+        ]
+    },
+    {
+        "sentence": "Bagels are ok , but be sure not to make any special requests !",
+        "quards_str": "[['Bagels', 'food quality', 'neutral', 'ok'], ['NULL', 'service general', 'negative', 'not to make any special requests']]",
+        "quards": [
+            {
+                "aspect": "Bagels",
+                "category": "food quality",
+                "sentiment": "neutral",
+                "opinion": "ok"
+            },
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "not to make any special requests"
+            }
+        ]
+    },
+    {
+        "sentence": "Good Food",
+        "quards_str": "[['Food', 'food quality', 'positive', 'Good']]",
+        "quards": [
+            {
+                "aspect": "Food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Good"
+            }
+        ]
+    },
+    {
+        "sentence": "The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",
+        "quards_str": "[['food', 'food quality', 'positive', 'amazing'], ['service', 'service general', 'positive', 'prompt'], ['service', 'service general', 'positive', 'helpful'], ['service', 'service general', 'positive', 'not over-bearing or rushed']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "amazing"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "prompt"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "helpful"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "not over-bearing or rushed"
+            }
+        ]
+    },
+    {
+        "sentence": "Sauce was watery and the food did n't have much flavor .",
+        "quards_str": "[['Sauce', 'food quality', 'negative', 'watery'], ['food', 'food quality', 'negative', \"did n't have much flavor\"]]",
+        "quards": [
+            {
+                "aspect": "Sauce",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "watery"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "did n't have much flavor"
+            }
+        ]
+    },
+    {
+        "sentence": "I was n't here for the pizza so I can 't comment on that yet but what I had was very good .",
+        "quards_str": "[['NULL', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "We were less than impressed .",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'less than impressed']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "less than impressed"
+            }
+        ]
+    },
+    {
+        "sentence": "The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for !",
+        "quards_str": "[['cocktail with Citrus Vodka and lemon and lime juice and mint leaves', 'drinks quality', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "cocktail with Citrus Vodka and lemon and lime juice and mint leaves",
+                "category": "drinks quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "The food was average or above including some surprising tasty dishes .",
+        "quards_str": "[['food', 'food quality', 'positive', 'average or above'], ['dishes', 'food quality', 'positive', 'tasty']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "average or above"
+            },
+            {
+                "aspect": "dishes",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "tasty"
+            }
+        ]
+    },
+    {
+        "sentence": "sometimes i get bad food and bad service , sometimes i get good good and bad service .",
+        "quards_str": "[['food', 'food quality', 'negative', 'bad'], ['service', 'service general', 'negative', 'bad'], ['service', 'service general', 'negative', 'bad'], ['good', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "bad"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "bad"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "bad"
+            },
+            {
+                "aspect": "good",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "Best drumsticks over rice and sour spicy soup in town !",
+        "quards_str": "[['drumsticks over rice', 'food quality', 'positive', 'Best'], ['sour spicy soup', 'food quality', 'positive', 'Best']]",
+        "quards": [
+            {
+                "aspect": "drumsticks over rice",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Best"
+            },
+            {
+                "aspect": "sour spicy soup",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Best"
+            }
+        ]
+    },
+    {
+        "sentence": "The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .",
+        "quards_str": "[['bagel', 'food style_options', 'negative', 'messy']]",
+        "quards": [
+            {
+                "aspect": "bagel",
+                "category": "food style_options",
+                "sentiment": "negative",
+                "opinion": "messy"
+            }
+        ]
+    },
+    {
+        "sentence": "A few tips : skip the turnip cake , roast pork buns and egg custards .",
+        "quards_str": "[['turnip cake', 'food quality', 'negative', 'skip'], ['roast pork buns', 'food quality', 'negative', 'skip'], ['egg custards', 'food quality', 'negative', 'skip']]",
+        "quards": [
+            {
+                "aspect": "turnip cake",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "skip"
+            },
+            {
+                "aspect": "roast pork buns",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "skip"
+            },
+            {
+                "aspect": "egg custards",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "skip"
+            }
+        ]
+    },
+    {
+        "sentence": "Best In ALL of NYC",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'Best']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "Best"
+            }
+        ]
+    },
+    {
+        "sentence": "Not worth it .",
+        "quards_str": "[['NULL', 'food prices', 'negative', 'Not worth']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "Not worth"
+            }
+        ]
+    },
+    {
+        "sentence": "Vanison was good but not amazing .",
+        "quards_str": "[['Vanison', 'food quality', 'neutral', 'good']]",
+        "quards": [
+            {
+                "aspect": "Vanison",
+                "category": "food quality",
+                "sentiment": "neutral",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "At first we were a little taken aback , as this seemed to present a problem , although the restaurant looked fairly empty , but they hastily put the table together for us .",
+        "quards_str": "[['NULL', 'service general', 'positive', 'hastily put the table together for us']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "hastily put the table together for us"
+            }
+        ]
+    },
+    {
+        "sentence": "But for the Shabu Shabu , you won 't find much better in NY .",
+        "quards_str": "[['Shabu Shabu', 'food quality', 'positive', \"won 't find much better\"]]",
+        "quards": [
+            {
+                "aspect": "Shabu Shabu",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "won 't find much better"
+            }
+        ]
+    },
+    {
+        "sentence": "The Cypriot restaurant has a lot going for it .",
+        "quards_str": "[['Cypriot restaurant', 'restaurant general', 'positive', 'a lot going']]",
+        "quards": [
+            {
+                "aspect": "Cypriot restaurant",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "a lot going"
+            }
+        ]
+    },
+    {
+        "sentence": "I have worked in restaurants and cook a lot , and there is no way a maggot should be able to get into well prepared food .",
+        "quards_str": "[['food', 'food quality', 'negative', 'well prepared']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "well prepared"
+            }
+        ]
+    },
+    {
+        "sentence": "I 've been to at Cafe Spice probably 5-8 times , it is probably still the best Indian restaurant around Union Square .",
+        "quards_str": "[['Cafe Spice', 'restaurant general', 'positive', 'best']]",
+        "quards": [
+            {
+                "aspect": "Cafe Spice",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "best"
+            }
+        ]
+    },
+    {
+        "sentence": "There 's nice and quiet , small but enough for 6 ( or more ) .",
+        "quards_str": "[['NULL', 'ambience general', 'positive', 'quiet'], ['NULL', 'ambience general', 'positive', 'nice']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "quiet"
+            },
+            {
+                "aspect": "NULL",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "nice"
+            }
+        ]
+    },
+    {
+        "sentence": "I really loved the different and inovated touch that 's the cheff gives to the food .",
+        "quards_str": "[['cheff', 'food style_options', 'positive', 'loved'], ['cheff', 'food style_options', 'positive', 'inovated']]",
+        "quards": [
+            {
+                "aspect": "cheff",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "loved"
+            },
+            {
+                "aspect": "cheff",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "inovated"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is good , I ca n't lie .",
+        "quards_str": "[['food', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "Service , however , was excellent ... and I liked the setting/atmosphere a lot .",
+        "quards_str": "[['Service', 'service general', 'positive', 'excellent'], ['setting/atmosphere', 'ambience general', 'positive', 'liked']]",
+        "quards": [
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            },
+            {
+                "aspect": "setting/atmosphere",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "liked"
+            }
+        ]
+    },
+    {
+        "sentence": "Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .",
+        "quards_str": "[['Food', 'food quality', 'positive', 'good'], ['raw vegatables in side orders', 'food quality', 'negative', 'wondered about freshmess']]",
+        "quards": [
+            {
+                "aspect": "Food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "raw vegatables in side orders",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "wondered about freshmess"
+            }
+        ]
+    },
+    {
+        "sentence": "I recommend it !",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'recommend']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "recommend"
+            }
+        ]
+    },
+    {
+        "sentence": "My party had the BBE $ 29 fixe prix menu , which was such a wonderful deal since it also came with a flight of sake !",
+        "quards_str": "[['BBE $ 29 fixe prix menu', 'food prices', 'positive', 'wonderful'], ['BBE $ 29 fixe prix menu', 'food style_options', 'positive', 'a flight of sake']]",
+        "quards": [
+            {
+                "aspect": "BBE $ 29 fixe prix menu",
+                "category": "food prices",
+                "sentiment": "positive",
+                "opinion": "wonderful"
+            },
+            {
+                "aspect": "BBE $ 29 fixe prix menu",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "a flight of sake"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is reliable and the price is moderate .",
+        "quards_str": "[['food', 'food quality', 'positive', 'reliable'], ['NULL', 'restaurant prices', 'neutral', 'moderate']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "reliable"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "neutral",
+                "opinion": "moderate"
+            }
+        ]
+    },
+    {
+        "sentence": "My roommate and I LOVE this place .",
+        "quards_str": "[['place', 'restaurant general', 'positive', 'LOVE']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "LOVE"
+            }
+        ]
+    },
+    {
+        "sentence": "If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .",
+        "quards_str": "[['bottle', 'drinks prices', 'negative', 'love'], ['music', 'ambience general', 'negative', 'like']]",
+        "quards": [
+            {
+                "aspect": "bottle",
+                "category": "drinks prices",
+                "sentiment": "negative",
+                "opinion": "love"
+            },
+            {
+                "aspect": "music",
+                "category": "ambience general",
+                "sentiment": "negative",
+                "opinion": "like"
+            }
+        ]
+    },
+    {
+        "sentence": "The best pad thai i 've ever had .",
+        "quards_str": "[['pad thai', 'food quality', 'positive', 'best']]",
+        "quards": [
+            {
+                "aspect": "pad thai",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "best"
+            }
+        ]
+    },
+    {
+        "sentence": "I wish I COULD be refunded !",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'refunded']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "refunded"
+            }
+        ]
+    },
+    {
+        "sentence": "Although we were told 10-15 minutes and it was more like 45 minutes .",
+        "quards_str": "[['NULL', 'service general', 'negative', '45 minutes']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "45 minutes"
+            }
+        ]
+    },
+    {
+        "sentence": "Each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return .",
+        "quards_str": "[['waiters', 'service general', 'positive', 'fantastic'], ['front of house staff', 'service general', 'negative', 'hideous'], ['fish dishes', 'food quality', 'positive', 'exceptional']]",
+        "quards": [
+            {
+                "aspect": "waiters",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "fantastic"
+            },
+            {
+                "aspect": "front of house staff",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "hideous"
+            },
+            {
+                "aspect": "fish dishes",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "exceptional"
+            }
+        ]
+    },
+    {
+        "sentence": "Possibly the Most Romantic Restaurant in the City",
+        "quards_str": "[['Restaurant', 'ambience general', 'positive', 'Romantic']]",
+        "quards": [
+            {
+                "aspect": "Restaurant",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "Romantic"
+            }
+        ]
+    },
+    {
+        "sentence": "I would go back .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'go back']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "go back"
+            }
+        ]
+    },
+    {
+        "sentence": "Although we were looking for regular lettuce and some walnuts the salads we got were great .",
+        "quards_str": "[['salads', 'food quality', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "salads",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "Service is not exactly five star , but thats not really a big deal .",
+        "quards_str": "[['Service', 'service general', 'neutral', 'not exactly five star']]",
+        "quards": [
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "neutral",
+                "opinion": "not exactly five star"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is great and the environment is even better .",
+        "quards_str": "[['food', 'food quality', 'positive', 'great'], ['environment', 'ambience general', 'positive', 'better']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            },
+            {
+                "aspect": "environment",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "better"
+            }
+        ]
+    },
+    {
+        "sentence": "Everything I had was good , and I 'm a eater .",
+        "quards_str": "[['NULL', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "The buffet had a nice selection .",
+        "quards_str": "[['buffet', 'food style_options', 'positive', 'nice']]",
+        "quards": [
+            {
+                "aspect": "buffet",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "nice"
+            }
+        ]
+    },
+    {
+        "sentence": "I honestly do n't even know where to begin .",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', \"do n't even know where to begin\"]]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "do n't even know where to begin"
+            }
+        ]
+    },
+    {
+        "sentence": "Delivery is fast too .",
+        "quards_str": "[['Delivery', 'service general', 'positive', 'fast']]",
+        "quards": [
+            {
+                "aspect": "Delivery",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "fast"
+            }
+        ]
+    },
+    {
+        "sentence": "Best . Sushi . Ever .",
+        "quards_str": "[['Sushi', 'food quality', 'positive', 'Best']]",
+        "quards": [
+            {
+                "aspect": "Sushi",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Best"
+            }
+        ]
+    },
+    {
+        "sentence": "Good spreads , great beverage selections and bagels really tasty .",
+        "quards_str": "[['spreads', 'food quality', 'positive', 'Good'], ['beverage selections', 'drinks style_options', 'positive', 'great'], ['bagels', 'food quality', 'positive', 'tasty']]",
+        "quards": [
+            {
+                "aspect": "spreads",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Good"
+            },
+            {
+                "aspect": "beverage selections",
+                "category": "drinks style_options",
+                "sentiment": "positive",
+                "opinion": "great"
+            },
+            {
+                "aspect": "bagels",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "tasty"
+            }
+        ]
+    },
+    {
+        "sentence": "Everyone was more then happy with his choices .",
+        "quards_str": "[['NULL', 'service general', 'positive', 'happy']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "happy"
+            }
+        ]
+    },
+    {
+        "sentence": "One of my favorite places in Brooklyn .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'favorite']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "favorite"
+            }
+        ]
+    },
+    {
+        "sentence": "The concept of japanese tapas is newly created and clearly does n't work .",
+        "quards_str": "[['japanese tapas', 'food style_options', 'negative', \"does n't work\"]]",
+        "quards": [
+            {
+                "aspect": "japanese tapas",
+                "category": "food style_options",
+                "sentiment": "negative",
+                "opinion": "does n't work"
+            }
+        ]
+    },
+    {
+        "sentence": "Very good wine choices .",
+        "quards_str": "[['wine choices', 'drinks style_options', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "wine choices",
+                "category": "drinks style_options",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "I highly recommend the Sophia pizza .",
+        "quards_str": "[['Sophia pizza', 'food quality', 'positive', 'recommend']]",
+        "quards": [
+            {
+                "aspect": "Sophia pizza",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "recommend"
+            }
+        ]
+    },
+    {
+        "sentence": "The service is excellent , the decor is great , and the food is delicious and comes in large portions .",
+        "quards_str": "[['service', 'service general', 'positive', 'excellent'], ['decor', 'ambience general', 'positive', 'great'], ['food', 'food quality', 'positive', 'delicious'], ['portions', 'food style_options', 'positive', 'large']]",
+        "quards": [
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            },
+            {
+                "aspect": "decor",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "great"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            },
+            {
+                "aspect": "portions",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "large"
+            }
+        ]
+    },
+    {
+        "sentence": "I go twice a month !",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'twice a month']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "twice a month"
+            }
+        ]
+    },
+    {
+        "sentence": "also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect ... they 're so frendly that we never want to live the place !",
+        "quards_str": "[['place', 'ambience general', 'positive', 'romantic'], ['place', 'ambience general', 'positive', 'comfortable'], ['service', 'service general', 'positive', 'perfect']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "romantic"
+            },
+            {
+                "aspect": "place",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "comfortable"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "perfect"
+            }
+        ]
+    },
+    {
+        "sentence": "And $ 11 for a plate of bland guacamole ?",
+        "quards_str": "[['guacamole', 'food quality', 'negative', 'bland'], ['guacamole', 'food prices', 'negative', 'bland']]",
+        "quards": [
+            {
+                "aspect": "guacamole",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "bland"
+            },
+            {
+                "aspect": "guacamole",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "bland"
+            }
+        ]
+    },
+    {
+        "sentence": "Ingredients are organic which is a real plus for me .",
+        "quards_str": "[['Ingredients', 'food quality', 'positive', 'organic'], ['Ingredients', 'food quality', 'positive', 'plus']]",
+        "quards": [
+            {
+                "aspect": "Ingredients",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "organic"
+            },
+            {
+                "aspect": "Ingredients",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "plus"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",
+        "quards_str": "[['food', 'food quality', 'positive', 'yummy'], ['mussels in spicy tomato sauce', 'food quality', 'positive', 'yummy'], ['mussels in spicy tomato sauce', 'food quality', 'positive', 'cooked-to-perfection'], ['fries', 'food quality', 'positive', 'yummy'], ['fries', 'food quality', 'positive', 'crispy']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "yummy"
+            },
+            {
+                "aspect": "mussels in spicy tomato sauce",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "yummy"
+            },
+            {
+                "aspect": "mussels in spicy tomato sauce",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "cooked-to-perfection"
+            },
+            {
+                "aspect": "fries",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "yummy"
+            },
+            {
+                "aspect": "fries",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "crispy"
+            }
+        ]
+    },
+    {
+        "sentence": "Maitre-D- `` Eat and get out ``",
+        "quards_str": "[['Maitre-D', 'service general', 'negative', 'get out']]",
+        "quards": [
+            {
+                "aspect": "Maitre-D",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "get out"
+            }
+        ]
+    },
+    {
+        "sentence": "Lexicographers take note : a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn .",
+        "quards_str": "[['NULL', 'service general', 'negative', 'rudeness']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "rudeness"
+            }
+        ]
+    },
+    {
+        "sentence": "And evaluated on those terms Pastis is simply wonderful .",
+        "quards_str": "[['Pastis', 'restaurant general', 'positive', 'wonderful']]",
+        "quards": [
+            {
+                "aspect": "Pastis",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "wonderful"
+            }
+        ]
+    },
+    {
+        "sentence": "awesome",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'awesome']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "awesome"
+            }
+        ]
+    },
+    {
+        "sentence": "fresh restaurant was amazing ... ... .. food was delicious and of course fresh .",
+        "quards_str": "[['fresh restaurant', 'restaurant general', 'positive', 'fresh'], ['fresh restaurant', 'restaurant general', 'positive', 'amazing'], ['food', 'food quality', 'positive', 'delicious'], ['food', 'food quality', 'positive', 'fresh']]",
+        "quards": [
+            {
+                "aspect": "fresh restaurant",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "fresh"
+            },
+            {
+                "aspect": "fresh restaurant",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "amazing"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "fresh"
+            }
+        ]
+    },
+    {
+        "sentence": "Delicious , creative and fun .",
+        "quards_str": "[['NULL', 'food quality', 'positive', 'Delicious'], ['NULL', 'food style_options', 'positive', 'creative'], ['NULL', 'food style_options', 'positive', 'fun']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Delicious"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "creative"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "fun"
+            }
+        ]
+    },
+    {
+        "sentence": "It 's cuz it 's so good you need to taste it ! ! !",
+        "quards_str": "[['NULL', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "I was speechless by the horrible food .",
+        "quards_str": "[['food', 'food quality', 'negative', 'speechless']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "speechless"
+            }
+        ]
+    },
+    {
+        "sentence": "It was wonderful .",
+        "quards_str": "[['NULL', 'drinks quality', 'positive', 'wonderful']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "drinks quality",
+                "sentiment": "positive",
+                "opinion": "wonderful"
+            }
+        ]
+    },
+    {
+        "sentence": "However , I think this place is a good hang out spot .",
+        "quards_str": "[['place', 'ambience general', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse .",
+        "quards_str": "[['decor', 'ambience general', 'neutral', 'diner-ish']]",
+        "quards": [
+            {
+                "aspect": "decor",
+                "category": "ambience general",
+                "sentiment": "neutral",
+                "opinion": "diner-ish"
+            }
+        ]
+    },
+    {
+        "sentence": "Try the Pad Thai , or sample anything on the appetizer menu ... they 're all delicious .",
+        "quards_str": "[['Pad Thai', 'food quality', 'positive', 'Try'], ['Pad Thai', 'food quality', 'positive', 'delicious'], ['appetizer menu', 'food quality', 'positive', 'delicious']]",
+        "quards": [
+            {
+                "aspect": "Pad Thai",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Try"
+            },
+            {
+                "aspect": "Pad Thai",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            },
+            {
+                "aspect": "appetizer menu",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            }
+        ]
+    },
+    {
+        "sentence": "Ess-A-Bagel ( either by Sty-town or midtown ) is by far the best bagel in NY .",
+        "quards_str": "[['bagel', 'food quality', 'positive', 'best']]",
+        "quards": [
+            {
+                "aspect": "bagel",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "best"
+            }
+        ]
+    },
+    {
+        "sentence": "And even with it 's Pub atmosphere they were great to my kids too !",
+        "quards_str": "[['NULL', 'service general', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "JUST AWSOME .",
+        "quards_str": "[['NULL', 'food quality', 'positive', 'AWSOME']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "AWSOME"
+            }
+        ]
+    },
+    {
+        "sentence": "Red Dragon Roll - my favorite thing to eat , of any food group - hands down",
+        "quards_str": "[['Red Dragon Roll', 'food quality', 'positive', 'favorite']]",
+        "quards": [
+            {
+                "aspect": "Red Dragon Roll",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "favorite"
+            }
+        ]
+    },
+    {
+        "sentence": "The rice to fish ration was also good -- they did n't try to overpack the rice .",
+        "quards_str": "[['rice to fish ration', 'food style_options', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "rice to fish ration",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "They have authentic Indian at amazin prices .",
+        "quards_str": "[['Indian', 'food quality', 'positive', 'authentic'], ['Indian', 'food prices', 'positive', 'authentic']]",
+        "quards": [
+            {
+                "aspect": "Indian",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "authentic"
+            },
+            {
+                "aspect": "Indian",
+                "category": "food prices",
+                "sentiment": "positive",
+                "opinion": "authentic"
+            }
+        ]
+    },
+    {
+        "sentence": "My father had the flank steak which was very good , and my mother had the swordfish .",
+        "quards_str": "[['flank steak', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "flank steak",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "Fabulous food - if the front of house staff do n't put you off \u2013",
+        "quards_str": "[['food', 'food quality', 'positive', 'Fabulous'], ['front of house staff', 'service general', 'negative', 'put you off']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Fabulous"
+            },
+            {
+                "aspect": "front of house staff",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "put you off"
+            }
+        ]
+    },
+    {
+        "sentence": "By far , the best pizza in Manhattan .",
+        "quards_str": "[['pizza', 'food quality', 'positive', 'best']]",
+        "quards": [
+            {
+                "aspect": "pizza",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "best"
+            }
+        ]
+    },
+    {
+        "sentence": "Overpriced and not tasty",
+        "quards_str": "[['NULL', 'food prices', 'negative', 'Overpriced'], ['NULL', 'food quality', 'negative', 'not tasty']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "Overpriced"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "not tasty"
+            }
+        ]
+    },
+    {
+        "sentence": "Pizza is terrific , as is homemade pasta .",
+        "quards_str": "[['Pizza', 'food quality', 'positive', 'terrific'], ['homemade pasta', 'food quality', 'positive', 'terrific']]",
+        "quards": [
+            {
+                "aspect": "Pizza",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "terrific"
+            },
+            {
+                "aspect": "homemade pasta",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "terrific"
+            }
+        ]
+    },
+    {
+        "sentence": "Raga 's is a romantic , cozy restaurant .",
+        "quards_str": "[[\"Raga 's\", 'ambience general', 'positive', 'romantic'], [\"Raga 's\", 'ambience general', 'positive', 'cozy']]",
+        "quards": [
+            {
+                "aspect": "Raga 's",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "romantic"
+            },
+            {
+                "aspect": "Raga 's",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "cozy"
+            }
+        ]
+    },
+    {
+        "sentence": "Expensive",
+        "quards_str": "[['NULL', 'restaurant prices', 'negative', 'Expensive']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "negative",
+                "opinion": "Expensive"
+            }
+        ]
+    },
+    {
+        "sentence": "The location is perfect .",
+        "quards_str": "[['location', 'location general', 'positive', 'perfect']]",
+        "quards": [
+            {
+                "aspect": "location",
+                "category": "location general",
+                "sentiment": "positive",
+                "opinion": "perfect"
+            }
+        ]
+    },
+    {
+        "sentence": "All in all , this midtown gem instantly became one of my favorite sushi restaurants in the city .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'favorite']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "favorite"
+            }
+        ]
+    },
+    {
+        "sentence": "This place doesn 't make any sense",
+        "quards_str": "[['place', 'restaurant general', 'negative', \"doesn 't make any sense\"]]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "doesn 't make any sense"
+            }
+        ]
+    },
+    {
+        "sentence": "The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",
+        "quards_str": "[['tables', 'ambience general', 'negative', 'crammed'], ['tables', 'ambience general', 'negative', 'too close'], ['menu', 'food style_options', 'neutral', 'typical'], ['wine list', 'drinks prices', 'negative', 'overpriced']]",
+        "quards": [
+            {
+                "aspect": "tables",
+                "category": "ambience general",
+                "sentiment": "negative",
+                "opinion": "crammed"
+            },
+            {
+                "aspect": "tables",
+                "category": "ambience general",
+                "sentiment": "negative",
+                "opinion": "too close"
+            },
+            {
+                "aspect": "menu",
+                "category": "food style_options",
+                "sentiment": "neutral",
+                "opinion": "typical"
+            },
+            {
+                "aspect": "wine list",
+                "category": "drinks prices",
+                "sentiment": "negative",
+                "opinion": "overpriced"
+            }
+        ]
+    },
+    {
+        "sentence": "The food was pretty tradional but it was hot and good with large portions .",
+        "quards_str": "[['food', 'food quality', 'positive', 'tradional'], ['portions', 'food style_options', 'positive', 'large']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "tradional"
+            },
+            {
+                "aspect": "portions",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "large"
+            }
+        ]
+    },
+    {
+        "sentence": "I have reservations about the all you can eat deal , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .",
+        "quards_str": "[['all you can eat deal', 'food style_options', 'negative', 'limited'], ['all you can eat deal', 'food prices', 'negative', 'limited']]",
+        "quards": [
+            {
+                "aspect": "all you can eat deal",
+                "category": "food style_options",
+                "sentiment": "negative",
+                "opinion": "limited"
+            },
+            {
+                "aspect": "all you can eat deal",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "limited"
+            }
+        ]
+    },
+    {
+        "sentence": "A must try !",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'A must try']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "A must try"
+            }
+        ]
+    },
+    {
+        "sentence": "I have to say I have never had a disapointing meal here .",
+        "quards_str": "[['meal', 'food quality', 'positive', 'never had a disapointing']]",
+        "quards": [
+            {
+                "aspect": "meal",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "never had a disapointing"
+            }
+        ]
+    },
+    {
+        "sentence": "Be sure not to get anything other than bagels ! . .",
+        "quards_str": "[['NULL', 'food quality', 'negative', 'not to get anything']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "not to get anything"
+            }
+        ]
+    },
+    {
+        "sentence": "the spinach is fresh , definately not frozen ...",
+        "quards_str": "[['spinach', 'food quality', 'positive', 'fresh']]",
+        "quards": [
+            {
+                "aspect": "spinach",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "fresh"
+            }
+        ]
+    },
+    {
+        "sentence": "I had the Thai style Fried Sea Bass ... which was very good .",
+        "quards_str": "[['Thai style Fried Sea Bass', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "Thai style Fried Sea Bass",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "The view is breathtaking the service is top notch ... the ambiance is wonderful .",
+        "quards_str": "[['view', 'location general', 'positive', 'breathtaking'], ['service', 'service general', 'positive', 'top notch'], ['ambiance', 'ambience general', 'positive', 'wonderful']]",
+        "quards": [
+            {
+                "aspect": "view",
+                "category": "location general",
+                "sentiment": "positive",
+                "opinion": "breathtaking"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "top notch"
+            },
+            {
+                "aspect": "ambiance",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "wonderful"
+            }
+        ]
+    },
+    {
+        "sentence": "The ambience was nice , but service was n't so great .",
+        "quards_str": "[['ambience', 'ambience general', 'positive', 'nice'], ['service', 'service general', 'negative', \"was n't so great\"]]",
+        "quards": [
+            {
+                "aspect": "ambience",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "nice"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "was n't so great"
+            }
+        ]
+    },
+    {
+        "sentence": "This place is not worth the prices .",
+        "quards_str": "[['place', 'restaurant general', 'negative', 'not worth the prices'], ['place', 'restaurant prices', 'negative', 'not worth the prices']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "not worth the prices"
+            },
+            {
+                "aspect": "place",
+                "category": "restaurant prices",
+                "sentiment": "negative",
+                "opinion": "not worth the prices"
+            }
+        ]
+    },
+    {
+        "sentence": "We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",
+        "quards_str": "[['back patio', 'ambience general', 'positive', 'worth'], ['back patio', 'ambience general', 'positive', 'cool'], ['music', 'ambience general', 'positive', 'well']]",
+        "quards": [
+            {
+                "aspect": "back patio",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "worth"
+            },
+            {
+                "aspect": "back patio",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "cool"
+            },
+            {
+                "aspect": "music",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "well"
+            }
+        ]
+    },
+    {
+        "sentence": "I did not try the caviar but I tried their salmon and crab salad ( they are all good )",
+        "quards_str": "[['salmon', 'food quality', 'positive', 'good'], ['crab salad', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "salmon",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "crab salad",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "We were seated outside and the waiter spilled red wine and hot tea on myself and my date .",
+        "quards_str": "[['waiter', 'service general', 'negative', 'spilled']]",
+        "quards": [
+            {
+                "aspect": "waiter",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "spilled"
+            }
+        ]
+    },
+    {
+        "sentence": "We asked for beverages and never received them .",
+        "quards_str": "[['NULL', 'service general', 'negative', 'never received']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "never received"
+            }
+        ]
+    },
+    {
+        "sentence": "Great Indian food and the service is incredible .",
+        "quards_str": "[['Indian food', 'food quality', 'positive', 'Great'], ['service', 'service general', 'positive', 'incredible']]",
+        "quards": [
+            {
+                "aspect": "Indian food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Great"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "incredible"
+            }
+        ]
+    },
+    {
+        "sentence": "I would defiantly come back here again as one of my top choices .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'top choices']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "top choices"
+            }
+        ]
+    },
+    {
+        "sentence": "Okay-i do n't mind the oily part ( cause most are cooked that way ) but it was way too bland .",
+        "quards_str": "[['NULL', 'food quality', 'negative', 'oily'], ['NULL', 'food quality', 'negative', 'bland']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "oily"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "bland"
+            }
+        ]
+    },
+    {
+        "sentence": "The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .",
+        "quards_str": "[['atmosphere', 'ambience general', 'negative', 'noisy'], ['waiters', 'service general', 'positive', 'fast']]",
+        "quards": [
+            {
+                "aspect": "atmosphere",
+                "category": "ambience general",
+                "sentiment": "negative",
+                "opinion": "noisy"
+            },
+            {
+                "aspect": "waiters",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "fast"
+            }
+        ]
+    },
+    {
+        "sentence": "it 's a perfect place to have a amazing indian food .",
+        "quards_str": "[['indian food', 'food quality', 'positive', 'amazing']]",
+        "quards": [
+            {
+                "aspect": "indian food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "amazing"
+            }
+        ]
+    },
+    {
+        "sentence": "The freshest , best variety , and the fastest delivery .",
+        "quards_str": "[['NULL', 'food quality', 'positive', 'freshest'], ['NULL', 'food style_options', 'positive', 'best variety'], ['delivery', 'service general', 'positive', 'fastest']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "freshest"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "best variety"
+            },
+            {
+                "aspect": "delivery",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "fastest"
+            }
+        ]
+    },
+    {
+        "sentence": "I found the food , service and value exceptional everytime I have been there .",
+        "quards_str": "[['food', 'food quality', 'positive', 'exceptional'], ['service', 'service general', 'positive', 'exceptional'], ['value', 'restaurant prices', 'positive', 'exceptional']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "exceptional"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "exceptional"
+            },
+            {
+                "aspect": "value",
+                "category": "restaurant prices",
+                "sentiment": "positive",
+                "opinion": "exceptional"
+            }
+        ]
+    },
+    {
+        "sentence": "In an area sadly lacking in decent Thai food , this is one of the best spots .",
+        "quards_str": "[['Thai food', 'food quality', 'positive', 'decent']]",
+        "quards": [
+            {
+                "aspect": "Thai food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "decent"
+            }
+        ]
+    },
+    {
+        "sentence": "I got an excellent piece of cheesecake and we had several other nice pastries .",
+        "quards_str": "[['cheesecake', 'food quality', 'positive', 'excellent'], ['pastries', 'food quality', 'positive', 'nice']]",
+        "quards": [
+            {
+                "aspect": "cheesecake",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            },
+            {
+                "aspect": "pastries",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "nice"
+            }
+        ]
+    },
+    {
+        "sentence": "I would highly recommend this place !",
+        "quards_str": "[['place', 'restaurant general', 'positive', 'recommend']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "recommend"
+            }
+        ]
+    },
+    {
+        "sentence": "This is where it really really gets bad : the manager said , there is absolutely nothing we can do , it 's a matter of taste that she did n't like it , and I can not comp it .",
+        "quards_str": "[['manager', 'service general', 'negative', 'bad']]",
+        "quards": [
+            {
+                "aspect": "manager",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "bad"
+            }
+        ]
+    },
+    {
+        "sentence": "THe perfect spot .",
+        "quards_str": "[['spot', 'restaurant general', 'positive', 'perfect']]",
+        "quards": [
+            {
+                "aspect": "spot",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "perfect"
+            }
+        ]
+    },
+    {
+        "sentence": "Service ok but unfriendly , filthy bathroom .",
+        "quards_str": "[['Service', 'service general', 'negative', 'unfriendly'], ['bathroom', 'ambience general', 'negative', 'filthy']]",
+        "quards": [
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "unfriendly"
+            },
+            {
+                "aspect": "bathroom",
+                "category": "ambience general",
+                "sentiment": "negative",
+                "opinion": "filthy"
+            }
+        ]
+    },
+    {
+        "sentence": "The staff was accomodating , the food was absolutely delicious and the place is lovely .",
+        "quards_str": "[['staff', 'service general', 'positive', 'accomodating'], ['food', 'food quality', 'positive', 'delicious'], ['place', 'ambience general', 'positive', 'lovely']]",
+        "quards": [
+            {
+                "aspect": "staff",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "accomodating"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            },
+            {
+                "aspect": "place",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "lovely"
+            }
+        ]
+    },
+    {
+        "sentence": "good music , great food , speedy service affordable prices .",
+        "quards_str": "[['music', 'ambience general', 'positive', 'good'], ['food', 'food quality', 'positive', 'great'], ['service', 'service general', 'positive', 'speedy'], ['NULL', 'restaurant prices', 'positive', 'affordable']]",
+        "quards": [
+            {
+                "aspect": "music",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "speedy"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "positive",
+                "opinion": "affordable"
+            }
+        ]
+    },
+    {
+        "sentence": "We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order .",
+        "quards_str": "[['waitress', 'service general', 'negative', 'through the bill']]",
+        "quards": [
+            {
+                "aspect": "waitress",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "through the bill"
+            }
+        ]
+    },
+    {
+        "sentence": "We had a great time at the Jekyll and hyde Pub last night .",
+        "quards_str": "[['Jekyll and hyde Pub', 'restaurant general', 'positive', 'great time']]",
+        "quards": [
+            {
+                "aspect": "Jekyll and hyde Pub",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "great time"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is authentic Italian - delicious !",
+        "quards_str": "[['food', 'food quality', 'positive', 'authentic Italian'], ['food', 'food quality', 'positive', 'delicious']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "authentic Italian"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            }
+        ]
+    },
+    {
+        "sentence": "I thanked my friend who recommended me this restaurant and will certainly recommend it to others .",
+        "quards_str": "[['restaurant', 'restaurant general', 'positive', 'recommend']]",
+        "quards": [
+            {
+                "aspect": "restaurant",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "recommend"
+            }
+        ]
+    },
+    {
+        "sentence": "Planet Thai is great !",
+        "quards_str": "[['Planet Thai', 'restaurant general', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "Planet Thai",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "To sum it up : Service varies from good to mediorce , depending on which waiter you get ; generally it is just average Ok .",
+        "quards_str": "[['Service', 'service general', 'neutral', 'varies']]",
+        "quards": [
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "neutral",
+                "opinion": "varies"
+            }
+        ]
+    },
+    {
+        "sentence": "Restaurant with a view",
+        "quards_str": "[['view', 'location general', 'neutral', 'with a view']]",
+        "quards": [
+            {
+                "aspect": "view",
+                "category": "location general",
+                "sentiment": "neutral",
+                "opinion": "with a view"
+            }
+        ]
+    },
+    {
+        "sentence": "The food was not fresh , the sauces were bland and very oily .",
+        "quards_str": "[['food', 'food quality', 'negative', 'not fresh'], ['sauces', 'food quality', 'negative', 'bland'], ['sauces', 'food quality', 'negative', 'oily']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "not fresh"
+            },
+            {
+                "aspect": "sauces",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "bland"
+            },
+            {
+                "aspect": "sauces",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "oily"
+            }
+        ]
+    },
+    {
+        "sentence": "I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .",
+        "quards_str": "[['Casa La Femme', 'restaurant general', 'negative', 'offended'], ['Casa La Femme', 'restaurant prices', 'negative', 'offended']]",
+        "quards": [
+            {
+                "aspect": "Casa La Femme",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "offended"
+            },
+            {
+                "aspect": "Casa La Femme",
+                "category": "restaurant prices",
+                "sentiment": "negative",
+                "opinion": "offended"
+            }
+        ]
+    },
+    {
+        "sentence": "This is one of my favorite restaurants and it is not to be missed .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'favorite']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "favorite"
+            }
+        ]
+    },
+    {
+        "sentence": "Anybody who likes this place must be from a different planet , where greasy , dry and tasteless are complimentary .",
+        "quards_str": "[['NULL', 'food quality', 'negative', 'greasy'], ['NULL', 'food quality', 'negative', 'dry'], ['NULL', 'food quality', 'negative', 'tasteless']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "greasy"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "dry"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "tasteless"
+            }
+        ]
+    },
+    {
+        "sentence": "Rao 's has the best service and atmosphere in NYC .",
+        "quards_str": "[['service', 'service general', 'positive', 'best'], ['atmosphere', 'ambience general', 'positive', 'best']]",
+        "quards": [
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "best"
+            },
+            {
+                "aspect": "atmosphere",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "best"
+            }
+        ]
+    },
+    {
+        "sentence": "Quite simply it 's like stepping out of Manhattan and into a haven of tranquility .",
+        "quards_str": "[['NULL', 'ambience general', 'positive', 'a haven of tranquility']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "a haven of tranquility"
+            }
+        ]
+    },
+    {
+        "sentence": "The place is a lot of fun .",
+        "quards_str": "[['place', 'ambience general', 'positive', 'fun']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "fun"
+            }
+        ]
+    },
+    {
+        "sentence": "With the great variety on the menu , I eat here often and never get bored .",
+        "quards_str": "[['menu', 'food style_options', 'positive', 'great variety']]",
+        "quards": [
+            {
+                "aspect": "menu",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "great variety"
+            }
+        ]
+    },
+    {
+        "sentence": "The vibe is very relaxed and cozy , service was great and the food was excellent !",
+        "quards_str": "[['vibe', 'ambience general', 'positive', 'relaxed'], ['vibe', 'ambience general', 'positive', 'cozy'], ['service', 'service general', 'positive', 'great'], ['food', 'food quality', 'positive', 'excellent']]",
+        "quards": [
+            {
+                "aspect": "vibe",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "relaxed"
+            },
+            {
+                "aspect": "vibe",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "cozy"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "great"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            }
+        ]
+    },
+    {
+        "sentence": "I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .",
+        "quards_str": "[['food', 'food quality', 'positive', 'like being back in Japan'], ['feel', 'ambience general', 'positive', 'like being back in Japan']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "like being back in Japan"
+            },
+            {
+                "aspect": "feel",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "like being back in Japan"
+            }
+        ]
+    },
+    {
+        "sentence": "If you like spicy food get the chicken vindaloo .",
+        "quards_str": "[['chicken vindaloo', 'food quality', 'positive', 'get']]",
+        "quards": [
+            {
+                "aspect": "chicken vindaloo",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "get"
+            }
+        ]
+    },
+    {
+        "sentence": "Decor is nice though service can be spotty .",
+        "quards_str": "[['Decor', 'ambience general', 'positive', 'nice'], ['service', 'service general', 'negative', 'spotty']]",
+        "quards": [
+            {
+                "aspect": "Decor",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "nice"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "spotty"
+            }
+        ]
+    },
+    {
+        "sentence": "The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down .",
+        "quards_str": "[['atmosphere', 'ambience general', 'negative', \"is n't the greatest\"], ['NULL', 'restaurant prices', 'positive', 'keep the prices down']]",
+        "quards": [
+            {
+                "aspect": "atmosphere",
+                "category": "ambience general",
+                "sentiment": "negative",
+                "opinion": "is n't the greatest"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "positive",
+                "opinion": "keep the prices down"
+            }
+        ]
+    },
+    {
+        "sentence": "I can 't remember the last time I had such gross food in New York .",
+        "quards_str": "[['food', 'food quality', 'negative', 'gross']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "gross"
+            }
+        ]
+    },
+    {
+        "sentence": "We ate at this Thai place following the reviews but very unhappy with the foods .",
+        "quards_str": "[['foods', 'food quality', 'negative', 'unhappy']]",
+        "quards": [
+            {
+                "aspect": "foods",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "unhappy"
+            }
+        ]
+    },
+    {
+        "sentence": "Definitely a neighborhood favorite .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'favorite']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "favorite"
+            }
+        ]
+    },
+    {
+        "sentence": "The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",
+        "quards_str": "[['pesto pizza', 'food quality', 'positive', 'excellent'], ['spicy Italian cheese', 'food quality', 'positive', 'nice']]",
+        "quards": [
+            {
+                "aspect": "pesto pizza",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            },
+            {
+                "aspect": "spicy Italian cheese",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "nice"
+            }
+        ]
+    },
+    {
+        "sentence": "Food took some time to prepare , all worth waiting for .",
+        "quards_str": "[['Food', 'food quality', 'positive', 'worth'], ['NULL', 'service general', 'neutral', 'took some time']]",
+        "quards": [
+            {
+                "aspect": "Food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "worth"
+            },
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "neutral",
+                "opinion": "took some time"
+            }
+        ]
+    },
+    {
+        "sentence": "Regardless , we 'll be back and can 't wait to visit in the summer to take advantage of the patio .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'be back']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "be back"
+            }
+        ]
+    },
+    {
+        "sentence": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+        "quards_str": "[['Leon', 'ambience general', 'positive', 'casual'], ['Leon', 'ambience general', 'positive', 'hip'], ['specials', 'food quality', 'positive', 'good'], ['atmosphere', 'ambience general', 'positive', 'warm'], ['atmosphere', 'ambience general', 'positive', 'lively'], ['French bistro fare', 'food quality', 'positive', 'well prepared']]",
+        "quards": [
+            {
+                "aspect": "Leon",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "casual"
+            },
+            {
+                "aspect": "Leon",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "hip"
+            },
+            {
+                "aspect": "specials",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "atmosphere",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "warm"
+            },
+            {
+                "aspect": "atmosphere",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "lively"
+            },
+            {
+                "aspect": "French bistro fare",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "well prepared"
+            }
+        ]
+    },
+    {
+        "sentence": "Best meal in a long time !",
+        "quards_str": "[['meal', 'food quality', 'positive', 'Best']]",
+        "quards": [
+            {
+                "aspect": "meal",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Best"
+            }
+        ]
+    },
+    {
+        "sentence": "As always we had a great glass of wine while we waited .",
+        "quards_str": "[['glass of wine', 'drinks quality', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "glass of wine",
+                "category": "drinks quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "Hurley 's is like Cheers where everyone knows your name and they are ACTUALLY glad you came .",
+        "quards_str": "[[\"Hurley 's\", 'service general', 'positive', 'glad']]",
+        "quards": [
+            {
+                "aspect": "Hurley 's",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "glad"
+            }
+        ]
+    },
+    {
+        "sentence": "overpriced japanese food with mediocre service",
+        "quards_str": "[['japanese food', 'food prices', 'negative', 'overpriced'], ['service', 'service general', 'neutral', 'mediocre']]",
+        "quards": [
+            {
+                "aspect": "japanese food",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "overpriced"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "neutral",
+                "opinion": "mediocre"
+            }
+        ]
+    },
+    {
+        "sentence": "I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED !",
+        "quards_str": "[['Heartland Brewery', 'restaurant general', 'positive', 'NEVER BEEN DISAPPOINTED']]",
+        "quards": [
+            {
+                "aspect": "Heartland Brewery",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "NEVER BEEN DISAPPOINTED"
+            }
+        ]
+    },
+    {
+        "sentence": "We had Pam 's special fried fish and it was amazing .",
+        "quards_str": "[[\"Pam 's special fried fish\", 'food quality', 'positive', 'amazing']]",
+        "quards": [
+            {
+                "aspect": "Pam 's special fried fish",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "amazing"
+            }
+        ]
+    },
+    {
+        "sentence": "The menu is limited but almost all of the dishes are excellent .",
+        "quards_str": "[['menu', 'food style_options', 'negative', 'limited'], ['dishes', 'food quality', 'positive', 'excellent']]",
+        "quards": [
+            {
+                "aspect": "menu",
+                "category": "food style_options",
+                "sentiment": "negative",
+                "opinion": "limited"
+            },
+            {
+                "aspect": "dishes",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            }
+        ]
+    },
+    {
+        "sentence": "For each course we waited over 1 /2 hour to 45 minutes and were never offered a drink .",
+        "quards_str": "[['NULL', 'service general', 'negative', 'waited over 1 /2 hour to 45 minutes']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "waited over 1 /2 hour to 45 minutes"
+            }
+        ]
+    },
+    {
+        "sentence": "Everything about this restaurant was special .",
+        "quards_str": "[['restaurant', 'restaurant general', 'positive', 'special']]",
+        "quards": [
+            {
+                "aspect": "restaurant",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "special"
+            }
+        ]
+    },
+    {
+        "sentence": "We did arrive late for our reservation so I can not complain too much about the wait for a table .",
+        "quards_str": "[['wait', 'service general', 'neutral', 'can not complain too much']]",
+        "quards": [
+            {
+                "aspect": "wait",
+                "category": "service general",
+                "sentiment": "neutral",
+                "opinion": "can not complain too much"
+            }
+        ]
+    },
+    {
+        "sentence": "bad staff",
+        "quards_str": "[['staff', 'service general', 'negative', 'bad']]",
+        "quards": [
+            {
+                "aspect": "staff",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "bad"
+            }
+        ]
+    },
+    {
+        "sentence": "this little place has a cute interior decor and affordable city prices .",
+        "quards_str": "[['interior decor', 'ambience general', 'positive', 'cute'], ['place', 'restaurant prices', 'positive', 'little']]",
+        "quards": [
+            {
+                "aspect": "interior decor",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "cute"
+            },
+            {
+                "aspect": "place",
+                "category": "restaurant prices",
+                "sentiment": "positive",
+                "opinion": "little"
+            }
+        ]
+    },
+    {
+        "sentence": "But $ 500 for a dinner for two that didn 't include Wine ?",
+        "quards_str": "[['dinner for two', 'food prices', 'negative', \"didn 't include Wine\"]]",
+        "quards": [
+            {
+                "aspect": "dinner for two",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "didn 't include Wine"
+            }
+        ]
+    },
+    {
+        "sentence": "This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .",
+        "quards_str": "[['restaurant', 'restaurant miscellaneous', 'positive', 'nice']]",
+        "quards": [
+            {
+                "aspect": "restaurant",
+                "category": "restaurant miscellaneous",
+                "sentiment": "positive",
+                "opinion": "nice"
+            }
+        ]
+    },
+    {
+        "sentence": "Try green curry with vegetables .",
+        "quards_str": "[['green curry with vegetables', 'food quality', 'positive', 'Try']]",
+        "quards": [
+            {
+                "aspect": "green curry with vegetables",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Try"
+            }
+        ]
+    },
+    {
+        "sentence": "My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque .",
+        "quards_str": "[['New England Chowder', 'food quality', 'positive', 'good'], ['Lobster Bisque', 'food quality', 'positive', 'award']]",
+        "quards": [
+            {
+                "aspect": "New England Chowder",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "Lobster Bisque",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "award"
+            }
+        ]
+    },
+    {
+        "sentence": "Love Pizza 33 ...",
+        "quards_str": "[['Pizza 33', 'restaurant general', 'positive', 'Love']]",
+        "quards": [
+            {
+                "aspect": "Pizza 33",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "Love"
+            }
+        ]
+    },
+    {
+        "sentence": "What a hassle !",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'hassle']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "hassle"
+            }
+        ]
+    },
+    {
+        "sentence": "Poor service and management",
+        "quards_str": "[['service', 'service general', 'negative', 'Poor'], ['management', 'service general', 'negative', 'Poor']]",
+        "quards": [
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "Poor"
+            },
+            {
+                "aspect": "management",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "Poor"
+            }
+        ]
+    },
+    {
+        "sentence": "And the Tom Kha soup was pathetic .",
+        "quards_str": "[['Tom Kha soup', 'food quality', 'negative', 'pathetic']]",
+        "quards": [
+            {
+                "aspect": "Tom Kha soup",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "pathetic"
+            }
+        ]
+    },
+    {
+        "sentence": "Moderate prices .",
+        "quards_str": "[['NULL', 'restaurant prices', 'neutral', 'Moderate']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "neutral",
+                "opinion": "Moderate"
+            }
+        ]
+    },
+    {
+        "sentence": "The hostess and the waitress were incredibly rude and did everything they could to rush us out .",
+        "quards_str": "[['hostess', 'service general', 'negative', 'rude'], ['waitress', 'service general', 'negative', 'rude']]",
+        "quards": [
+            {
+                "aspect": "hostess",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "rude"
+            },
+            {
+                "aspect": "waitress",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "rude"
+            }
+        ]
+    },
+    {
+        "sentence": "On a recent Sunday afternoon , a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT .",
+        "quards_str": "[['restaurant', 'restaurant general', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "restaurant",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "There is something about their atmosphere that makes me come back nearly every week .",
+        "quards_str": "[['atmosphere', 'ambience general', 'positive', 'come back']]",
+        "quards": [
+            {
+                "aspect": "atmosphere",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "come back"
+            }
+        ]
+    },
+    {
+        "sentence": "Great Indian food",
+        "quards_str": "[['Indian food', 'food quality', 'positive', 'Great']]",
+        "quards": [
+            {
+                "aspect": "Indian food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Great"
+            }
+        ]
+    },
+    {
+        "sentence": "THe back garden sitting area is very pleasant , where you can see their personal herb garden .",
+        "quards_str": "[['back garden sitting area', 'ambience general', 'positive', 'pleasant']]",
+        "quards": [
+            {
+                "aspect": "back garden sitting area",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "pleasant"
+            }
+        ]
+    },
+    {
+        "sentence": "The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .",
+        "quards_str": "[['service', 'service general', 'negative', 'terrible']]",
+        "quards": [
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "terrible"
+            }
+        ]
+    },
+    {
+        "sentence": "Oh , and I never write reviews -- I just was so moved by how bad this place was , I felt it was my duty to spread the word .",
+        "quards_str": "[['place', 'restaurant general', 'negative', 'bad']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "bad"
+            }
+        ]
+    },
+    {
+        "sentence": "Not a very fancy place but very good Chinese style Indian food .",
+        "quards_str": "[['place', 'ambience general', 'neutral', 'fancy'], ['Chinese style Indian food', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "ambience general",
+                "sentiment": "neutral",
+                "opinion": "fancy"
+            },
+            {
+                "aspect": "Chinese style Indian food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "Wonderful strawberry daiquiries as well !",
+        "quards_str": "[['strawberry daiquiries', 'drinks quality', 'positive', 'Wonderful']]",
+        "quards": [
+            {
+                "aspect": "strawberry daiquiries",
+                "category": "drinks quality",
+                "sentiment": "positive",
+                "opinion": "Wonderful"
+            }
+        ]
+    },
+    {
+        "sentence": "The food was lousy - too sweet or too salty and the portions tiny .",
+        "quards_str": "[['food', 'food quality', 'negative', 'lousy'], ['food', 'food quality', 'negative', 'too sweet'], ['food', 'food quality', 'negative', 'too salty'], ['portions', 'food style_options', 'negative', 'tiny']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "lousy"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "too sweet"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "too salty"
+            },
+            {
+                "aspect": "portions",
+                "category": "food style_options",
+                "sentiment": "negative",
+                "opinion": "tiny"
+            }
+        ]
+    },
+    {
+        "sentence": "delicious bagels , especially when right out of the oven .",
+        "quards_str": "[['bagels', 'food quality', 'positive', 'delicious']]",
+        "quards": [
+            {
+                "aspect": "bagels",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            }
+        ]
+    },
+    {
+        "sentence": "Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .",
+        "quards_str": "[['service', 'service general', 'positive', 'good'], ['place', 'ambience general', 'positive', 'relaxing']]",
+        "quards": [
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "place",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "relaxing"
+            }
+        ]
+    },
+    {
+        "sentence": "I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded .",
+        "quards_str": "[['atmosphere', 'ambience general', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "atmosphere",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "This was my frist time at Cafe St. Bart 's and I must say how delicious the food and the service was .",
+        "quards_str": "[['food', 'food quality', 'positive', 'delicious']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            }
+        ]
+    },
+    {
+        "sentence": "The service was excellent and the food was delicious .",
+        "quards_str": "[['service', 'service general', 'positive', 'excellent'], ['food', 'food quality', 'positive', 'delicious']]",
+        "quards": [
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            }
+        ]
+    },
+    {
+        "sentence": "For those that go once and do n't enjoy it , all I can say is that they just do n't get it .",
+        "quards_str": "[['NULL', 'restaurant miscellaneous', 'positive', 'enjoy']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant miscellaneous",
+                "sentiment": "positive",
+                "opinion": "enjoy"
+            }
+        ]
+    },
+    {
+        "sentence": "The bar drinks were Eh , ok to say the least .",
+        "quards_str": "[['bar drinks', 'drinks quality', 'negative', 'ok']]",
+        "quards": [
+            {
+                "aspect": "bar drinks",
+                "category": "drinks quality",
+                "sentiment": "negative",
+                "opinion": "ok"
+            }
+        ]
+    },
+    {
+        "sentence": "Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .",
+        "quards_str": "[['waitstaff', 'service general', 'positive', 'comfortable'], ['waitstaff', 'service general', 'positive', 'relaxed']]",
+        "quards": [
+            {
+                "aspect": "waitstaff",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "comfortable"
+            },
+            {
+                "aspect": "waitstaff",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "relaxed"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is great .",
+        "quards_str": "[['food', 'food quality', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "Great vibe , lots of people .",
+        "quards_str": "[['vibe', 'ambience general', 'positive', 'Great']]",
+        "quards": [
+            {
+                "aspect": "vibe",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "Great"
+            }
+        ]
+    },
+    {
+        "sentence": "This is undoubtedly my favorite modern Japanese brasserie ( that don \u2019 t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !",
+        "quards_str": "[['modern Japanese brasserie', 'restaurant general', 'positive', 'favorite'], ['modern Japanese brasserie', 'ambience general', 'positive', 'romantic']]",
+        "quards": [
+            {
+                "aspect": "modern Japanese brasserie",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "favorite"
+            },
+            {
+                "aspect": "modern Japanese brasserie",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "romantic"
+            }
+        ]
+    },
+    {
+        "sentence": "The bread we received was horrible - rock hard and cold - and the `` free `` appetizer of olives was disappointing .",
+        "quards_str": "[['bread', 'food quality', 'negative', 'horrible'], ['appetizer of olives', 'food quality', 'negative', 'disappointing'], ['appetizer of olives', 'food prices', 'neutral', '`` free ``']]",
+        "quards": [
+            {
+                "aspect": "bread",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "horrible"
+            },
+            {
+                "aspect": "appetizer of olives",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "disappointing"
+            },
+            {
+                "aspect": "appetizer of olives",
+                "category": "food prices",
+                "sentiment": "neutral",
+                "opinion": "`` free ``"
+            }
+        ]
+    },
+    {
+        "sentence": "While it is understandable that every place is indeed different , there was not a need to be uncourteous to customers and downright rude .",
+        "quards_str": "[['NULL', 'service general', 'negative', 'rude']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "rude"
+            }
+        ]
+    },
+    {
+        "sentence": "The nakgi-bokum was horrible .",
+        "quards_str": "[['nakgi-bokum', 'food quality', 'negative', 'horrible']]",
+        "quards": [
+            {
+                "aspect": "nakgi-bokum",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "horrible"
+            }
+        ]
+    },
+    {
+        "sentence": "I ate here a week ago and found most dishes average at best and too expensive .",
+        "quards_str": "[['dishes', 'food quality', 'negative', 'average'], ['dishes', 'food prices', 'negative', 'too expensive']]",
+        "quards": [
+            {
+                "aspect": "dishes",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "average"
+            },
+            {
+                "aspect": "dishes",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "too expensive"
+            }
+        ]
+    },
+    {
+        "sentence": "They honored reservation on Sunday afternoon very well .",
+        "quards_str": "[['NULL', 'service general', 'positive', 'very well']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "very well"
+            }
+        ]
+    },
+    {
+        "sentence": "The hostess was very pleasant .",
+        "quards_str": "[['hostess', 'service general', 'positive', 'pleasant']]",
+        "quards": [
+            {
+                "aspect": "hostess",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "pleasant"
+            }
+        ]
+    },
+    {
+        "sentence": "Skip this restaurant , it 's a big disappointment .",
+        "quards_str": "[['restaurant', 'restaurant general', 'negative', 'Skip'], ['restaurant', 'restaurant general', 'negative', 'disappointment']]",
+        "quards": [
+            {
+                "aspect": "restaurant",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "Skip"
+            },
+            {
+                "aspect": "restaurant",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "disappointment"
+            }
+        ]
+    },
+    {
+        "sentence": "Service was very good - prompt , attentive and non-intrusive .",
+        "quards_str": "[['Service', 'service general', 'positive', 'good'], ['Service', 'service general', 'positive', 'prompt'], ['Service', 'service general', 'positive', 'attentive'], ['Service', 'service general', 'positive', 'non-intrusive']]",
+        "quards": [
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "prompt"
+            },
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "attentive"
+            },
+            {
+                "aspect": "Service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "non-intrusive"
+            }
+        ]
+    },
+    {
+        "sentence": "I was there on sat . for my birthday and we had an excellent time .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'excellent']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            }
+        ]
+    },
+    {
+        "sentence": "La Rosa waltzes in , and I think they are doing it the best .",
+        "quards_str": "[['La Rosa', 'food quality', 'positive', 'best']]",
+        "quards": [
+            {
+                "aspect": "La Rosa",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "best"
+            }
+        ]
+    },
+    {
+        "sentence": "Toons has recently been redone , so it 's now a very attractive space .",
+        "quards_str": "[['Toons', 'ambience general', 'positive', 'attractive']]",
+        "quards": [
+            {
+                "aspect": "Toons",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "attractive"
+            }
+        ]
+    },
+    {
+        "sentence": "Sushi experience was unbelievable with my fiance .",
+        "quards_str": "[['Sushi', 'food quality', 'positive', 'unbelievable']]",
+        "quards": [
+            {
+                "aspect": "Sushi",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "unbelievable"
+            }
+        ]
+    },
+    {
+        "sentence": "I don \u2019 t usually visit the same establishment more than once , what more twice , but I \u2019 ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",
+        "quards_str": "[['Zenkichi', 'restaurant general', 'positive', 'come to Zenkichi anytime'], ['Zenkichi', 'ambience general', 'positive', 'quiet'], ['Zenkichi', 'ambience general', 'positive', 'unhurried'], ['Zenkichi', 'ambience general', 'positive', 'memorable']]",
+        "quards": [
+            {
+                "aspect": "Zenkichi",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "come to Zenkichi anytime"
+            },
+            {
+                "aspect": "Zenkichi",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "quiet"
+            },
+            {
+                "aspect": "Zenkichi",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "unhurried"
+            },
+            {
+                "aspect": "Zenkichi",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "memorable"
+            }
+        ]
+    },
+    {
+        "sentence": "I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .",
+        "quards_str": "[['caviar', 'food quality', 'positive', 'delicious top grade'], ['service', 'service general', 'positive', 'fantastic']]",
+        "quards": [
+            {
+                "aspect": "caviar",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious top grade"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "fantastic"
+            }
+        ]
+    },
+    {
+        "sentence": "We left , never to return .",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'never to return']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "never to return"
+            }
+        ]
+    },
+    {
+        "sentence": "These are overpriced and you can get better just around the corner :",
+        "quards_str": "[['NULL', 'food prices', 'negative', 'overpriced'], ['NULL', 'food quality', 'negative', 'can get better']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "overpriced"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "can get better"
+            }
+        ]
+    },
+    {
+        "sentence": "Go there once and oh yes ... you will go back ... you will ...",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'go back']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "go back"
+            }
+        ]
+    },
+    {
+        "sentence": "The Steak Tartare is a great bet , they fix it for you at the table .",
+        "quards_str": "[['Steak Tartare', 'food style_options', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "Steak Tartare",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !",
+        "quards_str": "[['people', 'service general', 'negative', 'evil'], ['people', 'service general', 'negative', 'incompetent'], ['Cafe Noir', 'restaurant general', 'positive', 'like']]",
+        "quards": [
+            {
+                "aspect": "people",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "evil"
+            },
+            {
+                "aspect": "people",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "incompetent"
+            },
+            {
+                "aspect": "Cafe Noir",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "like"
+            }
+        ]
+    },
+    {
+        "sentence": "It 's very spicy but not offensive .",
+        "quards_str": "[['NULL', 'food quality', 'positive', 'not offensive']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "not offensive"
+            }
+        ]
+    },
+    {
+        "sentence": "First of all Dal Bukhara Rocks .",
+        "quards_str": "[['Dal Bukhara', 'food quality', 'positive', 'Rocks']]",
+        "quards": [
+            {
+                "aspect": "Dal Bukhara",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Rocks"
+            }
+        ]
+    },
+    {
+        "sentence": "The wine list is excellent .",
+        "quards_str": "[['wine list', 'drinks style_options', 'positive', 'excellent']]",
+        "quards": [
+            {
+                "aspect": "wine list",
+                "category": "drinks style_options",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            }
+        ]
+    },
+    {
+        "sentence": "However , our $ 14 drinks were were horrible !",
+        "quards_str": "[['drinks', 'drinks quality', 'negative', 'horrible'], ['drinks', 'drinks prices', 'negative', 'horrible']]",
+        "quards": [
+            {
+                "aspect": "drinks",
+                "category": "drinks quality",
+                "sentiment": "negative",
+                "opinion": "horrible"
+            },
+            {
+                "aspect": "drinks",
+                "category": "drinks prices",
+                "sentiment": "negative",
+                "opinion": "horrible"
+            }
+        ]
+    },
+    {
+        "sentence": "No desert menu , no apology , nothing ! ! ! ! ! !",
+        "quards_str": "[['NULL', 'service general', 'negative', 'no apology ']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "no apology "
+            }
+        ]
+    },
+    {
+        "sentence": "This is some really good , inexpensive sushi .",
+        "quards_str": "[['sushi', 'food quality', 'positive', 'good'], ['sushi', 'food prices', 'positive', 'inexpensive']]",
+        "quards": [
+            {
+                "aspect": "sushi",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "sushi",
+                "category": "food prices",
+                "sentiment": "positive",
+                "opinion": "inexpensive"
+            }
+        ]
+    },
+    {
+        "sentence": "I 've been there three times and have always had wonderful experiences .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'wonderful']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "wonderful"
+            }
+        ]
+    },
+    {
+        "sentence": "Took my mom for Mother 's Day , and the maitre d ' was pretty rude .",
+        "quards_str": "[[\"maitre d '\", 'service general', 'negative', 'rude']]",
+        "quards": [
+            {
+                "aspect": "maitre d '",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "rude"
+            }
+        ]
+    },
+    {
+        "sentence": "However , go for the ambience , and consider the food just a companion for a trip across the world !",
+        "quards_str": "[['food', 'food quality', 'neutral', 'a companion for a trip across the world ']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "neutral",
+                "opinion": "a companion for a trip across the world "
+            }
+        ]
+    },
+    {
+        "sentence": "Probably would not go back here .",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'would not go back']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "would not go back"
+            }
+        ]
+    },
+    {
+        "sentence": "Just want to warn you all - do n't waste your time and money .",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'waste']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "waste"
+            }
+        ]
+    },
+    {
+        "sentence": "The filet mignon dish was superb !",
+        "quards_str": "[['filet mignon dish', 'food quality', 'positive', 'superb']]",
+        "quards": [
+            {
+                "aspect": "filet mignon dish",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "superb"
+            }
+        ]
+    },
+    {
+        "sentence": "The only downside ... they only take cash which is OK if you know about it ahead of time .",
+        "quards_str": "[['NULL', 'restaurant miscellaneous', 'negative', 'downside']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant miscellaneous",
+                "sentiment": "negative",
+                "opinion": "downside"
+            }
+        ]
+    },
+    {
+        "sentence": "The service is ok , some of the people did n't get what they asked for .",
+        "quards_str": "[['service', 'service general', 'neutral', 'ok']]",
+        "quards": [
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "neutral",
+                "opinion": "ok"
+            }
+        ]
+    },
+    {
+        "sentence": "I have never before eaten 40 pieces of relatively good nigiri .",
+        "quards_str": "[['nigiri', 'food quality', 'neutral', 'good']]",
+        "quards": [
+            {
+                "aspect": "nigiri",
+                "category": "food quality",
+                "sentiment": "neutral",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "It is expensive but well worth the money .",
+        "quards_str": "[['NULL', 'restaurant prices', 'negative', 'expensive'], ['NULL', 'restaurant general', 'positive', 'well worth']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "negative",
+                "opinion": "expensive"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "well worth"
+            }
+        ]
+    },
+    {
+        "sentence": "The place 's decor and hidden bathrooms made for a good laugh .",
+        "quards_str": "[['decor', 'ambience general', 'positive', 'good laugh'], ['hidden bathrooms', 'ambience general', 'positive', 'good laugh']]",
+        "quards": [
+            {
+                "aspect": "decor",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "good laugh"
+            },
+            {
+                "aspect": "hidden bathrooms",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "good laugh"
+            }
+        ]
+    },
+    {
+        "sentence": "The lobster sandwich is $ 24 and although it was good it was not nearly enough to warrant that price .",
+        "quards_str": "[['lobster sandwich', 'food quality', 'positive', 'good'], ['lobster sandwich', 'food prices', 'negative', 'not nearly enough to warrant that price']]",
+        "quards": [
+            {
+                "aspect": "lobster sandwich",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "lobster sandwich",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "not nearly enough to warrant that price"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is very good , but not outstanding .",
+        "quards_str": "[['food', 'food quality', 'neutral', 'good']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "neutral",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "Downstairs lounge is always a good attraction",
+        "quards_str": "[['Downstairs lounge', 'ambience general', 'positive', 'good attraction']]",
+        "quards": [
+            {
+                "aspect": "Downstairs lounge",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "good attraction"
+            }
+        ]
+    },
+    {
+        "sentence": "The spicy Tuna roll is huge and probably the best that I 've had at this price range .",
+        "quards_str": "[['spicy Tuna roll', 'food style_options', 'positive', 'huge'], ['spicy Tuna roll', 'food quality', 'positive', 'best'], ['spicy Tuna roll', 'food prices', 'positive', 'best']]",
+        "quards": [
+            {
+                "aspect": "spicy Tuna roll",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "huge"
+            },
+            {
+                "aspect": "spicy Tuna roll",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "best"
+            },
+            {
+                "aspect": "spicy Tuna roll",
+                "category": "food prices",
+                "sentiment": "positive",
+                "opinion": "best"
+            }
+        ]
+    },
+    {
+        "sentence": "The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",
+        "quards_str": "[['chicken lollipop', 'food quality', 'positive', 'favorite'], ['dishes', 'food quality', 'negative', 'oily'], ['dishes', 'food quality', 'negative', 'spicy'], ['Chilli Chicken', 'food quality', 'negative', 'oily'], ['Chilli Chicken', 'food quality', 'negative', 'spicy']]",
+        "quards": [
+            {
+                "aspect": "chicken lollipop",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "favorite"
+            },
+            {
+                "aspect": "dishes",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "oily"
+            },
+            {
+                "aspect": "dishes",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "spicy"
+            },
+            {
+                "aspect": "Chilli Chicken",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "oily"
+            },
+            {
+                "aspect": "Chilli Chicken",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "spicy"
+            }
+        ]
+    },
+    {
+        "sentence": "Can 't argue about that , but they are clearly over priced .",
+        "quards_str": "[['NULL', 'food prices', 'negative', 'over priced']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "over priced"
+            }
+        ]
+    },
+    {
+        "sentence": "One special roll and one regular roll is enough to fill you up , but save room for dessert !",
+        "quards_str": "[['dessert', 'food quality', 'positive', 'save room'], ['special roll', 'food style_options', 'positive', 'enough'], ['regular roll', 'food style_options', 'positive', 'enough']]",
+        "quards": [
+            {
+                "aspect": "dessert",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "save room"
+            },
+            {
+                "aspect": "special roll",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "enough"
+            },
+            {
+                "aspect": "regular roll",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "enough"
+            }
+        ]
+    },
+    {
+        "sentence": "We were then shooed inside .",
+        "quards_str": "[['NULL', 'service general', 'negative', 'shooed']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "shooed"
+            }
+        ]
+    },
+    {
+        "sentence": "Inexpensive , unassuming , great time !",
+        "quards_str": "[['NULL', 'restaurant prices', 'positive', 'Inexpensive'], ['NULL', 'ambience general', 'positive', 'unassuming'], ['NULL', 'restaurant general', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "positive",
+                "opinion": "Inexpensive"
+            },
+            {
+                "aspect": "NULL",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "unassuming"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .",
+        "quards_str": "[['hanger steak', 'food quality', 'negative', 'rubber'], ['tuna', 'food quality', 'negative', 'flavorless']]",
+        "quards": [
+            {
+                "aspect": "hanger steak",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "rubber"
+            },
+            {
+                "aspect": "tuna",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "flavorless"
+            }
+        ]
+    },
+    {
+        "sentence": "Excellent spot for holiday get togethers with co-workers or friends that you have n't seen in a while .",
+        "quards_str": "[['spot', 'restaurant miscellaneous', 'positive', 'Excellent']]",
+        "quards": [
+            {
+                "aspect": "spot",
+                "category": "restaurant miscellaneous",
+                "sentiment": "positive",
+                "opinion": "Excellent"
+            }
+        ]
+    },
+    {
+        "sentence": "Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",
+        "quards_str": "[['salmon', 'food quality', 'negative', 'wasnt impressed'], ['chicken', 'food quality', 'positive', 'good'], ['servings for main entree', 'food general', 'negative', 'Small']]",
+        "quards": [
+            {
+                "aspect": "salmon",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "wasnt impressed"
+            },
+            {
+                "aspect": "chicken",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "servings for main entree",
+                "category": "food general",
+                "sentiment": "negative",
+                "opinion": "Small"
+            }
+        ]
+    },
+    {
+        "sentence": "It was divine melts in your mouth .",
+        "quards_str": "[['NULL', 'food quality', 'positive', 'divine']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "divine"
+            }
+        ]
+    },
+    {
+        "sentence": "My six year old loved it .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'loved']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "loved"
+            }
+        ]
+    },
+    {
+        "sentence": "Terrible Waste of money . . scammers",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'Terrible'], ['NULL', 'restaurant prices', 'negative', 'Waste of money']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "Terrible"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "negative",
+                "opinion": "Waste of money"
+            }
+        ]
+    },
+    {
+        "sentence": "Love it .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'Love']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "Love"
+            }
+        ]
+    },
+    {
+        "sentence": "You will not be disapointed at all .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'will not be disapointed']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "will not be disapointed"
+            }
+        ]
+    },
+    {
+        "sentence": "Food was just average ... if they lowered the prices just a bit , it would be a bigger draw .",
+        "quards_str": "[['Food', 'food quality', 'neutral', 'average']]",
+        "quards": [
+            {
+                "aspect": "Food",
+                "category": "food quality",
+                "sentiment": "neutral",
+                "opinion": "average"
+            }
+        ]
+    },
+    {
+        "sentence": "Everything was going good until we got our meals .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",
+        "quards_str": "[['Dining Garden', 'ambience general', 'positive', 'fantastic'], ['Jazz Bar', 'ambience general', 'positive', 'new'], ['Thin Crust Pizzas', 'food quality', 'positive', 'Best'], ['Lasagna Menu', 'food quality', 'positive', 'die for']]",
+        "quards": [
+            {
+                "aspect": "Dining Garden",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "fantastic"
+            },
+            {
+                "aspect": "Jazz Bar",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "new"
+            },
+            {
+                "aspect": "Thin Crust Pizzas",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Best"
+            },
+            {
+                "aspect": "Lasagna Menu",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "die for"
+            }
+        ]
+    },
+    {
+        "sentence": "After dinner the manager grabbed my boyfriend , asked him : Where are you from ... maybe you dont know how things work in America ... and in the end stormed away almost teareyed yelling that tips are the only thing they survive on .",
+        "quards_str": "[['manager', 'service general', 'negative', 'yelling']]",
+        "quards": [
+            {
+                "aspect": "manager",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "yelling"
+            }
+        ]
+    },
+    {
+        "sentence": "The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal",
+        "quards_str": "[['meal', 'food quality', 'positive', 'enjoy'], ['meal', 'food quality', 'positive', 'great'], ['restaurant', 'ambience general', 'negative', 'noisy']]",
+        "quards": [
+            {
+                "aspect": "meal",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "enjoy"
+            },
+            {
+                "aspect": "meal",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            },
+            {
+                "aspect": "restaurant",
+                "category": "ambience general",
+                "sentiment": "negative",
+                "opinion": "noisy"
+            }
+        ]
+    },
+    {
+        "sentence": "Do n't miss Bloom 's on your next trip to Manhatten .",
+        "quards_str": "[[\"Bloom 's\", 'restaurant general', 'positive', 'miss']]",
+        "quards": [
+            {
+                "aspect": "Bloom 's",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "miss"
+            }
+        ]
+    },
+    {
+        "sentence": "The food was good .",
+        "quards_str": "[['food', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "The atmosphere is unheralded , the service impecible , and the food magnificant .",
+        "quards_str": "[['atmosphere', 'ambience general', 'positive', 'unheralded'], ['service', 'service general', 'positive', 'impecible'], ['food', 'food quality', 'positive', 'magnificant']]",
+        "quards": [
+            {
+                "aspect": "atmosphere",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "unheralded"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "impecible"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "magnificant"
+            }
+        ]
+    },
+    {
+        "sentence": "Would NEVER go back there .",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'NEVER go back']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "NEVER go back"
+            }
+        ]
+    },
+    {
+        "sentence": "Two complaints -- their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .",
+        "quards_str": "[['appetizer selection', 'food style_options', 'negative', 'complaints']]",
+        "quards": [
+            {
+                "aspect": "appetizer selection",
+                "category": "food style_options",
+                "sentiment": "negative",
+                "opinion": "complaints"
+            }
+        ]
+    },
+    {
+        "sentence": "$ 6 and there is much tasty food , all of it fresh and continually refilled .",
+        "quards_str": "[['food', 'food quality', 'positive', 'tasty'], ['food', 'food quality', 'positive', 'fresh'], ['food', 'food prices', 'positive', 'refilled']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "tasty"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "fresh"
+            },
+            {
+                "aspect": "food",
+                "category": "food prices",
+                "sentiment": "positive",
+                "opinion": "refilled"
+            }
+        ]
+    },
+    {
+        "sentence": "The exotic food is beautifully presented and is a delight in delicious combinations .",
+        "quards_str": "[['exotic food', 'food style_options', 'positive', 'beautifully presented'], ['exotic food', 'food quality', 'positive', 'delight']]",
+        "quards": [
+            {
+                "aspect": "exotic food",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "beautifully presented"
+            },
+            {
+                "aspect": "exotic food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delight"
+            }
+        ]
+    },
+    {
+        "sentence": "A gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .",
+        "quards_str": "[['gentleman', 'service general', 'negative', 'without so much as a smile or greeting']]",
+        "quards": [
+            {
+                "aspect": "gentleman",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "without so much as a smile or greeting"
+            }
+        ]
+    },
+    {
+        "sentence": "I will be going back very soon .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'going back']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "going back"
+            }
+        ]
+    },
+    {
+        "sentence": "The food we ordered was excellent , although I would n't say the margaritas were anything to write home about .",
+        "quards_str": "[['food', 'food quality', 'positive', 'excellent'], ['margaritas', 'drinks quality', 'neutral', 'anything to write home about']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "excellent"
+            },
+            {
+                "aspect": "margaritas",
+                "category": "drinks quality",
+                "sentiment": "neutral",
+                "opinion": "anything to write home about"
+            }
+        ]
+    },
+    {
+        "sentence": "What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka . . some of which we never received !",
+        "quards_str": "[['NULL', 'service general', 'negative', 'never received']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "never received"
+            }
+        ]
+    },
+    {
+        "sentence": "But the pizza is way to expensive .",
+        "quards_str": "[['pizza', 'food prices', 'negative', 'expensive']]",
+        "quards": [
+            {
+                "aspect": "pizza",
+                "category": "food prices",
+                "sentiment": "negative",
+                "opinion": "expensive"
+            }
+        ]
+    },
+    {
+        "sentence": "Just straight up cheap , good food .",
+        "quards_str": "[['food', 'food quality', 'positive', 'good'], ['food', 'food prices', 'positive', 'cheap']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "food",
+                "category": "food prices",
+                "sentiment": "positive",
+                "opinion": "cheap"
+            }
+        ]
+    },
+    {
+        "sentence": "This dish is my favorite and I always get it when I go there and never get tired of it .",
+        "quards_str": "[['dish', 'food quality', 'positive', 'favorite']]",
+        "quards": [
+            {
+                "aspect": "dish",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "favorite"
+            }
+        ]
+    },
+    {
+        "sentence": "$ 20 for all you can eat sushi can not be beaten .",
+        "quards_str": "[['all you can eat sushi', 'food prices', 'positive', 'beaten']]",
+        "quards": [
+            {
+                "aspect": "all you can eat sushi",
+                "category": "food prices",
+                "sentiment": "positive",
+                "opinion": "beaten"
+            }
+        ]
+    },
+    {
+        "sentence": "We even had a visit from the Manager who wanted to make sure we were enjoying ourselves .",
+        "quards_str": "[['Manager', 'service general', 'positive', 'enjoying']]",
+        "quards": [
+            {
+                "aspect": "Manager",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "enjoying"
+            }
+        ]
+    },
+    {
+        "sentence": "I was shocked that my friends wanted to stay after the waitress said , `` can I help you `` and `` how many are in your party . ``",
+        "quards_str": "[['waitress', 'service general', 'negative', 'shocked']]",
+        "quards": [
+            {
+                "aspect": "waitress",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "shocked"
+            }
+        ]
+    },
+    {
+        "sentence": "The takeout is great too since they give high quality tupperware as well .",
+        "quards_str": "[['takeout', 'service general', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "takeout",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .",
+        "quards_str": "[['crabmeat lasagna', 'food quality', 'positive', 'out of this world']]",
+        "quards": [
+            {
+                "aspect": "crabmeat lasagna",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "out of this world"
+            }
+        ]
+    },
+    {
+        "sentence": "its just a fun place to go , not a five star restaraunt .",
+        "quards_str": "[['restaraunt', 'restaurant general', 'neutral', 'five star']]",
+        "quards": [
+            {
+                "aspect": "restaraunt",
+                "category": "restaurant general",
+                "sentiment": "neutral",
+                "opinion": "five star"
+            }
+        ]
+    },
+    {
+        "sentence": "Staff is very accomodating .",
+        "quards_str": "[['Staff', 'service general', 'positive', 'accomodating']]",
+        "quards": [
+            {
+                "aspect": "Staff",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "accomodating"
+            }
+        ]
+    },
+    {
+        "sentence": "He served me an Uni Hand roll , which I never had before , and let me tell you ... IT WAS HEAVEN !",
+        "quards_str": "[['Uni Hand roll', 'food quality', 'positive', 'HEAVEN']]",
+        "quards": [
+            {
+                "aspect": "Uni Hand roll",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "HEAVEN"
+            }
+        ]
+    },
+    {
+        "sentence": "Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .",
+        "quards_str": "[['Guacamole+shrimp appetizer', 'food quality', 'positive', 'great'], ['filet', 'food quality', 'positive', 'good'], ['frites', 'food quality', 'negative', \"did n't much like\"]]",
+        "quards": [
+            {
+                "aspect": "Guacamole+shrimp appetizer",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            },
+            {
+                "aspect": "filet",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "frites",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "did n't much like"
+            }
+        ]
+    },
+    {
+        "sentence": "The food however , is what one might expect .",
+        "quards_str": "[['food', 'food quality', 'negative', 'expect']]",
+        "quards": [
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "expect"
+            }
+        ]
+    },
+    {
+        "sentence": "We had fun eating in there , we were there like around 3 a .m . in the morning !",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'had fun']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "had fun"
+            }
+        ]
+    },
+    {
+        "sentence": "Will prob . not return but it is a great dinning experience to try atleast once .",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'not return'], ['NULL', 'restaurant general', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "not return"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "Great sushi experience .",
+        "quards_str": "[['sushi', 'food quality', 'positive', 'Great']]",
+        "quards": [
+            {
+                "aspect": "sushi",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Great"
+            }
+        ]
+    },
+    {
+        "sentence": "Great pizza and fantastic service .",
+        "quards_str": "[['pizza', 'food quality', 'positive', 'Great'], ['service', 'service general', 'positive', 'fantastic']]",
+        "quards": [
+            {
+                "aspect": "pizza",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "Great"
+            },
+            {
+                "aspect": "service",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "fantastic"
+            }
+        ]
+    },
+    {
+        "sentence": "On our last visit , they skipped over our name on the list , leaving us waiting an extra hour for a table .",
+        "quards_str": "[['NULL', 'service general', 'negative', 'waiting an extra hour']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "negative",
+                "opinion": "waiting an extra hour"
+            }
+        ]
+    },
+    {
+        "sentence": "Have been dozens of times and never failed to enjoy the experience .",
+        "quards_str": "[['NULL', 'restaurant general', 'positive', 'enjoy']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "enjoy"
+            }
+        ]
+    },
+    {
+        "sentence": "I 'm glad I was introduced to this place and this is a rare gem in NY .",
+        "quards_str": "[['place', 'restaurant general', 'positive', 'glad']]",
+        "quards": [
+            {
+                "aspect": "place",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "glad"
+            }
+        ]
+    },
+    {
+        "sentence": "Easily the worst stir-fried squid I 've ever tasted .",
+        "quards_str": "[['stir-fried squid', 'food quality', 'negative', 'worst']]",
+        "quards": [
+            {
+                "aspect": "stir-fried squid",
+                "category": "food quality",
+                "sentiment": "negative",
+                "opinion": "worst"
+            }
+        ]
+    },
+    {
+        "sentence": "With the theater 2 blocks away we had a delicious meal in a beautiful room .",
+        "quards_str": "[['meal', 'food quality', 'positive', 'delicious'], ['room', 'ambience general', 'positive', 'beautiful'], ['NULL', 'location general', 'positive', '2 blocks away']]",
+        "quards": [
+            {
+                "aspect": "meal",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            },
+            {
+                "aspect": "room",
+                "category": "ambience general",
+                "sentiment": "positive",
+                "opinion": "beautiful"
+            },
+            {
+                "aspect": "NULL",
+                "category": "location general",
+                "sentiment": "positive",
+                "opinion": "2 blocks away"
+            }
+        ]
+    },
+    {
+        "sentence": "But nonetheless -- great spot , great food .",
+        "quards_str": "[['spot', 'restaurant general', 'positive', 'great'], ['food', 'food quality', 'positive', 'great']]",
+        "quards": [
+            {
+                "aspect": "spot",
+                "category": "restaurant general",
+                "sentiment": "positive",
+                "opinion": "great"
+            },
+            {
+                "aspect": "food",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "great"
+            }
+        ]
+    },
+    {
+        "sentence": "Our visit their to say the least , was an unpleasant and costly experience !",
+        "quards_str": "[['NULL', 'restaurant general', 'negative', 'unpleasant'], ['NULL', 'restaurant prices', 'negative', 'costly']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "restaurant general",
+                "sentiment": "negative",
+                "opinion": "unpleasant"
+            },
+            {
+                "aspect": "NULL",
+                "category": "restaurant prices",
+                "sentiment": "negative",
+                "opinion": "costly"
+            }
+        ]
+    },
+    {
+        "sentence": "Consistently good Japanese Tapas .",
+        "quards_str": "[['Japanese Tapas', 'food quality', 'positive', 'good']]",
+        "quards": [
+            {
+                "aspect": "Japanese Tapas",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            }
+        ]
+    },
+    {
+        "sentence": "The food is prepared quickly and efficiently .",
+        "quards_str": "[['NULL', 'service general', 'positive', 'quickly'], ['NULL', 'service general', 'positive', 'efficiently']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "quickly"
+            },
+            {
+                "aspect": "NULL",
+                "category": "service general",
+                "sentiment": "positive",
+                "opinion": "efficiently"
+            }
+        ]
+    },
+    {
+        "sentence": "It is simply amazing .",
+        "quards_str": "[['NULL', 'food quality', 'positive', 'amazing']]",
+        "quards": [
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "amazing"
+            }
+        ]
+    },
+    {
+        "sentence": "If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious .",
+        "quards_str": "[['marinara/arrabiatta sauce', 'food quality', 'positive', 'try'], ['marinara/arrabiatta sauce', 'food quality', 'positive', 'delicious'], ['mozzarella en Carozza', 'food quality', 'positive', 'delicious'], ['NULL', 'food quality', 'positive', 'delicious']]",
+        "quards": [
+            {
+                "aspect": "marinara/arrabiatta sauce",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "try"
+            },
+            {
+                "aspect": "marinara/arrabiatta sauce",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            },
+            {
+                "aspect": "mozzarella en Carozza",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            },
+            {
+                "aspect": "NULL",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "delicious"
+            }
+        ]
+    },
+    {
+        "sentence": "The pizza was pretty good and huge .",
+        "quards_str": "[['pizza', 'food quality', 'positive', 'good'], ['pizza', 'food style_options', 'positive', 'huge']]",
+        "quards": [
+            {
+                "aspect": "pizza",
+                "category": "food quality",
+                "sentiment": "positive",
+                "opinion": "good"
+            },
+            {
+                "aspect": "pizza",
+                "category": "food style_options",
+                "sentiment": "positive",
+                "opinion": "huge"
+            }
+        ]
+    }
+]

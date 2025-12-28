@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs / outputs
+*.log
+output_data/
+wandb/
+runs/
+checkpoints/
+
+# OS
+.DS_Store
