@@ -7,18 +7,15 @@ This repository provides the official open-source implementation of the paper:
 
 ## Overview
 
-Recent work leverages knowledge distillation to build lightweight yet practical sentiment analysis models, often relying on (i) human-written instructions and (ii) large-scale user-generated texts. Despite promising results, two challenges remain:
-
-1. **Limited instruction diversity**: Manually written instructions are constrained in both quantity and coverage, which prevents comprehensive knowledge distillation.
-2. **High computational cost**: Using massive user text corpora can be expensive, reducing practicality.
-
-To address these issues, we propose **CompEffDist**, a comprehensive and efficient distillation framework for sentiment analysis. It consists of two core modules:
+We propose **CompEffDist**, a comprehensive and efficient distillation framework for sentiment analysis. It consists of two core modules:
 
 * **Attribute-based Automatic Instruction Construction**: automatically builds diverse instruction sets from extracted attributes.
 * **Difficulty-based Data Filtering**: prioritizes and samples training data by difficulty to improve efficiency.
 
-Across multiple model families (**Llama-3**, **Qwen-3**, **Gemma-3**), our **3B** student models can match the performance of teacher models that are **~20× larger** on most tasks. Moreover, CompEffDist is highly data-efficient, reaching comparable performance using only **10%** of the data.
-![Architecture](images/image.png)
+Across multiple model families (**Llama-3**, **Qwen-3**, **Gemma-3**), our **3B** student models can match the performance of teacher models that are **~20× larger** on most tasks.
+<p align="center">
+<img src="images/image.png" alt="CompEffDist Framework Architecture" width="400">
+</p>
 
 ---
 
